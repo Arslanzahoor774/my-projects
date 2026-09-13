@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+venv310/
+deepface_env/
+virtual/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Mac junk
+.DS_Store
+__MACOSX/
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model & data files (large binaries)
+*.pkl
+*.pth
+
+# Zip files
+*.zip
+
+# Environment variables
+.env

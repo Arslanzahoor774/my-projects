@@ -1,0 +1,3720 @@
+userId,movieId,rating,title,genres,year,year_bucket
+1,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+1,17,3.5,Titanic,Comedy,2012,2010s
+1,3,4.5,Forrest Gump,Animation,1993,1990s
+1,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+1,9,3.5,Fight Club,Animation,2015,2010s
+1,46,3.0,Blade Runner 2049,Romance,2012,2010s
+1,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+1,21,3.0,Harry Potter,Romance,2013,2010s
+1,22,4.5,Lord of the Rings,Action,2015,2010s
+2,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+2,43,4.0,The Departed,Adventure,2001,2000s
+2,4,4.0,The Matrix,Romance,1991,1990s
+2,12,4.5,The Godfather,Animation,2003,2000s
+2,14,4.0,Toy Story,Drama,2004,2000s
+2,5,4.5,Interstellar,Horror,1995,1990s
+2,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+2,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+2,28,2.5,Parasite,Drama,1996,1990s
+2,48,4.0,Annihilation,Thriller,2011,2010s
+2,3,4.5,Forrest Gump,Animation,1993,1990s
+2,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+2,13,4.0,Avengers: Endgame,Animation,2020,2020s
+2,16,3.0,The Lion King,Romance,2003,2000s
+3,35,4.5,Dunkirk,Horror,2006,2000s
+3,13,4.5,Avengers: Endgame,Animation,2020,2020s
+3,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+3,38,4.5,Rocketman,Horror,1994,1990s
+3,6,4.0,Pulp Fiction,Adventure,1993,1990s
+3,45,5.0,There Will Be Blood,Adventure,2022,2020s
+3,9,4.5,Fight Club,Animation,2015,2010s
+3,12,5.0,The Godfather,Animation,2003,2000s
+3,49,3.0,Arrival,Horror,2016,2010s
+3,26,4.0,Batman Begins,Action,1990,1990s
+3,31,4.0,Whiplash,Documentary,1990,1990s
+3,22,5.0,Lord of the Rings,Action,2015,2010s
+3,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+3,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+3,17,4.5,Titanic,Comedy,2012,2010s
+3,10,5.0,The Silence of the Lambs,Romance,2023,2020s
+3,44,4.5,No Country for Old Men,Documentary,2023,2020s
+3,18,4.5,Avatar,Animation,2010,2010s
+3,25,4.0,Spider-Man,Documentary,2004,2000s
+3,27,4.0,The Joker,Adventure,2014,2010s
+3,21,4.0,Harry Potter,Romance,2013,2010s
+3,5,3.5,Interstellar,Horror,1995,1990s
+3,20,4.5,Star Wars,Comedy,2007,2000s
+4,35,3.0,Dunkirk,Horror,2006,2000s
+4,13,4.5,Avengers: Endgame,Animation,2020,2020s
+4,41,5.0,The Wolf of Wall Street,Documentary,1998,1990s
+4,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+4,5,4.0,Interstellar,Horror,1995,1990s
+4,9,4.0,Fight Club,Animation,2015,2010s
+4,50,4.0,Gravity,Animation,1990,1990s
+4,39,4.5,The Social Network,Comedy,2017,2010s
+4,40,3.5,Moneyball,Thriller,1996,1990s
+4,3,5.0,Forrest Gump,Animation,1993,1990s
+4,18,4.5,Avatar,Animation,2010,2010s
+4,36,3.0,1917,Romance,1997,1990s
+4,48,4.0,Annihilation,Thriller,2011,2010s
+4,24,4.5,Iron Man,Sci-Fi,2018,2010s
+4,29,3.5,Get Out,Horror,1998,1990s
+4,16,3.0,The Lion King,Romance,2003,2000s
+4,20,3.5,Star Wars,Comedy,2007,2000s
+4,8,3.5,Goodfellas,Horror,2007,2000s
+4,49,3.5,Arrival,Horror,2016,2010s
+4,46,3.5,Blade Runner 2049,Romance,2012,2010s
+4,4,3.5,The Matrix,Romance,1991,1990s
+5,5,2.5,Interstellar,Horror,1995,1990s
+5,38,3.0,Rocketman,Horror,1994,1990s
+5,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+5,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+5,1,3.0,The Dark Knight,Horror,2003,2000s
+5,29,3.5,Get Out,Horror,1998,1990s
+5,50,3.5,Gravity,Animation,1990,1990s
+5,44,3.5,No Country for Old Men,Documentary,2023,2020s
+5,3,4.0,Forrest Gump,Animation,1993,1990s
+5,28,4.5,Parasite,Drama,1996,1990s
+5,4,3.0,The Matrix,Romance,1991,1990s
+5,39,3.5,The Social Network,Comedy,2017,2010s
+5,13,3.5,Avengers: Endgame,Animation,2020,2020s
+5,20,3.5,Star Wars,Comedy,2007,2000s
+5,11,4.0,Schindler's List,Thriller,1999,1990s
+5,2,3.5,Inception,Thriller,2006,2000s
+5,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+5,48,3.5,Annihilation,Thriller,2011,2010s
+5,9,4.5,Fight Club,Animation,2015,2010s
+5,24,4.5,Iron Man,Sci-Fi,2018,2010s
+5,27,3.5,The Joker,Adventure,2014,2010s
+5,36,3.0,1917,Romance,1997,1990s
+5,14,4.5,Toy Story,Drama,2004,2000s
+5,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+5,22,3.5,Lord of the Rings,Action,2015,2010s
+5,47,3.0,Ex Machina,Comedy,2013,2010s
+5,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+5,45,3.0,There Will Be Blood,Adventure,2022,2020s
+6,29,2.0,Get Out,Horror,1998,1990s
+6,16,2.5,The Lion King,Romance,2003,2000s
+6,50,2.5,Gravity,Animation,1990,1990s
+6,36,2.5,1917,Romance,1997,1990s
+6,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+6,43,3.0,The Departed,Adventure,2001,2000s
+6,26,3.5,Batman Begins,Action,1990,1990s
+6,47,3.0,Ex Machina,Comedy,2013,2010s
+7,21,3.0,Harry Potter,Romance,2013,2010s
+7,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+7,49,2.5,Arrival,Horror,2016,2010s
+7,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+7,17,2.5,Titanic,Comedy,2012,2010s
+7,31,2.5,Whiplash,Documentary,1990,1990s
+7,48,2.5,Annihilation,Thriller,2011,2010s
+7,35,2.5,Dunkirk,Horror,2006,2000s
+7,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+7,36,2.5,1917,Romance,1997,1990s
+7,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+7,39,2.5,The Social Network,Comedy,2017,2010s
+7,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+7,44,2.5,No Country for Old Men,Documentary,2023,2020s
+7,1,3.0,The Dark Knight,Horror,2003,2000s
+7,22,3.5,Lord of the Rings,Action,2015,2010s
+7,20,3.0,Star Wars,Comedy,2007,2000s
+7,13,3.0,Avengers: Endgame,Animation,2020,2020s
+7,23,3.0,The Hobbit,Adventure,2014,2010s
+7,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+7,26,3.0,Batman Begins,Action,1990,1990s
+7,18,3.0,Avatar,Animation,2010,2010s
+7,16,2.5,The Lion King,Romance,2003,2000s
+7,32,3.0,La La Land,Drama,1997,1990s
+7,8,2.5,Goodfellas,Horror,2007,2000s
+7,6,3.5,Pulp Fiction,Adventure,1993,1990s
+7,47,2.5,Ex Machina,Comedy,2013,2010s
+7,24,2.5,Iron Man,Sci-Fi,2018,2010s
+7,2,3.0,Inception,Thriller,2006,2000s
+8,39,4.0,The Social Network,Comedy,2017,2010s
+8,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+8,24,4.0,Iron Man,Sci-Fi,2018,2010s
+8,9,4.0,Fight Club,Animation,2015,2010s
+8,25,4.0,Spider-Man,Documentary,2004,2000s
+8,8,3.5,Goodfellas,Horror,2007,2000s
+8,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+8,5,4.0,Interstellar,Horror,1995,1990s
+8,35,4.0,Dunkirk,Horror,2006,2000s
+9,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+9,23,4.0,The Hobbit,Adventure,2014,2010s
+9,22,5.0,Lord of the Rings,Action,2015,2010s
+9,45,4.5,There Will Be Blood,Adventure,2022,2020s
+9,1,4.0,The Dark Knight,Horror,2003,2000s
+9,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+9,49,4.0,Arrival,Horror,2016,2010s
+9,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+9,2,4.5,Inception,Thriller,2006,2000s
+9,11,3.5,Schindler's List,Thriller,1999,1990s
+9,5,3.5,Interstellar,Horror,1995,1990s
+9,13,5.0,Avengers: Endgame,Animation,2020,2020s
+9,43,4.0,The Departed,Adventure,2001,2000s
+9,19,5.0,Jurassic Park,Sci-Fi,2005,2000s
+9,40,4.5,Moneyball,Thriller,1996,1990s
+9,6,3.5,Pulp Fiction,Adventure,1993,1990s
+9,9,4.0,Fight Club,Animation,2015,2010s
+9,4,4.0,The Matrix,Romance,1991,1990s
+9,31,4.5,Whiplash,Documentary,1990,1990s
+10,1,3.5,The Dark Knight,Horror,2003,2000s
+10,35,4.5,Dunkirk,Horror,2006,2000s
+10,2,4.0,Inception,Thriller,2006,2000s
+10,15,5.0,Finding Nemo,Sci-Fi,1997,1990s
+10,48,4.5,Annihilation,Thriller,2011,2010s
+10,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+10,21,4.5,Harry Potter,Romance,2013,2010s
+10,5,4.0,Interstellar,Horror,1995,1990s
+10,36,4.5,1917,Romance,1997,1990s
+10,29,4.5,Get Out,Horror,1998,1990s
+10,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+10,27,4.0,The Joker,Adventure,2014,2010s
+10,23,4.0,The Hobbit,Adventure,2014,2010s
+10,25,5.0,Spider-Man,Documentary,2004,2000s
+11,28,3.0,Parasite,Drama,1996,1990s
+11,38,3.5,Rocketman,Horror,1994,1990s
+11,11,3.0,Schindler's List,Thriller,1999,1990s
+11,27,3.5,The Joker,Adventure,2014,2010s
+11,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+11,17,3.0,Titanic,Comedy,2012,2010s
+11,40,3.5,Moneyball,Thriller,1996,1990s
+11,1,2.5,The Dark Knight,Horror,2003,2000s
+11,20,3.5,Star Wars,Comedy,2007,2000s
+11,31,3.0,Whiplash,Documentary,1990,1990s
+11,24,3.0,Iron Man,Sci-Fi,2018,2010s
+11,32,3.5,La La Land,Drama,1997,1990s
+11,43,4.0,The Departed,Adventure,2001,2000s
+11,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+11,45,3.0,There Will Be Blood,Adventure,2022,2020s
+11,25,3.0,Spider-Man,Documentary,2004,2000s
+11,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+11,9,4.5,Fight Club,Animation,2015,2010s
+11,13,4.0,Avengers: Endgame,Animation,2020,2020s
+11,44,3.5,No Country for Old Men,Documentary,2023,2020s
+11,22,3.5,Lord of the Rings,Action,2015,2010s
+11,5,3.0,Interstellar,Horror,1995,1990s
+11,29,2.5,Get Out,Horror,1998,1990s
+11,48,3.5,Annihilation,Thriller,2011,2010s
+11,46,3.0,Blade Runner 2049,Romance,2012,2010s
+12,17,3.0,Titanic,Comedy,2012,2010s
+12,49,3.5,Arrival,Horror,2016,2010s
+12,3,4.0,Forrest Gump,Animation,1993,1990s
+12,4,3.5,The Matrix,Romance,1991,1990s
+12,11,4.0,Schindler's List,Thriller,1999,1990s
+12,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+12,28,4.0,Parasite,Drama,1996,1990s
+12,9,4.0,Fight Club,Animation,2015,2010s
+12,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+13,39,4.0,The Social Network,Comedy,2017,2010s
+13,28,4.0,Parasite,Drama,1996,1990s
+13,35,3.5,Dunkirk,Horror,2006,2000s
+13,5,3.0,Interstellar,Horror,1995,1990s
+13,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+13,2,3.5,Inception,Thriller,2006,2000s
+13,32,4.5,La La Land,Drama,1997,1990s
+13,29,2.5,Get Out,Horror,1998,1990s
+13,8,3.5,Goodfellas,Horror,2007,2000s
+13,14,4.5,Toy Story,Drama,2004,2000s
+13,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+13,36,3.5,1917,Romance,1997,1990s
+13,20,4.0,Star Wars,Comedy,2007,2000s
+14,3,5.0,Forrest Gump,Animation,1993,1990s
+14,35,4.5,Dunkirk,Horror,2006,2000s
+14,46,5.0,Blade Runner 2049,Romance,2012,2010s
+14,5,5.0,Interstellar,Horror,1995,1990s
+14,39,4.5,The Social Network,Comedy,2017,2010s
+14,1,4.0,The Dark Knight,Horror,2003,2000s
+14,9,5.0,Fight Club,Animation,2015,2010s
+14,48,5.0,Annihilation,Thriller,2011,2010s
+14,6,4.5,Pulp Fiction,Adventure,1993,1990s
+14,24,5.0,Iron Man,Sci-Fi,2018,2010s
+14,42,5.0,Catch Me If You Can,Comedy,1997,1990s
+14,49,4.0,Arrival,Horror,2016,2010s
+14,40,4.5,Moneyball,Thriller,1996,1990s
+14,33,4.5,The Grand Budapest Hotel,Romance,2013,2010s
+14,41,5.0,The Wolf of Wall Street,Documentary,1998,1990s
+14,44,5.0,No Country for Old Men,Documentary,2023,2020s
+14,37,5.0,Bohemian Rhapsody,Documentary,2022,2020s
+14,20,4.0,Star Wars,Comedy,2007,2000s
+14,26,5.0,Batman Begins,Action,1990,1990s
+14,23,4.5,The Hobbit,Adventure,2014,2010s
+14,32,5.0,La La Land,Drama,1997,1990s
+14,12,5.0,The Godfather,Animation,2003,2000s
+14,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+14,47,5.0,Ex Machina,Comedy,2013,2010s
+14,31,4.0,Whiplash,Documentary,1990,1990s
+15,49,3.5,Arrival,Horror,2016,2010s
+15,38,3.5,Rocketman,Horror,1994,1990s
+15,26,4.0,Batman Begins,Action,1990,1990s
+15,20,3.0,Star Wars,Comedy,2007,2000s
+15,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+15,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+15,12,3.5,The Godfather,Animation,2003,2000s
+15,16,3.5,The Lion King,Romance,2003,2000s
+15,27,3.0,The Joker,Adventure,2014,2010s
+15,44,3.5,No Country for Old Men,Documentary,2023,2020s
+15,50,4.0,Gravity,Animation,1990,1990s
+15,1,3.0,The Dark Knight,Horror,2003,2000s
+15,5,2.5,Interstellar,Horror,1995,1990s
+15,8,3.0,Goodfellas,Horror,2007,2000s
+15,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+15,23,4.0,The Hobbit,Adventure,2014,2010s
+15,39,3.5,The Social Network,Comedy,2017,2010s
+15,24,4.0,Iron Man,Sci-Fi,2018,2010s
+15,31,3.5,Whiplash,Documentary,1990,1990s
+15,6,4.0,Pulp Fiction,Adventure,1993,1990s
+15,4,2.5,The Matrix,Romance,1991,1990s
+15,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+15,40,3.0,Moneyball,Thriller,1996,1990s
+15,46,3.0,Blade Runner 2049,Romance,2012,2010s
+15,43,3.5,The Departed,Adventure,2001,2000s
+15,17,4.0,Titanic,Comedy,2012,2010s
+16,13,4.5,Avengers: Endgame,Animation,2020,2020s
+16,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+16,17,4.5,Titanic,Comedy,2012,2010s
+16,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+16,29,3.5,Get Out,Horror,1998,1990s
+16,46,5.0,Blade Runner 2049,Romance,2012,2010s
+16,40,5.0,Moneyball,Thriller,1996,1990s
+16,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+16,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+16,44,4.5,No Country for Old Men,Documentary,2023,2020s
+16,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+16,48,4.5,Annihilation,Thriller,2011,2010s
+16,28,5.0,Parasite,Drama,1996,1990s
+16,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+16,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+16,24,4.5,Iron Man,Sci-Fi,2018,2010s
+16,5,4.0,Interstellar,Horror,1995,1990s
+16,15,5.0,Finding Nemo,Sci-Fi,1997,1990s
+16,31,4.5,Whiplash,Documentary,1990,1990s
+16,26,4.5,Batman Begins,Action,1990,1990s
+16,49,4.0,Arrival,Horror,2016,2010s
+16,47,4.5,Ex Machina,Comedy,2013,2010s
+16,4,4.0,The Matrix,Romance,1991,1990s
+16,35,4.0,Dunkirk,Horror,2006,2000s
+16,50,4.5,Gravity,Animation,1990,1990s
+17,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+17,32,4.0,La La Land,Drama,1997,1990s
+17,12,4.0,The Godfather,Animation,2003,2000s
+17,46,3.5,Blade Runner 2049,Romance,2012,2010s
+17,36,4.0,1917,Romance,1997,1990s
+17,48,3.5,Annihilation,Thriller,2011,2010s
+17,26,4.0,Batman Begins,Action,1990,1990s
+17,47,3.0,Ex Machina,Comedy,2013,2010s
+17,45,4.0,There Will Be Blood,Adventure,2022,2020s
+18,46,4.5,Blade Runner 2049,Romance,2012,2010s
+18,22,4.0,Lord of the Rings,Action,2015,2010s
+18,14,4.5,Toy Story,Drama,2004,2000s
+18,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+18,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+18,44,4.5,No Country for Old Men,Documentary,2023,2020s
+18,3,3.5,Forrest Gump,Animation,1993,1990s
+18,28,4.5,Parasite,Drama,1996,1990s
+18,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+18,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+18,40,4.0,Moneyball,Thriller,1996,1990s
+18,5,4.5,Interstellar,Horror,1995,1990s
+18,8,4.5,Goodfellas,Horror,2007,2000s
+18,12,4.0,The Godfather,Animation,2003,2000s
+18,25,4.0,Spider-Man,Documentary,2004,2000s
+18,20,4.0,Star Wars,Comedy,2007,2000s
+18,33,4.5,The Grand Budapest Hotel,Romance,2013,2010s
+18,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+18,16,3.5,The Lion King,Romance,2003,2000s
+18,2,4.5,Inception,Thriller,2006,2000s
+18,1,3.5,The Dark Knight,Horror,2003,2000s
+18,23,4.0,The Hobbit,Adventure,2014,2010s
+18,38,4.0,Rocketman,Horror,1994,1990s
+18,24,4.5,Iron Man,Sci-Fi,2018,2010s
+18,27,4.0,The Joker,Adventure,2014,2010s
+18,9,5.0,Fight Club,Animation,2015,2010s
+18,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+18,13,4.0,Avengers: Endgame,Animation,2020,2020s
+18,31,4.0,Whiplash,Documentary,1990,1990s
+18,39,3.5,The Social Network,Comedy,2017,2010s
+19,35,4.0,Dunkirk,Horror,2006,2000s
+19,2,4.0,Inception,Thriller,2006,2000s
+19,5,3.0,Interstellar,Horror,1995,1990s
+19,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+19,4,3.5,The Matrix,Romance,1991,1990s
+19,28,4.0,Parasite,Drama,1996,1990s
+19,1,4.0,The Dark Knight,Horror,2003,2000s
+19,27,4.5,The Joker,Adventure,2014,2010s
+19,46,3.5,Blade Runner 2049,Romance,2012,2010s
+19,6,4.5,Pulp Fiction,Adventure,1993,1990s
+19,47,4.5,Ex Machina,Comedy,2013,2010s
+19,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+19,29,3.0,Get Out,Horror,1998,1990s
+19,16,3.5,The Lion King,Romance,2003,2000s
+19,38,4.0,Rocketman,Horror,1994,1990s
+19,31,4.0,Whiplash,Documentary,1990,1990s
+19,8,4.0,Goodfellas,Horror,2007,2000s
+19,13,4.5,Avengers: Endgame,Animation,2020,2020s
+19,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+19,45,4.0,There Will Be Blood,Adventure,2022,2020s
+20,1,3.0,The Dark Knight,Horror,2003,2000s
+20,35,3.0,Dunkirk,Horror,2006,2000s
+20,28,4.5,Parasite,Drama,1996,1990s
+20,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+20,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+20,32,4.0,La La Land,Drama,1997,1990s
+20,45,3.5,There Will Be Blood,Adventure,2022,2020s
+20,38,3.0,Rocketman,Horror,1994,1990s
+20,40,4.0,Moneyball,Thriller,1996,1990s
+20,49,3.5,Arrival,Horror,2016,2010s
+20,18,5.0,Avatar,Animation,2010,2010s
+20,3,4.0,Forrest Gump,Animation,1993,1990s
+20,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+20,8,3.5,Goodfellas,Horror,2007,2000s
+21,23,3.0,The Hobbit,Adventure,2014,2010s
+21,50,3.0,Gravity,Animation,1990,1990s
+21,27,3.5,The Joker,Adventure,2014,2010s
+21,44,3.0,No Country for Old Men,Documentary,2023,2020s
+21,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+21,8,2.0,Goodfellas,Horror,2007,2000s
+21,29,3.0,Get Out,Horror,1998,1990s
+21,3,3.5,Forrest Gump,Animation,1993,1990s
+21,2,3.0,Inception,Thriller,2006,2000s
+21,35,1.5,Dunkirk,Horror,2006,2000s
+21,32,3.5,La La Land,Drama,1997,1990s
+21,39,3.5,The Social Network,Comedy,2017,2010s
+21,5,3.5,Interstellar,Horror,1995,1990s
+21,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+21,9,3.5,Fight Club,Animation,2015,2010s
+21,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+21,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+21,14,3.5,Toy Story,Drama,2004,2000s
+21,21,3.0,Harry Potter,Romance,2013,2010s
+21,26,3.5,Batman Begins,Action,1990,1990s
+21,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+21,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+21,16,2.5,The Lion King,Romance,2003,2000s
+22,2,3.5,Inception,Thriller,2006,2000s
+22,46,3.0,Blade Runner 2049,Romance,2012,2010s
+22,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+22,45,4.0,There Will Be Blood,Adventure,2022,2020s
+22,35,3.0,Dunkirk,Horror,2006,2000s
+22,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+22,44,4.5,No Country for Old Men,Documentary,2023,2020s
+22,28,3.5,Parasite,Drama,1996,1990s
+22,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+22,26,3.5,Batman Begins,Action,1990,1990s
+22,1,4.0,The Dark Knight,Horror,2003,2000s
+22,8,3.0,Goodfellas,Horror,2007,2000s
+22,17,3.0,Titanic,Comedy,2012,2010s
+22,22,3.0,Lord of the Rings,Action,2015,2010s
+22,23,3.5,The Hobbit,Adventure,2014,2010s
+22,3,4.0,Forrest Gump,Animation,1993,1990s
+22,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+22,5,4.0,Interstellar,Horror,1995,1990s
+23,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+23,13,4.5,Avengers: Endgame,Animation,2020,2020s
+23,43,4.0,The Departed,Adventure,2001,2000s
+23,25,4.0,Spider-Man,Documentary,2004,2000s
+23,44,4.5,No Country for Old Men,Documentary,2023,2020s
+23,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+23,33,4.5,The Grand Budapest Hotel,Romance,2013,2010s
+23,19,5.0,Jurassic Park,Sci-Fi,2005,2000s
+23,5,3.0,Interstellar,Horror,1995,1990s
+23,18,5.0,Avatar,Animation,2010,2010s
+23,49,3.5,Arrival,Horror,2016,2010s
+23,11,5.0,Schindler's List,Thriller,1999,1990s
+23,31,4.0,Whiplash,Documentary,1990,1990s
+23,16,4.0,The Lion King,Romance,2003,2000s
+23,46,3.5,Blade Runner 2049,Romance,2012,2010s
+23,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+23,6,4.5,Pulp Fiction,Adventure,1993,1990s
+23,23,5.0,The Hobbit,Adventure,2014,2010s
+23,45,4.0,There Will Be Blood,Adventure,2022,2020s
+23,1,3.5,The Dark Knight,Horror,2003,2000s
+23,50,5.0,Gravity,Animation,1990,1990s
+23,29,3.5,Get Out,Horror,1998,1990s
+23,3,5.0,Forrest Gump,Animation,1993,1990s
+23,2,4.5,Inception,Thriller,2006,2000s
+23,17,4.5,Titanic,Comedy,2012,2010s
+23,39,4.5,The Social Network,Comedy,2017,2010s
+24,24,4.0,Iron Man,Sci-Fi,2018,2010s
+24,48,4.5,Annihilation,Thriller,2011,2010s
+24,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+24,46,4.5,Blade Runner 2049,Romance,2012,2010s
+24,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+24,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+25,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+25,5,3.0,Interstellar,Horror,1995,1990s
+25,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+25,13,4.0,Avengers: Endgame,Animation,2020,2020s
+25,50,3.5,Gravity,Animation,1990,1990s
+25,46,3.0,Blade Runner 2049,Romance,2012,2010s
+25,43,4.0,The Departed,Adventure,2001,2000s
+25,11,3.5,Schindler's List,Thriller,1999,1990s
+25,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+25,36,3.0,1917,Romance,1997,1990s
+25,45,3.0,There Will Be Blood,Adventure,2022,2020s
+25,44,3.5,No Country for Old Men,Documentary,2023,2020s
+25,18,4.0,Avatar,Animation,2010,2010s
+25,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+25,38,3.0,Rocketman,Horror,1994,1990s
+25,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+25,17,3.5,Titanic,Comedy,2012,2010s
+25,12,5.0,The Godfather,Animation,2003,2000s
+25,32,4.0,La La Land,Drama,1997,1990s
+26,6,3.5,Pulp Fiction,Adventure,1993,1990s
+26,43,3.5,The Departed,Adventure,2001,2000s
+26,32,4.0,La La Land,Drama,1997,1990s
+26,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+26,13,4.0,Avengers: Endgame,Animation,2020,2020s
+26,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+26,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+26,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+26,27,3.5,The Joker,Adventure,2014,2010s
+26,18,4.0,Avatar,Animation,2010,2010s
+26,1,3.5,The Dark Knight,Horror,2003,2000s
+26,21,3.5,Harry Potter,Romance,2013,2010s
+26,20,3.0,Star Wars,Comedy,2007,2000s
+26,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+26,39,3.5,The Social Network,Comedy,2017,2010s
+26,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+26,5,3.0,Interstellar,Horror,1995,1990s
+26,37,2.5,Bohemian Rhapsody,Documentary,2022,2020s
+26,47,3.5,Ex Machina,Comedy,2013,2010s
+26,3,4.0,Forrest Gump,Animation,1993,1990s
+26,12,4.5,The Godfather,Animation,2003,2000s
+26,26,3.5,Batman Begins,Action,1990,1990s
+26,46,3.0,Blade Runner 2049,Romance,2012,2010s
+26,16,2.5,The Lion King,Romance,2003,2000s
+27,32,3.0,La La Land,Drama,1997,1990s
+27,22,3.0,Lord of the Rings,Action,2015,2010s
+27,6,3.5,Pulp Fiction,Adventure,1993,1990s
+27,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+27,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+27,4,2.5,The Matrix,Romance,1991,1990s
+27,2,3.5,Inception,Thriller,2006,2000s
+27,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+27,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+27,5,2.5,Interstellar,Horror,1995,1990s
+27,18,3.5,Avatar,Animation,2010,2010s
+27,16,2.0,The Lion King,Romance,2003,2000s
+27,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+27,3,3.0,Forrest Gump,Animation,1993,1990s
+27,12,3.5,The Godfather,Animation,2003,2000s
+27,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+27,1,2.5,The Dark Knight,Horror,2003,2000s
+27,47,3.5,Ex Machina,Comedy,2013,2010s
+27,28,3.0,Parasite,Drama,1996,1990s
+27,25,2.5,Spider-Man,Documentary,2004,2000s
+27,39,3.0,The Social Network,Comedy,2017,2010s
+27,31,3.0,Whiplash,Documentary,1990,1990s
+27,46,3.0,Blade Runner 2049,Romance,2012,2010s
+27,11,3.0,Schindler's List,Thriller,1999,1990s
+27,43,3.0,The Departed,Adventure,2001,2000s
+27,50,4.0,Gravity,Animation,1990,1990s
+27,36,2.0,1917,Romance,1997,1990s
+27,23,3.0,The Hobbit,Adventure,2014,2010s
+27,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+28,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+28,13,5.0,Avengers: Endgame,Animation,2020,2020s
+28,49,4.0,Arrival,Horror,2016,2010s
+28,29,4.5,Get Out,Horror,1998,1990s
+28,6,5.0,Pulp Fiction,Adventure,1993,1990s
+28,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+28,26,4.5,Batman Begins,Action,1990,1990s
+28,50,4.0,Gravity,Animation,1990,1990s
+28,20,3.5,Star Wars,Comedy,2007,2000s
+28,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+28,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+28,17,3.5,Titanic,Comedy,2012,2010s
+28,14,4.5,Toy Story,Drama,2004,2000s
+28,47,4.0,Ex Machina,Comedy,2013,2010s
+28,27,5.0,The Joker,Adventure,2014,2010s
+28,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+28,40,3.5,Moneyball,Thriller,1996,1990s
+28,44,4.5,No Country for Old Men,Documentary,2023,2020s
+28,5,4.0,Interstellar,Horror,1995,1990s
+28,2,4.0,Inception,Thriller,2006,2000s
+28,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+29,12,4.5,The Godfather,Animation,2003,2000s
+29,25,3.5,Spider-Man,Documentary,2004,2000s
+29,39,3.0,The Social Network,Comedy,2017,2010s
+29,16,4.0,The Lion King,Romance,2003,2000s
+29,29,3.5,Get Out,Horror,1998,1990s
+29,27,4.0,The Joker,Adventure,2014,2010s
+29,44,4.0,No Country for Old Men,Documentary,2023,2020s
+29,14,5.0,Toy Story,Drama,2004,2000s
+29,40,4.5,Moneyball,Thriller,1996,1990s
+29,36,3.5,1917,Romance,1997,1990s
+29,49,3.5,Arrival,Horror,2016,2010s
+29,18,4.5,Avatar,Animation,2010,2010s
+29,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+29,20,4.0,Star Wars,Comedy,2007,2000s
+29,9,4.5,Fight Club,Animation,2015,2010s
+29,6,5.0,Pulp Fiction,Adventure,1993,1990s
+29,8,3.5,Goodfellas,Horror,2007,2000s
+29,26,3.5,Batman Begins,Action,1990,1990s
+29,50,5.0,Gravity,Animation,1990,1990s
+30,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+30,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+30,26,3.0,Batman Begins,Action,1990,1990s
+30,25,3.5,Spider-Man,Documentary,2004,2000s
+30,20,3.5,Star Wars,Comedy,2007,2000s
+30,1,3.0,The Dark Knight,Horror,2003,2000s
+30,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+30,36,4.0,1917,Romance,1997,1990s
+30,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+30,40,4.0,Moneyball,Thriller,1996,1990s
+30,39,3.0,The Social Network,Comedy,2017,2010s
+30,2,4.5,Inception,Thriller,2006,2000s
+30,12,4.5,The Godfather,Animation,2003,2000s
+30,43,4.5,The Departed,Adventure,2001,2000s
+30,24,4.0,Iron Man,Sci-Fi,2018,2010s
+30,22,4.0,Lord of the Rings,Action,2015,2010s
+30,21,3.5,Harry Potter,Romance,2013,2010s
+30,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+30,29,2.5,Get Out,Horror,1998,1990s
+30,48,4.0,Annihilation,Thriller,2011,2010s
+30,44,3.0,No Country for Old Men,Documentary,2023,2020s
+30,16,3.0,The Lion King,Romance,2003,2000s
+30,23,4.0,The Hobbit,Adventure,2014,2010s
+30,46,3.0,Blade Runner 2049,Romance,2012,2010s
+30,50,4.5,Gravity,Animation,1990,1990s
+30,13,3.5,Avengers: Endgame,Animation,2020,2020s
+30,5,3.0,Interstellar,Horror,1995,1990s
+31,16,3.5,The Lion King,Romance,2003,2000s
+31,6,4.0,Pulp Fiction,Adventure,1993,1990s
+31,5,3.5,Interstellar,Horror,1995,1990s
+31,50,4.5,Gravity,Animation,1990,1990s
+31,46,3.0,Blade Runner 2049,Romance,2012,2010s
+31,3,5.0,Forrest Gump,Animation,1993,1990s
+31,9,4.5,Fight Club,Animation,2015,2010s
+31,44,3.5,No Country for Old Men,Documentary,2023,2020s
+31,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+31,35,3.5,Dunkirk,Horror,2006,2000s
+31,47,4.0,Ex Machina,Comedy,2013,2010s
+31,12,4.5,The Godfather,Animation,2003,2000s
+31,2,4.0,Inception,Thriller,2006,2000s
+31,28,4.0,Parasite,Drama,1996,1990s
+31,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+31,11,4.0,Schindler's List,Thriller,1999,1990s
+31,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+31,49,3.0,Arrival,Horror,2016,2010s
+31,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+31,38,3.5,Rocketman,Horror,1994,1990s
+31,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+31,24,4.0,Iron Man,Sci-Fi,2018,2010s
+31,14,4.0,Toy Story,Drama,2004,2000s
+31,18,4.5,Avatar,Animation,2010,2010s
+31,26,4.0,Batman Begins,Action,1990,1990s
+31,20,3.5,Star Wars,Comedy,2007,2000s
+31,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+32,33,2.0,The Grand Budapest Hotel,Romance,2013,2010s
+32,23,2.5,The Hobbit,Adventure,2014,2010s
+32,24,2.5,Iron Man,Sci-Fi,2018,2010s
+32,32,4.0,La La Land,Drama,1997,1990s
+32,48,2.5,Annihilation,Thriller,2011,2010s
+32,43,3.0,The Departed,Adventure,2001,2000s
+32,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+32,31,2.5,Whiplash,Documentary,1990,1990s
+32,44,3.0,No Country for Old Men,Documentary,2023,2020s
+32,29,2.0,Get Out,Horror,1998,1990s
+32,22,2.5,Lord of the Rings,Action,2015,2010s
+32,1,2.0,The Dark Knight,Horror,2003,2000s
+32,15,2.5,Finding Nemo,Sci-Fi,1997,1990s
+32,8,2.5,Goodfellas,Horror,2007,2000s
+32,38,2.5,Rocketman,Horror,1994,1990s
+33,13,4.0,Avengers: Endgame,Animation,2020,2020s
+33,31,3.5,Whiplash,Documentary,1990,1990s
+33,40,2.5,Moneyball,Thriller,1996,1990s
+33,32,3.5,La La Land,Drama,1997,1990s
+33,18,3.5,Avatar,Animation,2010,2010s
+33,47,3.0,Ex Machina,Comedy,2013,2010s
+33,43,3.0,The Departed,Adventure,2001,2000s
+33,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+33,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+33,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+33,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+33,11,3.5,Schindler's List,Thriller,1999,1990s
+33,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+33,14,4.0,Toy Story,Drama,2004,2000s
+33,23,3.5,The Hobbit,Adventure,2014,2010s
+33,4,3.0,The Matrix,Romance,1991,1990s
+33,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+33,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+34,12,5.0,The Godfather,Animation,2003,2000s
+34,44,4.5,No Country for Old Men,Documentary,2023,2020s
+34,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+34,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+34,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+34,29,3.5,Get Out,Horror,1998,1990s
+34,46,3.0,Blade Runner 2049,Romance,2012,2010s
+34,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+34,43,4.5,The Departed,Adventure,2001,2000s
+34,27,4.5,The Joker,Adventure,2014,2010s
+34,3,4.5,Forrest Gump,Animation,1993,1990s
+34,48,4.0,Annihilation,Thriller,2011,2010s
+34,23,4.0,The Hobbit,Adventure,2014,2010s
+34,16,4.5,The Lion King,Romance,2003,2000s
+35,38,2.5,Rocketman,Horror,1994,1990s
+35,14,5.0,Toy Story,Drama,2004,2000s
+35,18,4.5,Avatar,Animation,2010,2010s
+35,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+35,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+35,44,4.0,No Country for Old Men,Documentary,2023,2020s
+35,15,5.0,Finding Nemo,Sci-Fi,1997,1990s
+35,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+35,26,4.5,Batman Begins,Action,1990,1990s
+35,31,4.0,Whiplash,Documentary,1990,1990s
+35,3,5.0,Forrest Gump,Animation,1993,1990s
+35,40,4.5,Moneyball,Thriller,1996,1990s
+35,39,4.0,The Social Network,Comedy,2017,2010s
+35,25,3.5,Spider-Man,Documentary,2004,2000s
+35,6,4.0,Pulp Fiction,Adventure,1993,1990s
+35,23,3.5,The Hobbit,Adventure,2014,2010s
+35,48,4.5,Annihilation,Thriller,2011,2010s
+35,35,4.5,Dunkirk,Horror,2006,2000s
+35,47,3.0,Ex Machina,Comedy,2013,2010s
+35,49,3.5,Arrival,Horror,2016,2010s
+35,46,3.5,Blade Runner 2049,Romance,2012,2010s
+36,22,4.0,Lord of the Rings,Action,2015,2010s
+36,11,4.5,Schindler's List,Thriller,1999,1990s
+36,45,4.0,There Will Be Blood,Adventure,2022,2020s
+36,49,3.5,Arrival,Horror,2016,2010s
+36,48,4.5,Annihilation,Thriller,2011,2010s
+36,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+36,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+36,16,4.0,The Lion King,Romance,2003,2000s
+36,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+36,6,3.5,Pulp Fiction,Adventure,1993,1990s
+36,12,4.0,The Godfather,Animation,2003,2000s
+37,28,4.0,Parasite,Drama,1996,1990s
+37,3,4.0,Forrest Gump,Animation,1993,1990s
+37,18,3.5,Avatar,Animation,2010,2010s
+37,49,3.5,Arrival,Horror,2016,2010s
+37,24,4.0,Iron Man,Sci-Fi,2018,2010s
+37,14,4.0,Toy Story,Drama,2004,2000s
+37,13,4.0,Avengers: Endgame,Animation,2020,2020s
+37,12,5.0,The Godfather,Animation,2003,2000s
+37,26,3.0,Batman Begins,Action,1990,1990s
+37,23,4.0,The Hobbit,Adventure,2014,2010s
+37,50,4.5,Gravity,Animation,1990,1990s
+37,7,2.5,The Shawshank Redemption,Drama,2018,2010s
+37,29,3.5,Get Out,Horror,1998,1990s
+37,2,3.5,Inception,Thriller,2006,2000s
+37,44,3.5,No Country for Old Men,Documentary,2023,2020s
+37,27,3.5,The Joker,Adventure,2014,2010s
+37,38,3.5,Rocketman,Horror,1994,1990s
+37,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+37,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+38,49,3.0,Arrival,Horror,2016,2010s
+38,17,3.5,Titanic,Comedy,2012,2010s
+38,28,3.5,Parasite,Drama,1996,1990s
+38,32,4.0,La La Land,Drama,1997,1990s
+38,26,4.5,Batman Begins,Action,1990,1990s
+38,39,3.5,The Social Network,Comedy,2017,2010s
+38,9,4.5,Fight Club,Animation,2015,2010s
+38,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+38,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+38,11,4.5,Schindler's List,Thriller,1999,1990s
+38,44,4.5,No Country for Old Men,Documentary,2023,2020s
+38,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+38,21,3.0,Harry Potter,Romance,2013,2010s
+38,46,3.5,Blade Runner 2049,Romance,2012,2010s
+38,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+38,29,3.0,Get Out,Horror,1998,1990s
+38,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+38,36,4.0,1917,Romance,1997,1990s
+38,18,4.5,Avatar,Animation,2010,2010s
+38,3,4.5,Forrest Gump,Animation,1993,1990s
+38,14,4.0,Toy Story,Drama,2004,2000s
+38,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+38,8,3.0,Goodfellas,Horror,2007,2000s
+39,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+39,38,2.5,Rocketman,Horror,1994,1990s
+39,50,3.5,Gravity,Animation,1990,1990s
+39,4,3.5,The Matrix,Romance,1991,1990s
+39,36,3.5,1917,Romance,1997,1990s
+39,8,3.5,Goodfellas,Horror,2007,2000s
+39,32,3.5,La La Land,Drama,1997,1990s
+39,1,3.0,The Dark Knight,Horror,2003,2000s
+39,40,3.0,Moneyball,Thriller,1996,1990s
+40,22,3.5,Lord of the Rings,Action,2015,2010s
+40,12,4.0,The Godfather,Animation,2003,2000s
+40,39,3.0,The Social Network,Comedy,2017,2010s
+40,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+40,20,2.5,Star Wars,Comedy,2007,2000s
+40,23,2.5,The Hobbit,Adventure,2014,2010s
+40,2,3.0,Inception,Thriller,2006,2000s
+40,3,4.0,Forrest Gump,Animation,1993,1990s
+40,14,3.5,Toy Story,Drama,2004,2000s
+40,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+40,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+41,24,4.0,Iron Man,Sci-Fi,2018,2010s
+41,8,3.5,Goodfellas,Horror,2007,2000s
+41,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+41,23,3.5,The Hobbit,Adventure,2014,2010s
+41,48,3.5,Annihilation,Thriller,2011,2010s
+41,40,3.5,Moneyball,Thriller,1996,1990s
+41,20,4.5,Star Wars,Comedy,2007,2000s
+41,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+41,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+41,5,2.5,Interstellar,Horror,1995,1990s
+41,12,4.5,The Godfather,Animation,2003,2000s
+41,16,3.5,The Lion King,Romance,2003,2000s
+41,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+41,45,3.5,There Will Be Blood,Adventure,2022,2020s
+41,32,4.0,La La Land,Drama,1997,1990s
+41,50,4.0,Gravity,Animation,1990,1990s
+41,14,4.0,Toy Story,Drama,2004,2000s
+41,3,3.0,Forrest Gump,Animation,1993,1990s
+41,1,3.0,The Dark Knight,Horror,2003,2000s
+41,35,3.0,Dunkirk,Horror,2006,2000s
+41,27,4.0,The Joker,Adventure,2014,2010s
+41,29,4.5,Get Out,Horror,1998,1990s
+41,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+42,25,3.5,Spider-Man,Documentary,2004,2000s
+42,26,4.5,Batman Begins,Action,1990,1990s
+42,46,3.5,Blade Runner 2049,Romance,2012,2010s
+42,40,4.0,Moneyball,Thriller,1996,1990s
+42,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+42,8,4.0,Goodfellas,Horror,2007,2000s
+42,38,3.0,Rocketman,Horror,1994,1990s
+42,27,3.5,The Joker,Adventure,2014,2010s
+42,45,3.5,There Will Be Blood,Adventure,2022,2020s
+42,31,4.5,Whiplash,Documentary,1990,1990s
+42,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+42,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+42,24,5.0,Iron Man,Sci-Fi,2018,2010s
+42,44,4.0,No Country for Old Men,Documentary,2023,2020s
+43,40,4.5,Moneyball,Thriller,1996,1990s
+43,4,4.0,The Matrix,Romance,1991,1990s
+43,11,4.0,Schindler's List,Thriller,1999,1990s
+43,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+43,20,3.5,Star Wars,Comedy,2007,2000s
+43,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+43,8,4.0,Goodfellas,Horror,2007,2000s
+43,6,4.0,Pulp Fiction,Adventure,1993,1990s
+43,46,4.0,Blade Runner 2049,Romance,2012,2010s
+43,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+43,18,4.5,Avatar,Animation,2010,2010s
+43,2,4.5,Inception,Thriller,2006,2000s
+43,23,4.0,The Hobbit,Adventure,2014,2010s
+43,38,4.0,Rocketman,Horror,1994,1990s
+43,47,4.0,Ex Machina,Comedy,2013,2010s
+43,14,5.0,Toy Story,Drama,2004,2000s
+43,43,4.5,The Departed,Adventure,2001,2000s
+43,27,3.5,The Joker,Adventure,2014,2010s
+43,21,3.5,Harry Potter,Romance,2013,2010s
+43,12,4.5,The Godfather,Animation,2003,2000s
+43,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+43,36,4.0,1917,Romance,1997,1990s
+43,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+43,31,4.5,Whiplash,Documentary,1990,1990s
+43,35,4.0,Dunkirk,Horror,2006,2000s
+43,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+43,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+43,24,4.5,Iron Man,Sci-Fi,2018,2010s
+44,25,2.5,Spider-Man,Documentary,2004,2000s
+44,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+44,36,3.0,1917,Romance,1997,1990s
+44,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+44,27,2.5,The Joker,Adventure,2014,2010s
+44,40,3.0,Moneyball,Thriller,1996,1990s
+44,24,3.0,Iron Man,Sci-Fi,2018,2010s
+44,20,2.0,Star Wars,Comedy,2007,2000s
+44,1,3.0,The Dark Knight,Horror,2003,2000s
+44,2,3.0,Inception,Thriller,2006,2000s
+44,14,3.0,Toy Story,Drama,2004,2000s
+44,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+44,38,3.0,Rocketman,Horror,1994,1990s
+45,36,3.5,1917,Romance,1997,1990s
+45,48,4.0,Annihilation,Thriller,2011,2010s
+45,17,3.0,Titanic,Comedy,2012,2010s
+45,11,3.5,Schindler's List,Thriller,1999,1990s
+45,44,3.5,No Country for Old Men,Documentary,2023,2020s
+45,27,3.5,The Joker,Adventure,2014,2010s
+45,9,4.0,Fight Club,Animation,2015,2010s
+45,25,4.0,Spider-Man,Documentary,2004,2000s
+46,13,4.5,Avengers: Endgame,Animation,2020,2020s
+46,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+46,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+46,9,4.0,Fight Club,Animation,2015,2010s
+46,23,3.5,The Hobbit,Adventure,2014,2010s
+46,8,2.5,Goodfellas,Horror,2007,2000s
+46,26,4.0,Batman Begins,Action,1990,1990s
+46,43,4.0,The Departed,Adventure,2001,2000s
+46,45,3.0,There Will Be Blood,Adventure,2022,2020s
+46,1,3.5,The Dark Knight,Horror,2003,2000s
+46,6,4.0,Pulp Fiction,Adventure,1993,1990s
+46,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+46,49,2.5,Arrival,Horror,2016,2010s
+46,12,4.0,The Godfather,Animation,2003,2000s
+46,17,3.0,Titanic,Comedy,2012,2010s
+46,39,4.0,The Social Network,Comedy,2017,2010s
+46,18,4.5,Avatar,Animation,2010,2010s
+46,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+46,27,4.0,The Joker,Adventure,2014,2010s
+46,46,4.0,Blade Runner 2049,Romance,2012,2010s
+47,6,4.0,Pulp Fiction,Adventure,1993,1990s
+47,25,3.5,Spider-Man,Documentary,2004,2000s
+47,1,2.5,The Dark Knight,Horror,2003,2000s
+47,36,2.5,1917,Romance,1997,1990s
+47,32,2.5,La La Land,Drama,1997,1990s
+47,4,2.0,The Matrix,Romance,1991,1990s
+47,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+47,44,3.0,No Country for Old Men,Documentary,2023,2020s
+47,9,3.5,Fight Club,Animation,2015,2010s
+47,21,2.0,Harry Potter,Romance,2013,2010s
+47,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+47,5,3.0,Interstellar,Horror,1995,1990s
+47,18,3.5,Avatar,Animation,2010,2010s
+47,35,2.0,Dunkirk,Horror,2006,2000s
+47,50,3.5,Gravity,Animation,1990,1990s
+48,31,3.5,Whiplash,Documentary,1990,1990s
+48,20,3.0,Star Wars,Comedy,2007,2000s
+48,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+48,35,3.5,Dunkirk,Horror,2006,2000s
+48,9,5.0,Fight Club,Animation,2015,2010s
+48,27,4.5,The Joker,Adventure,2014,2010s
+48,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+48,25,3.5,Spider-Man,Documentary,2004,2000s
+48,39,4.0,The Social Network,Comedy,2017,2010s
+48,1,4.0,The Dark Knight,Horror,2003,2000s
+48,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+48,12,4.0,The Godfather,Animation,2003,2000s
+48,50,4.0,Gravity,Animation,1990,1990s
+48,17,4.5,Titanic,Comedy,2012,2010s
+48,21,3.5,Harry Potter,Romance,2013,2010s
+48,16,2.0,The Lion King,Romance,2003,2000s
+48,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+48,38,3.5,Rocketman,Horror,1994,1990s
+48,43,4.5,The Departed,Adventure,2001,2000s
+48,5,3.5,Interstellar,Horror,1995,1990s
+48,14,4.5,Toy Story,Drama,2004,2000s
+48,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+48,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+48,2,4.0,Inception,Thriller,2006,2000s
+49,18,4.5,Avatar,Animation,2010,2010s
+49,44,4.0,No Country for Old Men,Documentary,2023,2020s
+49,49,3.5,Arrival,Horror,2016,2010s
+49,36,4.0,1917,Romance,1997,1990s
+49,20,4.0,Star Wars,Comedy,2007,2000s
+49,21,3.5,Harry Potter,Romance,2013,2010s
+49,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+49,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+49,9,4.5,Fight Club,Animation,2015,2010s
+49,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+49,5,3.5,Interstellar,Horror,1995,1990s
+49,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+49,1,3.5,The Dark Knight,Horror,2003,2000s
+49,12,4.5,The Godfather,Animation,2003,2000s
+49,11,4.5,Schindler's List,Thriller,1999,1990s
+49,27,4.5,The Joker,Adventure,2014,2010s
+49,46,3.5,Blade Runner 2049,Romance,2012,2010s
+50,5,3.0,Interstellar,Horror,1995,1990s
+50,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+50,16,2.5,The Lion King,Romance,2003,2000s
+50,36,3.5,1917,Romance,1997,1990s
+50,40,4.0,Moneyball,Thriller,1996,1990s
+50,4,3.0,The Matrix,Romance,1991,1990s
+50,6,3.0,Pulp Fiction,Adventure,1993,1990s
+50,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+50,31,3.5,Whiplash,Documentary,1990,1990s
+50,8,3.5,Goodfellas,Horror,2007,2000s
+50,14,4.0,Toy Story,Drama,2004,2000s
+50,43,3.5,The Departed,Adventure,2001,2000s
+50,24,3.0,Iron Man,Sci-Fi,2018,2010s
+50,35,3.0,Dunkirk,Horror,2006,2000s
+50,28,3.5,Parasite,Drama,1996,1990s
+50,50,3.5,Gravity,Animation,1990,1990s
+50,11,3.5,Schindler's List,Thriller,1999,1990s
+50,3,4.0,Forrest Gump,Animation,1993,1990s
+50,38,3.5,Rocketman,Horror,1994,1990s
+50,26,4.0,Batman Begins,Action,1990,1990s
+51,25,4.0,Spider-Man,Documentary,2004,2000s
+51,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+51,30,5.0,A Beautiful Mind,Thriller,2013,2010s
+51,5,4.0,Interstellar,Horror,1995,1990s
+51,46,5.0,Blade Runner 2049,Romance,2012,2010s
+51,11,4.5,Schindler's List,Thriller,1999,1990s
+51,27,4.5,The Joker,Adventure,2014,2010s
+51,39,4.0,The Social Network,Comedy,2017,2010s
+51,20,4.0,Star Wars,Comedy,2007,2000s
+51,23,4.5,The Hobbit,Adventure,2014,2010s
+51,47,5.0,Ex Machina,Comedy,2013,2010s
+51,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+51,3,5.0,Forrest Gump,Animation,1993,1990s
+51,48,4.5,Annihilation,Thriller,2011,2010s
+51,21,3.5,Harry Potter,Romance,2013,2010s
+51,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+51,14,4.5,Toy Story,Drama,2004,2000s
+51,44,4.5,No Country for Old Men,Documentary,2023,2020s
+51,43,4.0,The Departed,Adventure,2001,2000s
+51,15,5.0,Finding Nemo,Sci-Fi,1997,1990s
+51,9,5.0,Fight Club,Animation,2015,2010s
+51,29,4.5,Get Out,Horror,1998,1990s
+51,6,5.0,Pulp Fiction,Adventure,1993,1990s
+51,45,4.5,There Will Be Blood,Adventure,2022,2020s
+51,33,4.5,The Grand Budapest Hotel,Romance,2013,2010s
+51,40,5.0,Moneyball,Thriller,1996,1990s
+51,24,5.0,Iron Man,Sci-Fi,2018,2010s
+51,31,5.0,Whiplash,Documentary,1990,1990s
+52,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+52,4,3.0,The Matrix,Romance,1991,1990s
+52,23,3.5,The Hobbit,Adventure,2014,2010s
+52,17,3.0,Titanic,Comedy,2012,2010s
+52,50,4.0,Gravity,Animation,1990,1990s
+52,35,3.0,Dunkirk,Horror,2006,2000s
+52,36,2.5,1917,Romance,1997,1990s
+52,24,4.0,Iron Man,Sci-Fi,2018,2010s
+52,16,3.0,The Lion King,Romance,2003,2000s
+52,6,3.0,Pulp Fiction,Adventure,1993,1990s
+52,48,4.0,Annihilation,Thriller,2011,2010s
+52,47,3.5,Ex Machina,Comedy,2013,2010s
+52,14,3.5,Toy Story,Drama,2004,2000s
+52,18,3.5,Avatar,Animation,2010,2010s
+52,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+52,49,2.5,Arrival,Horror,2016,2010s
+52,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+52,43,3.5,The Departed,Adventure,2001,2000s
+52,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+52,20,3.0,Star Wars,Comedy,2007,2000s
+52,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+52,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+52,21,3.5,Harry Potter,Romance,2013,2010s
+52,32,4.0,La La Land,Drama,1997,1990s
+52,39,3.0,The Social Network,Comedy,2017,2010s
+52,31,3.5,Whiplash,Documentary,1990,1990s
+52,22,3.5,Lord of the Rings,Action,2015,2010s
+53,22,3.0,Lord of the Rings,Action,2015,2010s
+53,29,3.5,Get Out,Horror,1998,1990s
+53,12,3.5,The Godfather,Animation,2003,2000s
+53,43,4.5,The Departed,Adventure,2001,2000s
+53,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+53,38,3.5,Rocketman,Horror,1994,1990s
+53,21,3.0,Harry Potter,Romance,2013,2010s
+53,45,3.5,There Will Be Blood,Adventure,2022,2020s
+53,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+53,18,4.0,Avatar,Animation,2010,2010s
+53,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+53,9,4.0,Fight Club,Animation,2015,2010s
+53,11,4.0,Schindler's List,Thriller,1999,1990s
+53,31,3.5,Whiplash,Documentary,1990,1990s
+53,39,3.0,The Social Network,Comedy,2017,2010s
+54,8,3.5,Goodfellas,Horror,2007,2000s
+54,36,3.0,1917,Romance,1997,1990s
+54,35,3.0,Dunkirk,Horror,2006,2000s
+54,29,3.0,Get Out,Horror,1998,1990s
+54,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+54,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+54,21,3.5,Harry Potter,Romance,2013,2010s
+54,23,4.0,The Hobbit,Adventure,2014,2010s
+54,25,3.0,Spider-Man,Documentary,2004,2000s
+54,50,4.5,Gravity,Animation,1990,1990s
+54,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+54,49,2.5,Arrival,Horror,2016,2010s
+54,2,3.5,Inception,Thriller,2006,2000s
+54,26,3.5,Batman Begins,Action,1990,1990s
+55,38,2.5,Rocketman,Horror,1994,1990s
+55,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+55,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+55,3,4.0,Forrest Gump,Animation,1993,1990s
+55,9,4.0,Fight Club,Animation,2015,2010s
+55,24,4.0,Iron Man,Sci-Fi,2018,2010s
+55,20,4.0,Star Wars,Comedy,2007,2000s
+55,29,2.5,Get Out,Horror,1998,1990s
+55,39,2.5,The Social Network,Comedy,2017,2010s
+55,36,3.0,1917,Romance,1997,1990s
+55,5,2.5,Interstellar,Horror,1995,1990s
+55,32,3.0,La La Land,Drama,1997,1990s
+55,50,3.5,Gravity,Animation,1990,1990s
+55,1,3.0,The Dark Knight,Horror,2003,2000s
+55,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+55,23,4.0,The Hobbit,Adventure,2014,2010s
+55,46,2.5,Blade Runner 2049,Romance,2012,2010s
+55,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+55,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+55,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+55,25,2.5,Spider-Man,Documentary,2004,2000s
+55,14,4.0,Toy Story,Drama,2004,2000s
+55,28,3.5,Parasite,Drama,1996,1990s
+55,31,3.5,Whiplash,Documentary,1990,1990s
+55,8,2.5,Goodfellas,Horror,2007,2000s
+56,47,2.5,Ex Machina,Comedy,2013,2010s
+56,31,3.0,Whiplash,Documentary,1990,1990s
+56,17,3.0,Titanic,Comedy,2012,2010s
+56,48,3.0,Annihilation,Thriller,2011,2010s
+56,28,4.0,Parasite,Drama,1996,1990s
+56,16,3.5,The Lion King,Romance,2003,2000s
+56,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+56,25,4.0,Spider-Man,Documentary,2004,2000s
+56,14,3.0,Toy Story,Drama,2004,2000s
+56,46,3.5,Blade Runner 2049,Romance,2012,2010s
+56,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+56,40,4.0,Moneyball,Thriller,1996,1990s
+56,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+57,3,2.5,Forrest Gump,Animation,1993,1990s
+57,18,4.0,Avatar,Animation,2010,2010s
+57,43,3.0,The Departed,Adventure,2001,2000s
+57,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+57,14,3.5,Toy Story,Drama,2004,2000s
+57,50,3.0,Gravity,Animation,1990,1990s
+57,21,2.5,Harry Potter,Romance,2013,2010s
+57,24,2.5,Iron Man,Sci-Fi,2018,2010s
+57,17,3.0,Titanic,Comedy,2012,2010s
+57,5,2.5,Interstellar,Horror,1995,1990s
+57,45,3.0,There Will Be Blood,Adventure,2022,2020s
+57,31,3.5,Whiplash,Documentary,1990,1990s
+57,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+57,11,3.0,Schindler's List,Thriller,1999,1990s
+57,6,2.5,Pulp Fiction,Adventure,1993,1990s
+57,49,2.0,Arrival,Horror,2016,2010s
+57,4,3.0,The Matrix,Romance,1991,1990s
+57,1,3.0,The Dark Knight,Horror,2003,2000s
+57,23,3.0,The Hobbit,Adventure,2014,2010s
+57,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+57,44,2.5,No Country for Old Men,Documentary,2023,2020s
+57,35,3.0,Dunkirk,Horror,2006,2000s
+57,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+57,46,3.5,Blade Runner 2049,Romance,2012,2010s
+58,29,2.5,Get Out,Horror,1998,1990s
+58,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+58,49,3.5,Arrival,Horror,2016,2010s
+58,43,3.5,The Departed,Adventure,2001,2000s
+58,38,4.0,Rocketman,Horror,1994,1990s
+58,16,3.5,The Lion King,Romance,2003,2000s
+58,25,4.0,Spider-Man,Documentary,2004,2000s
+58,21,3.0,Harry Potter,Romance,2013,2010s
+58,26,3.5,Batman Begins,Action,1990,1990s
+58,18,4.0,Avatar,Animation,2010,2010s
+58,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+59,29,3.5,Get Out,Horror,1998,1990s
+59,17,3.5,Titanic,Comedy,2012,2010s
+59,31,3.5,Whiplash,Documentary,1990,1990s
+59,5,2.5,Interstellar,Horror,1995,1990s
+59,35,3.5,Dunkirk,Horror,2006,2000s
+59,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+59,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+59,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+59,47,4.0,Ex Machina,Comedy,2013,2010s
+59,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+59,1,3.0,The Dark Knight,Horror,2003,2000s
+60,38,2.5,Rocketman,Horror,1994,1990s
+60,8,1.5,Goodfellas,Horror,2007,2000s
+60,40,2.5,Moneyball,Thriller,1996,1990s
+60,4,2.0,The Matrix,Romance,1991,1990s
+60,36,2.0,1917,Romance,1997,1990s
+60,24,3.0,Iron Man,Sci-Fi,2018,2010s
+60,5,2.0,Interstellar,Horror,1995,1990s
+60,31,2.5,Whiplash,Documentary,1990,1990s
+60,12,2.5,The Godfather,Animation,2003,2000s
+60,47,2.0,Ex Machina,Comedy,2013,2010s
+60,18,4.0,Avatar,Animation,2010,2010s
+60,9,3.0,Fight Club,Animation,2015,2010s
+60,27,2.0,The Joker,Adventure,2014,2010s
+60,2,3.0,Inception,Thriller,2006,2000s
+60,1,2.5,The Dark Knight,Horror,2003,2000s
+61,40,4.0,Moneyball,Thriller,1996,1990s
+61,38,3.5,Rocketman,Horror,1994,1990s
+61,3,3.5,Forrest Gump,Animation,1993,1990s
+61,16,3.0,The Lion King,Romance,2003,2000s
+61,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+61,43,4.5,The Departed,Adventure,2001,2000s
+61,14,4.0,Toy Story,Drama,2004,2000s
+61,27,3.5,The Joker,Adventure,2014,2010s
+62,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+62,27,4.0,The Joker,Adventure,2014,2010s
+62,1,3.0,The Dark Knight,Horror,2003,2000s
+62,11,4.0,Schindler's List,Thriller,1999,1990s
+62,38,3.5,Rocketman,Horror,1994,1990s
+62,50,4.5,Gravity,Animation,1990,1990s
+62,44,3.5,No Country for Old Men,Documentary,2023,2020s
+62,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+62,18,4.5,Avatar,Animation,2010,2010s
+62,8,3.0,Goodfellas,Horror,2007,2000s
+62,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+62,39,3.0,The Social Network,Comedy,2017,2010s
+62,17,3.5,Titanic,Comedy,2012,2010s
+62,12,4.0,The Godfather,Animation,2003,2000s
+62,43,4.0,The Departed,Adventure,2001,2000s
+62,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+62,20,3.0,Star Wars,Comedy,2007,2000s
+62,46,3.0,Blade Runner 2049,Romance,2012,2010s
+62,3,4.0,Forrest Gump,Animation,1993,1990s
+62,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+62,48,4.5,Annihilation,Thriller,2011,2010s
+62,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+63,47,3.5,Ex Machina,Comedy,2013,2010s
+63,48,4.5,Annihilation,Thriller,2011,2010s
+63,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+63,38,3.5,Rocketman,Horror,1994,1990s
+63,17,4.0,Titanic,Comedy,2012,2010s
+63,22,3.5,Lord of the Rings,Action,2015,2010s
+63,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+63,21,4.0,Harry Potter,Romance,2013,2010s
+63,1,2.5,The Dark Knight,Horror,2003,2000s
+63,9,4.5,Fight Club,Animation,2015,2010s
+63,43,3.0,The Departed,Adventure,2001,2000s
+63,40,3.5,Moneyball,Thriller,1996,1990s
+63,42,4.5,Catch Me If You Can,Comedy,1997,1990s
+63,14,4.0,Toy Story,Drama,2004,2000s
+63,29,3.0,Get Out,Horror,1998,1990s
+63,36,3.5,1917,Romance,1997,1990s
+63,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+63,45,3.0,There Will Be Blood,Adventure,2022,2020s
+63,11,3.5,Schindler's List,Thriller,1999,1990s
+63,50,5.0,Gravity,Animation,1990,1990s
+63,44,4.5,No Country for Old Men,Documentary,2023,2020s
+63,27,4.0,The Joker,Adventure,2014,2010s
+63,35,3.0,Dunkirk,Horror,2006,2000s
+63,12,5.0,The Godfather,Animation,2003,2000s
+64,32,5.0,La La Land,Drama,1997,1990s
+64,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+64,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+64,22,4.5,Lord of the Rings,Action,2015,2010s
+64,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+64,4,4.5,The Matrix,Romance,1991,1990s
+64,12,5.0,The Godfather,Animation,2003,2000s
+64,35,4.5,Dunkirk,Horror,2006,2000s
+64,49,3.5,Arrival,Horror,2016,2010s
+64,39,4.0,The Social Network,Comedy,2017,2010s
+64,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+64,1,3.5,The Dark Knight,Horror,2003,2000s
+64,16,3.5,The Lion King,Romance,2003,2000s
+64,5,3.5,Interstellar,Horror,1995,1990s
+64,46,3.5,Blade Runner 2049,Romance,2012,2010s
+64,3,5.0,Forrest Gump,Animation,1993,1990s
+64,8,3.0,Goodfellas,Horror,2007,2000s
+64,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+64,14,5.0,Toy Story,Drama,2004,2000s
+64,50,4.5,Gravity,Animation,1990,1990s
+64,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+64,36,3.5,1917,Romance,1997,1990s
+65,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+65,6,3.5,Pulp Fiction,Adventure,1993,1990s
+65,38,3.0,Rocketman,Horror,1994,1990s
+65,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+65,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+65,49,3.5,Arrival,Horror,2016,2010s
+65,12,4.5,The Godfather,Animation,2003,2000s
+65,1,4.0,The Dark Knight,Horror,2003,2000s
+65,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+65,21,3.5,Harry Potter,Romance,2013,2010s
+65,23,4.0,The Hobbit,Adventure,2014,2010s
+65,28,4.0,Parasite,Drama,1996,1990s
+65,32,4.0,La La Land,Drama,1997,1990s
+65,25,3.5,Spider-Man,Documentary,2004,2000s
+65,43,5.0,The Departed,Adventure,2001,2000s
+65,36,3.5,1917,Romance,1997,1990s
+65,22,4.0,Lord of the Rings,Action,2015,2010s
+65,11,4.5,Schindler's List,Thriller,1999,1990s
+65,24,4.5,Iron Man,Sci-Fi,2018,2010s
+65,14,5.0,Toy Story,Drama,2004,2000s
+65,46,3.5,Blade Runner 2049,Romance,2012,2010s
+65,3,4.5,Forrest Gump,Animation,1993,1990s
+65,8,3.5,Goodfellas,Horror,2007,2000s
+65,44,4.0,No Country for Old Men,Documentary,2023,2020s
+65,27,4.0,The Joker,Adventure,2014,2010s
+65,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+65,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+65,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+66,32,3.5,La La Land,Drama,1997,1990s
+66,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+66,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+66,44,3.0,No Country for Old Men,Documentary,2023,2020s
+66,12,4.0,The Godfather,Animation,2003,2000s
+66,35,3.0,Dunkirk,Horror,2006,2000s
+66,1,3.0,The Dark Knight,Horror,2003,2000s
+66,5,2.5,Interstellar,Horror,1995,1990s
+66,9,4.0,Fight Club,Animation,2015,2010s
+66,50,4.0,Gravity,Animation,1990,1990s
+66,20,4.0,Star Wars,Comedy,2007,2000s
+66,4,2.5,The Matrix,Romance,1991,1990s
+66,22,4.5,Lord of the Rings,Action,2015,2010s
+66,8,3.0,Goodfellas,Horror,2007,2000s
+66,21,3.0,Harry Potter,Romance,2013,2010s
+66,26,3.0,Batman Begins,Action,1990,1990s
+66,43,3.5,The Departed,Adventure,2001,2000s
+66,49,3.0,Arrival,Horror,2016,2010s
+66,47,3.5,Ex Machina,Comedy,2013,2010s
+66,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+66,31,4.0,Whiplash,Documentary,1990,1990s
+66,3,4.0,Forrest Gump,Animation,1993,1990s
+67,23,3.5,The Hobbit,Adventure,2014,2010s
+67,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+67,35,2.5,Dunkirk,Horror,2006,2000s
+67,28,3.5,Parasite,Drama,1996,1990s
+67,29,3.5,Get Out,Horror,1998,1990s
+67,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+67,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+67,40,3.5,Moneyball,Thriller,1996,1990s
+67,21,3.0,Harry Potter,Romance,2013,2010s
+67,11,3.5,Schindler's List,Thriller,1999,1990s
+67,16,3.0,The Lion King,Romance,2003,2000s
+67,4,2.5,The Matrix,Romance,1991,1990s
+67,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+67,9,4.0,Fight Club,Animation,2015,2010s
+67,20,3.5,Star Wars,Comedy,2007,2000s
+67,5,3.0,Interstellar,Horror,1995,1990s
+67,17,3.0,Titanic,Comedy,2012,2010s
+67,26,3.5,Batman Begins,Action,1990,1990s
+67,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+67,45,3.5,There Will Be Blood,Adventure,2022,2020s
+67,46,2.5,Blade Runner 2049,Romance,2012,2010s
+67,7,3.0,The Shawshank Redemption,Drama,2018,2010s
+67,22,2.5,Lord of the Rings,Action,2015,2010s
+67,50,4.5,Gravity,Animation,1990,1990s
+67,31,3.5,Whiplash,Documentary,1990,1990s
+67,25,3.0,Spider-Man,Documentary,2004,2000s
+67,49,2.5,Arrival,Horror,2016,2010s
+68,5,4.0,Interstellar,Horror,1995,1990s
+68,2,4.0,Inception,Thriller,2006,2000s
+68,31,4.0,Whiplash,Documentary,1990,1990s
+68,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+68,46,3.5,Blade Runner 2049,Romance,2012,2010s
+68,48,4.0,Annihilation,Thriller,2011,2010s
+68,50,4.0,Gravity,Animation,1990,1990s
+68,25,3.5,Spider-Man,Documentary,2004,2000s
+68,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+68,40,4.0,Moneyball,Thriller,1996,1990s
+68,32,4.0,La La Land,Drama,1997,1990s
+68,27,4.0,The Joker,Adventure,2014,2010s
+68,24,4.0,Iron Man,Sci-Fi,2018,2010s
+68,8,3.5,Goodfellas,Horror,2007,2000s
+68,29,3.5,Get Out,Horror,1998,1990s
+68,16,3.5,The Lion King,Romance,2003,2000s
+68,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+68,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+68,12,4.5,The Godfather,Animation,2003,2000s
+68,47,4.0,Ex Machina,Comedy,2013,2010s
+68,9,5.0,Fight Club,Animation,2015,2010s
+68,28,4.5,Parasite,Drama,1996,1990s
+69,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+69,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+69,8,4.0,Goodfellas,Horror,2007,2000s
+69,25,3.5,Spider-Man,Documentary,2004,2000s
+69,3,3.0,Forrest Gump,Animation,1993,1990s
+69,31,2.5,Whiplash,Documentary,1990,1990s
+69,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+69,11,4.0,Schindler's List,Thriller,1999,1990s
+69,21,2.5,Harry Potter,Romance,2013,2010s
+69,28,4.5,Parasite,Drama,1996,1990s
+69,38,3.5,Rocketman,Horror,1994,1990s
+69,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+69,39,3.5,The Social Network,Comedy,2017,2010s
+69,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+70,46,2.5,Blade Runner 2049,Romance,2012,2010s
+70,3,3.5,Forrest Gump,Animation,1993,1990s
+70,35,2.5,Dunkirk,Horror,2006,2000s
+70,23,3.0,The Hobbit,Adventure,2014,2010s
+70,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+70,22,3.5,Lord of the Rings,Action,2015,2010s
+70,20,3.0,Star Wars,Comedy,2007,2000s
+70,31,3.5,Whiplash,Documentary,1990,1990s
+70,8,2.0,Goodfellas,Horror,2007,2000s
+70,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+70,45,2.5,There Will Be Blood,Adventure,2022,2020s
+70,49,2.0,Arrival,Horror,2016,2010s
+70,28,3.0,Parasite,Drama,1996,1990s
+70,5,3.0,Interstellar,Horror,1995,1990s
+70,44,3.5,No Country for Old Men,Documentary,2023,2020s
+71,36,4.5,1917,Romance,1997,1990s
+71,47,5.0,Ex Machina,Comedy,2013,2010s
+71,45,5.0,There Will Be Blood,Adventure,2022,2020s
+71,21,4.5,Harry Potter,Romance,2013,2010s
+71,5,4.5,Interstellar,Horror,1995,1990s
+71,16,4.5,The Lion King,Romance,2003,2000s
+71,48,5.0,Annihilation,Thriller,2011,2010s
+71,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+71,9,5.0,Fight Club,Animation,2015,2010s
+71,23,5.0,The Hobbit,Adventure,2014,2010s
+71,38,4.0,Rocketman,Horror,1994,1990s
+71,6,5.0,Pulp Fiction,Adventure,1993,1990s
+71,50,4.5,Gravity,Animation,1990,1990s
+72,1,3.0,The Dark Knight,Horror,2003,2000s
+72,35,3.5,Dunkirk,Horror,2006,2000s
+72,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+72,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+72,5,3.0,Interstellar,Horror,1995,1990s
+72,50,3.5,Gravity,Animation,1990,1990s
+72,39,3.5,The Social Network,Comedy,2017,2010s
+72,11,3.5,Schindler's List,Thriller,1999,1990s
+72,45,4.5,There Will Be Blood,Adventure,2022,2020s
+72,18,4.0,Avatar,Animation,2010,2010s
+72,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+72,6,3.5,Pulp Fiction,Adventure,1993,1990s
+72,32,4.0,La La Land,Drama,1997,1990s
+72,22,3.5,Lord of the Rings,Action,2015,2010s
+72,25,4.0,Spider-Man,Documentary,2004,2000s
+72,31,3.5,Whiplash,Documentary,1990,1990s
+73,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+73,36,3.0,1917,Romance,1997,1990s
+73,48,3.5,Annihilation,Thriller,2011,2010s
+73,26,3.0,Batman Begins,Action,1990,1990s
+73,28,3.5,Parasite,Drama,1996,1990s
+73,27,4.0,The Joker,Adventure,2014,2010s
+73,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+73,20,2.5,Star Wars,Comedy,2007,2000s
+73,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+73,24,3.5,Iron Man,Sci-Fi,2018,2010s
+73,16,3.0,The Lion King,Romance,2003,2000s
+73,29,3.0,Get Out,Horror,1998,1990s
+73,9,4.5,Fight Club,Animation,2015,2010s
+73,11,3.0,Schindler's List,Thriller,1999,1990s
+73,45,3.5,There Will Be Blood,Adventure,2022,2020s
+73,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+73,8,3.0,Goodfellas,Horror,2007,2000s
+73,6,3.5,Pulp Fiction,Adventure,1993,1990s
+73,23,3.5,The Hobbit,Adventure,2014,2010s
+73,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+73,39,3.0,The Social Network,Comedy,2017,2010s
+73,50,4.5,Gravity,Animation,1990,1990s
+73,32,4.5,La La Land,Drama,1997,1990s
+73,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+73,5,3.0,Interstellar,Horror,1995,1990s
+73,18,3.0,Avatar,Animation,2010,2010s
+73,43,3.0,The Departed,Adventure,2001,2000s
+73,25,3.0,Spider-Man,Documentary,2004,2000s
+74,16,2.5,The Lion King,Romance,2003,2000s
+74,17,1.5,Titanic,Comedy,2012,2010s
+74,9,3.0,Fight Club,Animation,2015,2010s
+74,46,2.5,Blade Runner 2049,Romance,2012,2010s
+74,6,2.0,Pulp Fiction,Adventure,1993,1990s
+74,39,2.0,The Social Network,Comedy,2017,2010s
+74,24,2.5,Iron Man,Sci-Fi,2018,2010s
+74,22,2.5,Lord of the Rings,Action,2015,2010s
+74,41,2.5,The Wolf of Wall Street,Documentary,1998,1990s
+74,4,2.0,The Matrix,Romance,1991,1990s
+74,33,1.5,The Grand Budapest Hotel,Romance,2013,2010s
+74,45,2.5,There Will Be Blood,Adventure,2022,2020s
+74,40,2.5,Moneyball,Thriller,1996,1990s
+74,49,2.0,Arrival,Horror,2016,2010s
+74,30,2.5,A Beautiful Mind,Thriller,2013,2010s
+74,13,2.5,Avengers: Endgame,Animation,2020,2020s
+74,43,2.5,The Departed,Adventure,2001,2000s
+74,14,2.5,Toy Story,Drama,2004,2000s
+74,36,2.5,1917,Romance,1997,1990s
+74,28,3.0,Parasite,Drama,1996,1990s
+74,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+74,3,3.0,Forrest Gump,Animation,1993,1990s
+74,20,2.5,Star Wars,Comedy,2007,2000s
+74,35,2.0,Dunkirk,Horror,2006,2000s
+74,5,2.0,Interstellar,Horror,1995,1990s
+74,37,2.5,Bohemian Rhapsody,Documentary,2022,2020s
+74,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+74,18,3.5,Avatar,Animation,2010,2010s
+74,2,3.0,Inception,Thriller,2006,2000s
+75,22,3.5,Lord of the Rings,Action,2015,2010s
+75,3,4.5,Forrest Gump,Animation,1993,1990s
+75,38,3.5,Rocketman,Horror,1994,1990s
+75,2,4.5,Inception,Thriller,2006,2000s
+75,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+75,45,4.5,There Will Be Blood,Adventure,2022,2020s
+75,48,4.0,Annihilation,Thriller,2011,2010s
+75,18,4.0,Avatar,Animation,2010,2010s
+75,43,3.5,The Departed,Adventure,2001,2000s
+75,14,5.0,Toy Story,Drama,2004,2000s
+75,20,4.0,Star Wars,Comedy,2007,2000s
+75,9,5.0,Fight Club,Animation,2015,2010s
+75,50,5.0,Gravity,Animation,1990,1990s
+75,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+75,39,3.5,The Social Network,Comedy,2017,2010s
+76,47,2.5,Ex Machina,Comedy,2013,2010s
+76,22,3.5,Lord of the Rings,Action,2015,2010s
+76,24,3.5,Iron Man,Sci-Fi,2018,2010s
+76,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+76,32,3.0,La La Land,Drama,1997,1990s
+76,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+76,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+76,21,3.0,Harry Potter,Romance,2013,2010s
+76,28,2.5,Parasite,Drama,1996,1990s
+76,6,3.0,Pulp Fiction,Adventure,1993,1990s
+76,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+76,38,3.0,Rocketman,Horror,1994,1990s
+76,8,3.0,Goodfellas,Horror,2007,2000s
+76,27,3.0,The Joker,Adventure,2014,2010s
+76,11,3.0,Schindler's List,Thriller,1999,1990s
+76,42,2.0,Catch Me If You Can,Comedy,1997,1990s
+76,17,3.0,Titanic,Comedy,2012,2010s
+76,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+76,1,2.5,The Dark Knight,Horror,2003,2000s
+76,26,3.0,Batman Begins,Action,1990,1990s
+76,2,3.0,Inception,Thriller,2006,2000s
+76,5,3.0,Interstellar,Horror,1995,1990s
+76,20,2.5,Star Wars,Comedy,2007,2000s
+77,3,4.5,Forrest Gump,Animation,1993,1990s
+77,11,4.0,Schindler's List,Thriller,1999,1990s
+77,40,4.0,Moneyball,Thriller,1996,1990s
+77,44,3.0,No Country for Old Men,Documentary,2023,2020s
+77,48,5.0,Annihilation,Thriller,2011,2010s
+77,23,4.0,The Hobbit,Adventure,2014,2010s
+77,24,4.0,Iron Man,Sci-Fi,2018,2010s
+77,35,3.0,Dunkirk,Horror,2006,2000s
+77,29,3.5,Get Out,Horror,1998,1990s
+77,12,4.5,The Godfather,Animation,2003,2000s
+77,45,4.0,There Will Be Blood,Adventure,2022,2020s
+77,22,3.5,Lord of the Rings,Action,2015,2010s
+77,50,4.5,Gravity,Animation,1990,1990s
+77,16,2.5,The Lion King,Romance,2003,2000s
+77,27,3.5,The Joker,Adventure,2014,2010s
+77,43,3.0,The Departed,Adventure,2001,2000s
+77,28,4.5,Parasite,Drama,1996,1990s
+77,49,3.0,Arrival,Horror,2016,2010s
+77,1,2.5,The Dark Knight,Horror,2003,2000s
+77,8,3.0,Goodfellas,Horror,2007,2000s
+77,21,3.5,Harry Potter,Romance,2013,2010s
+77,39,3.5,The Social Network,Comedy,2017,2010s
+77,6,3.0,Pulp Fiction,Adventure,1993,1990s
+77,25,3.0,Spider-Man,Documentary,2004,2000s
+77,31,3.5,Whiplash,Documentary,1990,1990s
+78,28,4.0,Parasite,Drama,1996,1990s
+78,1,4.0,The Dark Knight,Horror,2003,2000s
+78,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+78,31,4.0,Whiplash,Documentary,1990,1990s
+78,12,4.5,The Godfather,Animation,2003,2000s
+78,14,4.5,Toy Story,Drama,2004,2000s
+78,3,5.0,Forrest Gump,Animation,1993,1990s
+78,11,4.5,Schindler's List,Thriller,1999,1990s
+78,16,4.5,The Lion King,Romance,2003,2000s
+78,36,3.5,1917,Romance,1997,1990s
+78,32,4.5,La La Land,Drama,1997,1990s
+78,26,4.0,Batman Begins,Action,1990,1990s
+78,35,3.5,Dunkirk,Horror,2006,2000s
+78,49,3.5,Arrival,Horror,2016,2010s
+78,24,4.0,Iron Man,Sci-Fi,2018,2010s
+78,50,4.5,Gravity,Animation,1990,1990s
+78,8,4.0,Goodfellas,Horror,2007,2000s
+78,29,3.5,Get Out,Horror,1998,1990s
+78,43,4.5,The Departed,Adventure,2001,2000s
+78,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+78,25,4.5,Spider-Man,Documentary,2004,2000s
+78,22,4.5,Lord of the Rings,Action,2015,2010s
+78,47,4.0,Ex Machina,Comedy,2013,2010s
+78,18,4.0,Avatar,Animation,2010,2010s
+79,3,3.5,Forrest Gump,Animation,1993,1990s
+79,17,3.5,Titanic,Comedy,2012,2010s
+79,21,2.5,Harry Potter,Romance,2013,2010s
+79,44,3.0,No Country for Old Men,Documentary,2023,2020s
+79,24,3.5,Iron Man,Sci-Fi,2018,2010s
+79,13,3.5,Avengers: Endgame,Animation,2020,2020s
+80,28,3.5,Parasite,Drama,1996,1990s
+80,31,4.0,Whiplash,Documentary,1990,1990s
+80,21,3.5,Harry Potter,Romance,2013,2010s
+80,1,2.5,The Dark Knight,Horror,2003,2000s
+80,45,3.5,There Will Be Blood,Adventure,2022,2020s
+80,23,3.5,The Hobbit,Adventure,2014,2010s
+80,18,4.0,Avatar,Animation,2010,2010s
+80,48,4.5,Annihilation,Thriller,2011,2010s
+80,16,4.0,The Lion King,Romance,2003,2000s
+80,40,5.0,Moneyball,Thriller,1996,1990s
+80,25,2.5,Spider-Man,Documentary,2004,2000s
+80,26,3.5,Batman Begins,Action,1990,1990s
+80,47,4.0,Ex Machina,Comedy,2013,2010s
+80,38,2.5,Rocketman,Horror,1994,1990s
+80,11,4.5,Schindler's List,Thriller,1999,1990s
+80,8,3.5,Goodfellas,Horror,2007,2000s
+80,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+80,27,3.0,The Joker,Adventure,2014,2010s
+80,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+80,9,5.0,Fight Club,Animation,2015,2010s
+80,36,3.5,1917,Romance,1997,1990s
+80,5,3.0,Interstellar,Horror,1995,1990s
+80,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+81,9,5.0,Fight Club,Animation,2015,2010s
+81,40,4.0,Moneyball,Thriller,1996,1990s
+81,4,4.5,The Matrix,Romance,1991,1990s
+81,47,4.0,Ex Machina,Comedy,2013,2010s
+81,24,5.0,Iron Man,Sci-Fi,2018,2010s
+81,13,5.0,Avengers: Endgame,Animation,2020,2020s
+81,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+81,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+81,50,5.0,Gravity,Animation,1990,1990s
+81,26,4.0,Batman Begins,Action,1990,1990s
+81,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+81,43,5.0,The Departed,Adventure,2001,2000s
+81,49,4.0,Arrival,Horror,2016,2010s
+81,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+81,3,4.5,Forrest Gump,Animation,1993,1990s
+81,14,5.0,Toy Story,Drama,2004,2000s
+81,21,3.0,Harry Potter,Romance,2013,2010s
+81,45,4.5,There Will Be Blood,Adventure,2022,2020s
+81,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+81,46,4.0,Blade Runner 2049,Romance,2012,2010s
+81,32,5.0,La La Land,Drama,1997,1990s
+81,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+81,18,4.0,Avatar,Animation,2010,2010s
+81,36,4.0,1917,Romance,1997,1990s
+82,29,2.5,Get Out,Horror,1998,1990s
+82,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+82,16,1.5,The Lion King,Romance,2003,2000s
+82,26,3.0,Batman Begins,Action,1990,1990s
+82,8,2.5,Goodfellas,Horror,2007,2000s
+82,14,2.5,Toy Story,Drama,2004,2000s
+82,32,2.5,La La Land,Drama,1997,1990s
+82,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+82,40,2.0,Moneyball,Thriller,1996,1990s
+82,15,2.5,Finding Nemo,Sci-Fi,1997,1990s
+82,4,2.0,The Matrix,Romance,1991,1990s
+82,17,1.5,Titanic,Comedy,2012,2010s
+82,45,1.5,There Will Be Blood,Adventure,2022,2020s
+82,13,3.0,Avengers: Endgame,Animation,2020,2020s
+82,46,2.0,Blade Runner 2049,Romance,2012,2010s
+83,32,4.0,La La Land,Drama,1997,1990s
+83,35,3.5,Dunkirk,Horror,2006,2000s
+83,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+83,18,4.0,Avatar,Animation,2010,2010s
+83,2,3.0,Inception,Thriller,2006,2000s
+83,24,3.0,Iron Man,Sci-Fi,2018,2010s
+83,3,4.0,Forrest Gump,Animation,1993,1990s
+83,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+83,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+83,48,3.5,Annihilation,Thriller,2011,2010s
+84,5,3.0,Interstellar,Horror,1995,1990s
+84,26,3.0,Batman Begins,Action,1990,1990s
+84,29,2.5,Get Out,Horror,1998,1990s
+84,45,3.5,There Will Be Blood,Adventure,2022,2020s
+84,43,3.5,The Departed,Adventure,2001,2000s
+84,28,3.5,Parasite,Drama,1996,1990s
+84,31,3.5,Whiplash,Documentary,1990,1990s
+84,7,3.0,The Shawshank Redemption,Drama,2018,2010s
+84,47,3.0,Ex Machina,Comedy,2013,2010s
+84,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+84,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+84,38,3.0,Rocketman,Horror,1994,1990s
+84,16,2.0,The Lion King,Romance,2003,2000s
+84,4,3.5,The Matrix,Romance,1991,1990s
+84,50,4.0,Gravity,Animation,1990,1990s
+84,8,2.0,Goodfellas,Horror,2007,2000s
+84,27,4.0,The Joker,Adventure,2014,2010s
+84,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+84,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+84,32,3.0,La La Land,Drama,1997,1990s
+84,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+84,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+84,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+84,11,4.0,Schindler's List,Thriller,1999,1990s
+85,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+85,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+85,8,3.0,Goodfellas,Horror,2007,2000s
+85,12,4.5,The Godfather,Animation,2003,2000s
+85,6,3.5,Pulp Fiction,Adventure,1993,1990s
+85,13,4.0,Avengers: Endgame,Animation,2020,2020s
+85,23,3.5,The Hobbit,Adventure,2014,2010s
+85,24,4.0,Iron Man,Sci-Fi,2018,2010s
+86,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+86,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+86,32,3.5,La La Land,Drama,1997,1990s
+86,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+86,22,4.0,Lord of the Rings,Action,2015,2010s
+86,45,3.5,There Will Be Blood,Adventure,2022,2020s
+86,48,4.0,Annihilation,Thriller,2011,2010s
+86,27,4.0,The Joker,Adventure,2014,2010s
+86,36,3.0,1917,Romance,1997,1990s
+86,17,4.0,Titanic,Comedy,2012,2010s
+86,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+86,31,4.0,Whiplash,Documentary,1990,1990s
+86,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+86,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+86,44,3.5,No Country for Old Men,Documentary,2023,2020s
+86,40,4.0,Moneyball,Thriller,1996,1990s
+86,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+86,9,3.0,Fight Club,Animation,2015,2010s
+87,16,3.0,The Lion King,Romance,2003,2000s
+87,47,3.0,Ex Machina,Comedy,2013,2010s
+87,37,2.5,Bohemian Rhapsody,Documentary,2022,2020s
+87,17,2.5,Titanic,Comedy,2012,2010s
+87,4,3.0,The Matrix,Romance,1991,1990s
+87,31,3.5,Whiplash,Documentary,1990,1990s
+87,46,2.5,Blade Runner 2049,Romance,2012,2010s
+87,14,2.5,Toy Story,Drama,2004,2000s
+87,35,3.0,Dunkirk,Horror,2006,2000s
+87,23,2.5,The Hobbit,Adventure,2014,2010s
+87,50,3.0,Gravity,Animation,1990,1990s
+87,1,1.5,The Dark Knight,Horror,2003,2000s
+87,28,4.0,Parasite,Drama,1996,1990s
+87,44,3.0,No Country for Old Men,Documentary,2023,2020s
+87,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+87,13,4.0,Avengers: Endgame,Animation,2020,2020s
+87,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+88,40,4.0,Moneyball,Thriller,1996,1990s
+88,38,3.0,Rocketman,Horror,1994,1990s
+88,5,2.5,Interstellar,Horror,1995,1990s
+88,4,3.0,The Matrix,Romance,1991,1990s
+88,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+88,24,4.0,Iron Man,Sci-Fi,2018,2010s
+88,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+88,16,3.0,The Lion King,Romance,2003,2000s
+88,1,2.5,The Dark Knight,Horror,2003,2000s
+88,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+88,48,3.0,Annihilation,Thriller,2011,2010s
+88,11,3.0,Schindler's List,Thriller,1999,1990s
+89,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+89,40,2.5,Moneyball,Thriller,1996,1990s
+89,5,3.0,Interstellar,Horror,1995,1990s
+89,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+89,38,3.0,Rocketman,Horror,1994,1990s
+89,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+89,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+90,11,3.5,Schindler's List,Thriller,1999,1990s
+90,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+90,49,3.5,Arrival,Horror,2016,2010s
+90,8,3.0,Goodfellas,Horror,2007,2000s
+90,47,3.0,Ex Machina,Comedy,2013,2010s
+90,18,4.0,Avatar,Animation,2010,2010s
+90,14,3.5,Toy Story,Drama,2004,2000s
+90,4,3.0,The Matrix,Romance,1991,1990s
+90,17,2.5,Titanic,Comedy,2012,2010s
+90,43,4.0,The Departed,Adventure,2001,2000s
+90,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+90,31,3.5,Whiplash,Documentary,1990,1990s
+90,24,3.0,Iron Man,Sci-Fi,2018,2010s
+90,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+90,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+90,46,3.5,Blade Runner 2049,Romance,2012,2010s
+90,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+90,22,3.5,Lord of the Rings,Action,2015,2010s
+90,44,3.0,No Country for Old Men,Documentary,2023,2020s
+90,23,3.5,The Hobbit,Adventure,2014,2010s
+90,16,3.5,The Lion King,Romance,2003,2000s
+90,12,4.0,The Godfather,Animation,2003,2000s
+90,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+90,13,3.5,Avengers: Endgame,Animation,2020,2020s
+90,48,4.0,Annihilation,Thriller,2011,2010s
+90,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+90,28,3.0,Parasite,Drama,1996,1990s
+90,1,3.5,The Dark Knight,Horror,2003,2000s
+90,3,4.0,Forrest Gump,Animation,1993,1990s
+91,49,4.0,Arrival,Horror,2016,2010s
+91,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+91,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+91,14,3.5,Toy Story,Drama,2004,2000s
+91,13,4.0,Avengers: Endgame,Animation,2020,2020s
+91,44,4.0,No Country for Old Men,Documentary,2023,2020s
+91,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+91,48,4.0,Annihilation,Thriller,2011,2010s
+91,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+91,43,4.5,The Departed,Adventure,2001,2000s
+91,36,3.5,1917,Romance,1997,1990s
+91,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+91,38,3.5,Rocketman,Horror,1994,1990s
+91,2,4.0,Inception,Thriller,2006,2000s
+91,5,4.0,Interstellar,Horror,1995,1990s
+91,1,3.0,The Dark Knight,Horror,2003,2000s
+91,28,4.0,Parasite,Drama,1996,1990s
+92,48,4.5,Annihilation,Thriller,2011,2010s
+92,1,3.5,The Dark Knight,Horror,2003,2000s
+92,39,3.5,The Social Network,Comedy,2017,2010s
+92,47,4.0,Ex Machina,Comedy,2013,2010s
+92,29,3.5,Get Out,Horror,1998,1990s
+92,44,4.0,No Country for Old Men,Documentary,2023,2020s
+92,6,4.0,Pulp Fiction,Adventure,1993,1990s
+92,38,3.5,Rocketman,Horror,1994,1990s
+92,31,3.5,Whiplash,Documentary,1990,1990s
+92,23,4.5,The Hobbit,Adventure,2014,2010s
+92,50,4.5,Gravity,Animation,1990,1990s
+92,10,4.5,The Silence of the Lambs,Romance,2023,2020s
+92,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+92,2,4.5,Inception,Thriller,2006,2000s
+92,13,4.5,Avengers: Endgame,Animation,2020,2020s
+92,49,4.5,Arrival,Horror,2016,2010s
+92,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+92,5,4.0,Interstellar,Horror,1995,1990s
+92,46,3.5,Blade Runner 2049,Romance,2012,2010s
+92,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+92,12,4.5,The Godfather,Animation,2003,2000s
+93,9,4.0,Fight Club,Animation,2015,2010s
+93,27,4.0,The Joker,Adventure,2014,2010s
+93,20,4.5,Star Wars,Comedy,2007,2000s
+93,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+93,40,4.0,Moneyball,Thriller,1996,1990s
+93,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+93,25,4.5,Spider-Man,Documentary,2004,2000s
+93,4,4.0,The Matrix,Romance,1991,1990s
+93,21,3.5,Harry Potter,Romance,2013,2010s
+93,1,4.0,The Dark Knight,Horror,2003,2000s
+93,26,4.5,Batman Begins,Action,1990,1990s
+93,13,4.0,Avengers: Endgame,Animation,2020,2020s
+93,49,4.0,Arrival,Horror,2016,2010s
+93,11,4.5,Schindler's List,Thriller,1999,1990s
+93,16,3.0,The Lion King,Romance,2003,2000s
+93,44,4.0,No Country for Old Men,Documentary,2023,2020s
+93,48,4.5,Annihilation,Thriller,2011,2010s
+93,35,3.5,Dunkirk,Horror,2006,2000s
+93,42,4.5,Catch Me If You Can,Comedy,1997,1990s
+93,5,4.0,Interstellar,Horror,1995,1990s
+93,50,4.5,Gravity,Animation,1990,1990s
+93,24,4.0,Iron Man,Sci-Fi,2018,2010s
+93,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+93,46,3.5,Blade Runner 2049,Romance,2012,2010s
+93,32,4.5,La La Land,Drama,1997,1990s
+94,22,4.0,Lord of the Rings,Action,2015,2010s
+94,36,4.0,1917,Romance,1997,1990s
+94,25,4.5,Spider-Man,Documentary,2004,2000s
+94,27,3.5,The Joker,Adventure,2014,2010s
+94,6,4.5,Pulp Fiction,Adventure,1993,1990s
+94,17,3.5,Titanic,Comedy,2012,2010s
+94,2,4.0,Inception,Thriller,2006,2000s
+94,48,4.0,Annihilation,Thriller,2011,2010s
+94,1,4.0,The Dark Knight,Horror,2003,2000s
+94,47,4.0,Ex Machina,Comedy,2013,2010s
+94,21,3.5,Harry Potter,Romance,2013,2010s
+94,39,3.0,The Social Network,Comedy,2017,2010s
+94,4,3.5,The Matrix,Romance,1991,1990s
+94,24,4.5,Iron Man,Sci-Fi,2018,2010s
+94,8,3.5,Goodfellas,Horror,2007,2000s
+94,40,4.5,Moneyball,Thriller,1996,1990s
+94,32,4.5,La La Land,Drama,1997,1990s
+94,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+94,35,3.5,Dunkirk,Horror,2006,2000s
+94,29,3.0,Get Out,Horror,1998,1990s
+94,12,4.5,The Godfather,Animation,2003,2000s
+94,14,5.0,Toy Story,Drama,2004,2000s
+94,43,4.0,The Departed,Adventure,2001,2000s
+94,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+94,13,4.5,Avengers: Endgame,Animation,2020,2020s
+94,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+94,45,4.0,There Will Be Blood,Adventure,2022,2020s
+94,18,4.5,Avatar,Animation,2010,2010s
+94,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+95,29,2.5,Get Out,Horror,1998,1990s
+95,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+95,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+95,12,3.5,The Godfather,Animation,2003,2000s
+95,2,2.5,Inception,Thriller,2006,2000s
+95,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+95,18,3.5,Avatar,Animation,2010,2010s
+95,3,4.0,Forrest Gump,Animation,1993,1990s
+95,47,3.0,Ex Machina,Comedy,2013,2010s
+95,25,3.5,Spider-Man,Documentary,2004,2000s
+95,36,2.5,1917,Romance,1997,1990s
+95,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+95,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+95,31,3.0,Whiplash,Documentary,1990,1990s
+95,45,3.5,There Will Be Blood,Adventure,2022,2020s
+95,4,3.5,The Matrix,Romance,1991,1990s
+95,26,3.0,Batman Begins,Action,1990,1990s
+95,24,3.5,Iron Man,Sci-Fi,2018,2010s
+95,6,3.0,Pulp Fiction,Adventure,1993,1990s
+95,10,2.0,The Silence of the Lambs,Romance,2023,2020s
+95,5,2.0,Interstellar,Horror,1995,1990s
+95,23,3.0,The Hobbit,Adventure,2014,2010s
+95,21,2.5,Harry Potter,Romance,2013,2010s
+95,13,4.5,Avengers: Endgame,Animation,2020,2020s
+95,40,3.5,Moneyball,Thriller,1996,1990s
+95,1,3.0,The Dark Knight,Horror,2003,2000s
+95,9,3.5,Fight Club,Animation,2015,2010s
+95,16,3.0,The Lion King,Romance,2003,2000s
+96,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+96,4,3.0,The Matrix,Romance,1991,1990s
+96,46,3.5,Blade Runner 2049,Romance,2012,2010s
+96,2,4.0,Inception,Thriller,2006,2000s
+96,45,3.0,There Will Be Blood,Adventure,2022,2020s
+97,23,5.0,The Hobbit,Adventure,2014,2010s
+97,13,4.5,Avengers: Endgame,Animation,2020,2020s
+97,1,4.5,The Dark Knight,Horror,2003,2000s
+97,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+97,24,5.0,Iron Man,Sci-Fi,2018,2010s
+97,50,5.0,Gravity,Animation,1990,1990s
+97,2,4.5,Inception,Thriller,2006,2000s
+97,19,5.0,Jurassic Park,Sci-Fi,2005,2000s
+97,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+97,3,5.0,Forrest Gump,Animation,1993,1990s
+97,4,4.5,The Matrix,Romance,1991,1990s
+97,29,4.5,Get Out,Horror,1998,1990s
+97,30,5.0,A Beautiful Mind,Thriller,2013,2010s
+98,35,4.0,Dunkirk,Horror,2006,2000s
+98,27,4.5,The Joker,Adventure,2014,2010s
+98,9,4.5,Fight Club,Animation,2015,2010s
+98,31,3.5,Whiplash,Documentary,1990,1990s
+98,2,4.5,Inception,Thriller,2006,2000s
+98,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+98,48,4.5,Annihilation,Thriller,2011,2010s
+98,29,4.0,Get Out,Horror,1998,1990s
+98,26,4.0,Batman Begins,Action,1990,1990s
+98,24,4.5,Iron Man,Sci-Fi,2018,2010s
+98,5,3.5,Interstellar,Horror,1995,1990s
+98,4,4.0,The Matrix,Romance,1991,1990s
+98,25,4.5,Spider-Man,Documentary,2004,2000s
+98,1,3.5,The Dark Knight,Horror,2003,2000s
+98,40,4.5,Moneyball,Thriller,1996,1990s
+98,14,5.0,Toy Story,Drama,2004,2000s
+98,49,4.0,Arrival,Horror,2016,2010s
+98,47,3.5,Ex Machina,Comedy,2013,2010s
+98,13,5.0,Avengers: Endgame,Animation,2020,2020s
+98,45,4.0,There Will Be Blood,Adventure,2022,2020s
+98,22,4.5,Lord of the Rings,Action,2015,2010s
+99,22,3.0,Lord of the Rings,Action,2015,2010s
+99,23,3.0,The Hobbit,Adventure,2014,2010s
+99,16,3.0,The Lion King,Romance,2003,2000s
+99,18,3.5,Avatar,Animation,2010,2010s
+99,48,3.5,Annihilation,Thriller,2011,2010s
+99,25,3.0,Spider-Man,Documentary,2004,2000s
+99,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+99,3,4.5,Forrest Gump,Animation,1993,1990s
+99,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+100,32,4.0,La La Land,Drama,1997,1990s
+100,6,4.0,Pulp Fiction,Adventure,1993,1990s
+100,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+100,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+100,4,3.5,The Matrix,Romance,1991,1990s
+100,9,5.0,Fight Club,Animation,2015,2010s
+100,44,4.5,No Country for Old Men,Documentary,2023,2020s
+100,40,4.5,Moneyball,Thriller,1996,1990s
+100,38,4.0,Rocketman,Horror,1994,1990s
+100,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+100,11,4.5,Schindler's List,Thriller,1999,1990s
+100,12,4.5,The Godfather,Animation,2003,2000s
+100,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+100,26,5.0,Batman Begins,Action,1990,1990s
+100,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+100,27,4.5,The Joker,Adventure,2014,2010s
+100,31,4.0,Whiplash,Documentary,1990,1990s
+100,46,5.0,Blade Runner 2049,Romance,2012,2010s
+100,35,3.5,Dunkirk,Horror,2006,2000s
+100,23,4.5,The Hobbit,Adventure,2014,2010s
+100,5,4.0,Interstellar,Horror,1995,1990s
+100,1,4.0,The Dark Knight,Horror,2003,2000s
+100,13,5.0,Avengers: Endgame,Animation,2020,2020s
+100,45,5.0,There Will Be Blood,Adventure,2022,2020s
+100,47,4.5,Ex Machina,Comedy,2013,2010s
+100,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+100,18,5.0,Avatar,Animation,2010,2010s
+101,12,3.5,The Godfather,Animation,2003,2000s
+101,14,3.5,Toy Story,Drama,2004,2000s
+101,4,3.0,The Matrix,Romance,1991,1990s
+101,29,3.5,Get Out,Horror,1998,1990s
+101,21,3.0,Harry Potter,Romance,2013,2010s
+102,48,4.0,Annihilation,Thriller,2011,2010s
+102,6,4.0,Pulp Fiction,Adventure,1993,1990s
+102,25,3.5,Spider-Man,Documentary,2004,2000s
+102,21,3.5,Harry Potter,Romance,2013,2010s
+102,27,3.0,The Joker,Adventure,2014,2010s
+102,32,4.0,La La Land,Drama,1997,1990s
+102,4,3.0,The Matrix,Romance,1991,1990s
+102,9,3.5,Fight Club,Animation,2015,2010s
+102,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+102,37,2.5,Bohemian Rhapsody,Documentary,2022,2020s
+102,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+102,38,3.5,Rocketman,Horror,1994,1990s
+102,45,3.0,There Will Be Blood,Adventure,2022,2020s
+102,18,4.5,Avatar,Animation,2010,2010s
+102,41,2.5,The Wolf of Wall Street,Documentary,1998,1990s
+102,8,3.0,Goodfellas,Horror,2007,2000s
+102,49,2.5,Arrival,Horror,2016,2010s
+102,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+102,23,4.0,The Hobbit,Adventure,2014,2010s
+102,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+102,12,3.5,The Godfather,Animation,2003,2000s
+102,50,4.0,Gravity,Animation,1990,1990s
+102,40,3.5,Moneyball,Thriller,1996,1990s
+102,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+102,20,2.5,Star Wars,Comedy,2007,2000s
+102,3,3.5,Forrest Gump,Animation,1993,1990s
+102,35,3.5,Dunkirk,Horror,2006,2000s
+102,28,3.0,Parasite,Drama,1996,1990s
+103,47,4.0,Ex Machina,Comedy,2013,2010s
+103,40,4.5,Moneyball,Thriller,1996,1990s
+103,17,4.0,Titanic,Comedy,2012,2010s
+103,3,5.0,Forrest Gump,Animation,1993,1990s
+103,18,5.0,Avatar,Animation,2010,2010s
+103,35,3.5,Dunkirk,Horror,2006,2000s
+103,11,4.0,Schindler's List,Thriller,1999,1990s
+103,1,4.0,The Dark Knight,Horror,2003,2000s
+103,39,3.5,The Social Network,Comedy,2017,2010s
+103,48,4.0,Annihilation,Thriller,2011,2010s
+103,24,4.5,Iron Man,Sci-Fi,2018,2010s
+103,20,4.0,Star Wars,Comedy,2007,2000s
+103,2,4.5,Inception,Thriller,2006,2000s
+103,13,4.5,Avengers: Endgame,Animation,2020,2020s
+103,5,4.0,Interstellar,Horror,1995,1990s
+103,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+103,38,3.5,Rocketman,Horror,1994,1990s
+103,28,5.0,Parasite,Drama,1996,1990s
+103,19,5.0,Jurassic Park,Sci-Fi,2005,2000s
+103,22,3.5,Lord of the Rings,Action,2015,2010s
+103,12,4.5,The Godfather,Animation,2003,2000s
+103,45,5.0,There Will Be Blood,Adventure,2022,2020s
+103,46,3.5,Blade Runner 2049,Romance,2012,2010s
+103,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+103,16,4.5,The Lion King,Romance,2003,2000s
+103,36,4.0,1917,Romance,1997,1990s
+104,49,2.5,Arrival,Horror,2016,2010s
+104,46,3.0,Blade Runner 2049,Romance,2012,2010s
+104,27,3.0,The Joker,Adventure,2014,2010s
+104,40,3.0,Moneyball,Thriller,1996,1990s
+104,17,2.0,Titanic,Comedy,2012,2010s
+104,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+104,48,3.0,Annihilation,Thriller,2011,2010s
+104,35,2.0,Dunkirk,Horror,2006,2000s
+104,36,2.0,1917,Romance,1997,1990s
+104,50,4.0,Gravity,Animation,1990,1990s
+104,24,4.0,Iron Man,Sci-Fi,2018,2010s
+104,4,2.5,The Matrix,Romance,1991,1990s
+104,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+104,20,2.0,Star Wars,Comedy,2007,2000s
+104,29,3.0,Get Out,Horror,1998,1990s
+104,11,3.5,Schindler's List,Thriller,1999,1990s
+104,39,2.5,The Social Network,Comedy,2017,2010s
+104,26,3.0,Batman Begins,Action,1990,1990s
+104,28,3.5,Parasite,Drama,1996,1990s
+104,5,3.0,Interstellar,Horror,1995,1990s
+104,14,3.0,Toy Story,Drama,2004,2000s
+104,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+104,37,2.5,Bohemian Rhapsody,Documentary,2022,2020s
+104,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+104,31,2.5,Whiplash,Documentary,1990,1990s
+104,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+105,30,2.5,A Beautiful Mind,Thriller,2013,2010s
+105,22,2.5,Lord of the Rings,Action,2015,2010s
+105,5,2.5,Interstellar,Horror,1995,1990s
+105,7,3.0,The Shawshank Redemption,Drama,2018,2010s
+105,44,2.5,No Country for Old Men,Documentary,2023,2020s
+105,6,2.5,Pulp Fiction,Adventure,1993,1990s
+105,46,2.0,Blade Runner 2049,Romance,2012,2010s
+105,45,2.5,There Will Be Blood,Adventure,2022,2020s
+105,33,2.0,The Grand Budapest Hotel,Romance,2013,2010s
+105,27,3.0,The Joker,Adventure,2014,2010s
+105,24,3.0,Iron Man,Sci-Fi,2018,2010s
+105,25,2.0,Spider-Man,Documentary,2004,2000s
+105,26,3.5,Batman Begins,Action,1990,1990s
+105,21,2.5,Harry Potter,Romance,2013,2010s
+105,23,2.0,The Hobbit,Adventure,2014,2010s
+105,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+105,36,2.5,1917,Romance,1997,1990s
+105,49,3.0,Arrival,Horror,2016,2010s
+105,31,2.0,Whiplash,Documentary,1990,1990s
+105,43,3.0,The Departed,Adventure,2001,2000s
+105,50,3.5,Gravity,Animation,1990,1990s
+105,15,2.5,Finding Nemo,Sci-Fi,1997,1990s
+105,20,2.5,Star Wars,Comedy,2007,2000s
+105,18,2.5,Avatar,Animation,2010,2010s
+105,29,2.0,Get Out,Horror,1998,1990s
+105,9,3.0,Fight Club,Animation,2015,2010s
+106,23,4.5,The Hobbit,Adventure,2014,2010s
+106,5,3.0,Interstellar,Horror,1995,1990s
+106,26,3.5,Batman Begins,Action,1990,1990s
+106,50,4.5,Gravity,Animation,1990,1990s
+106,48,4.0,Annihilation,Thriller,2011,2010s
+106,36,4.5,1917,Romance,1997,1990s
+106,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+106,45,3.5,There Will Be Blood,Adventure,2022,2020s
+106,6,3.5,Pulp Fiction,Adventure,1993,1990s
+106,4,4.0,The Matrix,Romance,1991,1990s
+106,35,3.5,Dunkirk,Horror,2006,2000s
+106,18,5.0,Avatar,Animation,2010,2010s
+106,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+106,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+106,39,4.5,The Social Network,Comedy,2017,2010s
+106,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+106,27,4.5,The Joker,Adventure,2014,2010s
+106,1,3.5,The Dark Knight,Horror,2003,2000s
+106,47,4.0,Ex Machina,Comedy,2013,2010s
+106,31,5.0,Whiplash,Documentary,1990,1990s
+106,40,4.0,Moneyball,Thriller,1996,1990s
+106,21,3.5,Harry Potter,Romance,2013,2010s
+106,25,4.5,Spider-Man,Documentary,2004,2000s
+106,43,3.5,The Departed,Adventure,2001,2000s
+106,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+106,29,4.0,Get Out,Horror,1998,1990s
+106,12,4.0,The Godfather,Animation,2003,2000s
+106,3,4.0,Forrest Gump,Animation,1993,1990s
+106,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+106,8,3.0,Goodfellas,Horror,2007,2000s
+107,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+107,38,3.5,Rocketman,Horror,1994,1990s
+107,6,4.0,Pulp Fiction,Adventure,1993,1990s
+107,32,4.0,La La Land,Drama,1997,1990s
+107,3,4.0,Forrest Gump,Animation,1993,1990s
+107,24,4.5,Iron Man,Sci-Fi,2018,2010s
+107,29,3.0,Get Out,Horror,1998,1990s
+107,20,3.5,Star Wars,Comedy,2007,2000s
+107,35,2.5,Dunkirk,Horror,2006,2000s
+107,22,3.5,Lord of the Rings,Action,2015,2010s
+107,5,2.5,Interstellar,Horror,1995,1990s
+107,48,4.0,Annihilation,Thriller,2011,2010s
+107,47,4.0,Ex Machina,Comedy,2013,2010s
+108,39,4.0,The Social Network,Comedy,2017,2010s
+108,5,3.0,Interstellar,Horror,1995,1990s
+108,43,3.5,The Departed,Adventure,2001,2000s
+108,20,3.5,Star Wars,Comedy,2007,2000s
+108,48,3.5,Annihilation,Thriller,2011,2010s
+108,6,3.5,Pulp Fiction,Adventure,1993,1990s
+108,9,4.5,Fight Club,Animation,2015,2010s
+108,11,4.5,Schindler's List,Thriller,1999,1990s
+108,36,3.5,1917,Romance,1997,1990s
+108,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+108,32,4.0,La La Land,Drama,1997,1990s
+108,35,4.0,Dunkirk,Horror,2006,2000s
+108,12,4.0,The Godfather,Animation,2003,2000s
+108,13,4.0,Avengers: Endgame,Animation,2020,2020s
+108,40,3.5,Moneyball,Thriller,1996,1990s
+108,18,4.5,Avatar,Animation,2010,2010s
+108,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+108,38,3.5,Rocketman,Horror,1994,1990s
+109,20,3.0,Star Wars,Comedy,2007,2000s
+109,27,3.0,The Joker,Adventure,2014,2010s
+109,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+109,14,4.5,Toy Story,Drama,2004,2000s
+109,17,2.5,Titanic,Comedy,2012,2010s
+109,47,3.5,Ex Machina,Comedy,2013,2010s
+109,38,2.5,Rocketman,Horror,1994,1990s
+109,12,4.5,The Godfather,Animation,2003,2000s
+109,32,3.5,La La Land,Drama,1997,1990s
+109,49,3.0,Arrival,Horror,2016,2010s
+109,36,3.0,1917,Romance,1997,1990s
+109,21,3.5,Harry Potter,Romance,2013,2010s
+109,2,4.5,Inception,Thriller,2006,2000s
+109,4,2.5,The Matrix,Romance,1991,1990s
+109,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+109,5,3.0,Interstellar,Horror,1995,1990s
+109,1,2.5,The Dark Knight,Horror,2003,2000s
+109,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+109,3,4.5,Forrest Gump,Animation,1993,1990s
+110,46,3.0,Blade Runner 2049,Romance,2012,2010s
+110,12,3.0,The Godfather,Animation,2003,2000s
+110,43,3.5,The Departed,Adventure,2001,2000s
+110,32,3.5,La La Land,Drama,1997,1990s
+110,21,4.0,Harry Potter,Romance,2013,2010s
+110,20,3.5,Star Wars,Comedy,2007,2000s
+110,11,4.0,Schindler's List,Thriller,1999,1990s
+110,50,4.0,Gravity,Animation,1990,1990s
+110,13,4.0,Avengers: Endgame,Animation,2020,2020s
+110,14,4.5,Toy Story,Drama,2004,2000s
+110,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+110,27,3.5,The Joker,Adventure,2014,2010s
+110,38,3.5,Rocketman,Horror,1994,1990s
+110,23,3.0,The Hobbit,Adventure,2014,2010s
+110,5,3.5,Interstellar,Horror,1995,1990s
+110,9,3.5,Fight Club,Animation,2015,2010s
+110,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+110,49,3.0,Arrival,Horror,2016,2010s
+110,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+110,16,3.0,The Lion King,Romance,2003,2000s
+110,1,3.5,The Dark Knight,Horror,2003,2000s
+110,22,4.0,Lord of the Rings,Action,2015,2010s
+110,47,3.0,Ex Machina,Comedy,2013,2010s
+110,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+110,8,3.0,Goodfellas,Horror,2007,2000s
+110,48,3.5,Annihilation,Thriller,2011,2010s
+110,6,3.5,Pulp Fiction,Adventure,1993,1990s
+110,40,4.0,Moneyball,Thriller,1996,1990s
+110,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+110,35,3.0,Dunkirk,Horror,2006,2000s
+111,23,3.0,The Hobbit,Adventure,2014,2010s
+111,3,4.0,Forrest Gump,Animation,1993,1990s
+111,47,3.5,Ex Machina,Comedy,2013,2010s
+111,12,4.0,The Godfather,Animation,2003,2000s
+111,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+111,8,2.0,Goodfellas,Horror,2007,2000s
+111,39,3.5,The Social Network,Comedy,2017,2010s
+111,40,3.5,Moneyball,Thriller,1996,1990s
+111,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+111,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+111,32,3.5,La La Land,Drama,1997,1990s
+111,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+111,38,3.0,Rocketman,Horror,1994,1990s
+111,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+111,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+111,16,2.5,The Lion King,Romance,2003,2000s
+111,2,4.0,Inception,Thriller,2006,2000s
+111,48,4.0,Annihilation,Thriller,2011,2010s
+111,25,3.0,Spider-Man,Documentary,2004,2000s
+112,8,2.5,Goodfellas,Horror,2007,2000s
+112,6,2.5,Pulp Fiction,Adventure,1993,1990s
+112,2,4.0,Inception,Thriller,2006,2000s
+112,26,4.0,Batman Begins,Action,1990,1990s
+112,31,3.5,Whiplash,Documentary,1990,1990s
+112,27,4.0,The Joker,Adventure,2014,2010s
+112,44,3.5,No Country for Old Men,Documentary,2023,2020s
+112,40,3.5,Moneyball,Thriller,1996,1990s
+112,21,3.0,Harry Potter,Romance,2013,2010s
+112,47,3.0,Ex Machina,Comedy,2013,2010s
+112,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+112,23,3.5,The Hobbit,Adventure,2014,2010s
+112,36,3.5,1917,Romance,1997,1990s
+112,39,2.5,The Social Network,Comedy,2017,2010s
+112,18,3.5,Avatar,Animation,2010,2010s
+112,5,2.5,Interstellar,Horror,1995,1990s
+112,49,2.5,Arrival,Horror,2016,2010s
+112,13,4.0,Avengers: Endgame,Animation,2020,2020s
+112,35,3.0,Dunkirk,Horror,2006,2000s
+112,14,4.0,Toy Story,Drama,2004,2000s
+112,28,4.0,Parasite,Drama,1996,1990s
+112,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+112,29,2.0,Get Out,Horror,1998,1990s
+112,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+113,44,3.0,No Country for Old Men,Documentary,2023,2020s
+113,47,3.0,Ex Machina,Comedy,2013,2010s
+113,20,3.0,Star Wars,Comedy,2007,2000s
+113,8,2.5,Goodfellas,Horror,2007,2000s
+113,4,3.0,The Matrix,Romance,1991,1990s
+113,46,2.0,Blade Runner 2049,Romance,2012,2010s
+113,5,3.5,Interstellar,Horror,1995,1990s
+113,25,3.0,Spider-Man,Documentary,2004,2000s
+113,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+113,38,3.5,Rocketman,Horror,1994,1990s
+113,28,3.5,Parasite,Drama,1996,1990s
+113,12,4.0,The Godfather,Animation,2003,2000s
+113,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+113,36,4.0,1917,Romance,1997,1990s
+114,12,4.0,The Godfather,Animation,2003,2000s
+114,2,4.0,Inception,Thriller,2006,2000s
+114,43,4.0,The Departed,Adventure,2001,2000s
+114,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+114,24,4.0,Iron Man,Sci-Fi,2018,2010s
+114,22,3.5,Lord of the Rings,Action,2015,2010s
+114,21,2.5,Harry Potter,Romance,2013,2010s
+114,8,3.5,Goodfellas,Horror,2007,2000s
+115,46,2.0,Blade Runner 2049,Romance,2012,2010s
+115,14,3.0,Toy Story,Drama,2004,2000s
+115,48,3.5,Annihilation,Thriller,2011,2010s
+115,20,3.0,Star Wars,Comedy,2007,2000s
+115,11,4.0,Schindler's List,Thriller,1999,1990s
+115,50,4.0,Gravity,Animation,1990,1990s
+115,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+115,9,3.5,Fight Club,Animation,2015,2010s
+115,35,3.0,Dunkirk,Horror,2006,2000s
+116,50,3.0,Gravity,Animation,1990,1990s
+116,35,3.5,Dunkirk,Horror,2006,2000s
+116,31,3.0,Whiplash,Documentary,1990,1990s
+116,26,3.0,Batman Begins,Action,1990,1990s
+116,23,3.5,The Hobbit,Adventure,2014,2010s
+116,28,4.0,Parasite,Drama,1996,1990s
+116,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+116,47,3.0,Ex Machina,Comedy,2013,2010s
+116,17,3.0,Titanic,Comedy,2012,2010s
+116,4,2.5,The Matrix,Romance,1991,1990s
+116,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+116,18,3.0,Avatar,Animation,2010,2010s
+116,12,3.5,The Godfather,Animation,2003,2000s
+116,44,3.0,No Country for Old Men,Documentary,2023,2020s
+116,6,3.5,Pulp Fiction,Adventure,1993,1990s
+116,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+116,36,3.0,1917,Romance,1997,1990s
+116,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+116,27,3.5,The Joker,Adventure,2014,2010s
+116,29,2.5,Get Out,Horror,1998,1990s
+116,48,4.0,Annihilation,Thriller,2011,2010s
+116,38,2.5,Rocketman,Horror,1994,1990s
+116,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+117,25,2.0,Spider-Man,Documentary,2004,2000s
+117,10,1.5,The Silence of the Lambs,Romance,2023,2020s
+117,28,3.0,Parasite,Drama,1996,1990s
+117,4,1.5,The Matrix,Romance,1991,1990s
+117,26,2.5,Batman Begins,Action,1990,1990s
+117,31,2.5,Whiplash,Documentary,1990,1990s
+117,20,2.0,Star Wars,Comedy,2007,2000s
+117,11,3.0,Schindler's List,Thriller,1999,1990s
+117,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+117,14,2.5,Toy Story,Drama,2004,2000s
+117,36,3.0,1917,Romance,1997,1990s
+117,7,3.0,The Shawshank Redemption,Drama,2018,2010s
+117,32,2.5,La La Land,Drama,1997,1990s
+117,13,3.0,Avengers: Endgame,Animation,2020,2020s
+117,2,2.5,Inception,Thriller,2006,2000s
+118,43,4.0,The Departed,Adventure,2001,2000s
+118,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+118,24,4.5,Iron Man,Sci-Fi,2018,2010s
+118,40,4.5,Moneyball,Thriller,1996,1990s
+118,6,4.0,Pulp Fiction,Adventure,1993,1990s
+118,44,4.5,No Country for Old Men,Documentary,2023,2020s
+118,48,4.0,Annihilation,Thriller,2011,2010s
+118,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+119,47,3.0,Ex Machina,Comedy,2013,2010s
+119,45,3.5,There Will Be Blood,Adventure,2022,2020s
+119,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+119,2,4.0,Inception,Thriller,2006,2000s
+119,25,3.5,Spider-Man,Documentary,2004,2000s
+119,24,4.0,Iron Man,Sci-Fi,2018,2010s
+119,12,5.0,The Godfather,Animation,2003,2000s
+119,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+119,14,4.0,Toy Story,Drama,2004,2000s
+119,16,3.0,The Lion King,Romance,2003,2000s
+119,21,3.5,Harry Potter,Romance,2013,2010s
+119,22,4.0,Lord of the Rings,Action,2015,2010s
+120,20,3.5,Star Wars,Comedy,2007,2000s
+120,13,5.0,Avengers: Endgame,Animation,2020,2020s
+120,3,4.5,Forrest Gump,Animation,1993,1990s
+120,44,3.5,No Country for Old Men,Documentary,2023,2020s
+120,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+120,24,4.5,Iron Man,Sci-Fi,2018,2010s
+120,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+120,35,3.5,Dunkirk,Horror,2006,2000s
+120,23,3.5,The Hobbit,Adventure,2014,2010s
+120,48,4.5,Annihilation,Thriller,2011,2010s
+120,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+120,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+120,27,4.0,The Joker,Adventure,2014,2010s
+120,36,3.0,1917,Romance,1997,1990s
+120,39,2.5,The Social Network,Comedy,2017,2010s
+120,31,3.5,Whiplash,Documentary,1990,1990s
+120,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+121,18,4.0,Avatar,Animation,2010,2010s
+121,17,3.0,Titanic,Comedy,2012,2010s
+121,31,3.5,Whiplash,Documentary,1990,1990s
+121,28,5.0,Parasite,Drama,1996,1990s
+121,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+121,14,4.0,Toy Story,Drama,2004,2000s
+121,26,4.5,Batman Begins,Action,1990,1990s
+121,47,4.0,Ex Machina,Comedy,2013,2010s
+121,11,3.5,Schindler's List,Thriller,1999,1990s
+122,23,4.0,The Hobbit,Adventure,2014,2010s
+122,49,3.5,Arrival,Horror,2016,2010s
+122,18,4.5,Avatar,Animation,2010,2010s
+122,21,3.0,Harry Potter,Romance,2013,2010s
+122,6,3.5,Pulp Fiction,Adventure,1993,1990s
+122,36,3.5,1917,Romance,1997,1990s
+122,38,3.0,Rocketman,Horror,1994,1990s
+122,43,3.0,The Departed,Adventure,2001,2000s
+122,24,3.5,Iron Man,Sci-Fi,2018,2010s
+122,8,3.0,Goodfellas,Horror,2007,2000s
+122,29,3.0,Get Out,Horror,1998,1990s
+122,28,4.5,Parasite,Drama,1996,1990s
+122,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+122,27,3.5,The Joker,Adventure,2014,2010s
+122,46,4.0,Blade Runner 2049,Romance,2012,2010s
+122,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+122,47,3.5,Ex Machina,Comedy,2013,2010s
+122,16,3.5,The Lion King,Romance,2003,2000s
+122,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+122,48,3.5,Annihilation,Thriller,2011,2010s
+122,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+122,2,4.5,Inception,Thriller,2006,2000s
+123,14,3.5,Toy Story,Drama,2004,2000s
+123,4,2.5,The Matrix,Romance,1991,1990s
+123,29,3.0,Get Out,Horror,1998,1990s
+123,22,3.5,Lord of the Rings,Action,2015,2010s
+123,2,3.5,Inception,Thriller,2006,2000s
+123,5,3.0,Interstellar,Horror,1995,1990s
+123,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+123,40,4.0,Moneyball,Thriller,1996,1990s
+123,49,2.5,Arrival,Horror,2016,2010s
+123,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+123,32,3.5,La La Land,Drama,1997,1990s
+123,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+123,50,4.0,Gravity,Animation,1990,1990s
+123,6,3.0,Pulp Fiction,Adventure,1993,1990s
+123,8,3.0,Goodfellas,Horror,2007,2000s
+123,11,4.0,Schindler's List,Thriller,1999,1990s
+123,46,3.5,Blade Runner 2049,Romance,2012,2010s
+123,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+123,43,3.0,The Departed,Adventure,2001,2000s
+123,26,3.0,Batman Begins,Action,1990,1990s
+123,36,3.5,1917,Romance,1997,1990s
+123,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+123,45,3.5,There Will Be Blood,Adventure,2022,2020s
+123,25,3.5,Spider-Man,Documentary,2004,2000s
+123,23,3.0,The Hobbit,Adventure,2014,2010s
+123,39,2.5,The Social Network,Comedy,2017,2010s
+123,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+123,1,3.0,The Dark Knight,Horror,2003,2000s
+123,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+123,3,3.5,Forrest Gump,Animation,1993,1990s
+124,24,3.5,Iron Man,Sci-Fi,2018,2010s
+124,14,4.5,Toy Story,Drama,2004,2000s
+124,6,3.0,Pulp Fiction,Adventure,1993,1990s
+124,31,3.5,Whiplash,Documentary,1990,1990s
+124,1,2.5,The Dark Knight,Horror,2003,2000s
+124,50,4.5,Gravity,Animation,1990,1990s
+124,17,3.0,Titanic,Comedy,2012,2010s
+125,17,3.5,Titanic,Comedy,2012,2010s
+125,5,3.5,Interstellar,Horror,1995,1990s
+125,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+125,24,4.0,Iron Man,Sci-Fi,2018,2010s
+125,4,3.5,The Matrix,Romance,1991,1990s
+125,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+125,13,4.0,Avengers: Endgame,Animation,2020,2020s
+126,14,4.0,Toy Story,Drama,2004,2000s
+126,12,4.0,The Godfather,Animation,2003,2000s
+126,13,4.0,Avengers: Endgame,Animation,2020,2020s
+126,25,3.5,Spider-Man,Documentary,2004,2000s
+126,48,4.0,Annihilation,Thriller,2011,2010s
+126,5,3.0,Interstellar,Horror,1995,1990s
+126,8,3.5,Goodfellas,Horror,2007,2000s
+126,35,3.5,Dunkirk,Horror,2006,2000s
+126,27,3.5,The Joker,Adventure,2014,2010s
+126,44,3.5,No Country for Old Men,Documentary,2023,2020s
+126,6,4.5,Pulp Fiction,Adventure,1993,1990s
+126,40,4.0,Moneyball,Thriller,1996,1990s
+126,1,3.5,The Dark Knight,Horror,2003,2000s
+126,3,4.5,Forrest Gump,Animation,1993,1990s
+126,43,3.5,The Departed,Adventure,2001,2000s
+126,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+126,45,4.0,There Will Be Blood,Adventure,2022,2020s
+126,18,3.5,Avatar,Animation,2010,2010s
+126,49,3.0,Arrival,Horror,2016,2010s
+126,38,3.0,Rocketman,Horror,1994,1990s
+126,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+126,24,4.0,Iron Man,Sci-Fi,2018,2010s
+126,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+126,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+126,31,3.5,Whiplash,Documentary,1990,1990s
+126,32,4.0,La La Land,Drama,1997,1990s
+126,50,4.0,Gravity,Animation,1990,1990s
+126,9,5.0,Fight Club,Animation,2015,2010s
+126,36,3.5,1917,Romance,1997,1990s
+127,12,4.5,The Godfather,Animation,2003,2000s
+127,33,4.5,The Grand Budapest Hotel,Romance,2013,2010s
+127,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+127,8,4.5,Goodfellas,Horror,2007,2000s
+127,26,5.0,Batman Begins,Action,1990,1990s
+127,43,4.5,The Departed,Adventure,2001,2000s
+127,18,5.0,Avatar,Animation,2010,2010s
+127,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+127,28,4.0,Parasite,Drama,1996,1990s
+127,44,5.0,No Country for Old Men,Documentary,2023,2020s
+128,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+128,45,5.0,There Will Be Blood,Adventure,2022,2020s
+128,19,5.0,Jurassic Park,Sci-Fi,2005,2000s
+128,9,4.5,Fight Club,Animation,2015,2010s
+128,31,4.0,Whiplash,Documentary,1990,1990s
+128,38,4.0,Rocketman,Horror,1994,1990s
+128,21,4.5,Harry Potter,Romance,2013,2010s
+128,40,4.5,Moneyball,Thriller,1996,1990s
+128,36,4.0,1917,Romance,1997,1990s
+128,28,5.0,Parasite,Drama,1996,1990s
+129,32,4.0,La La Land,Drama,1997,1990s
+129,29,4.0,Get Out,Horror,1998,1990s
+129,31,3.5,Whiplash,Documentary,1990,1990s
+129,14,4.5,Toy Story,Drama,2004,2000s
+129,43,4.5,The Departed,Adventure,2001,2000s
+129,6,4.5,Pulp Fiction,Adventure,1993,1990s
+129,11,4.0,Schindler's List,Thriller,1999,1990s
+129,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+129,9,4.5,Fight Club,Animation,2015,2010s
+129,40,4.5,Moneyball,Thriller,1996,1990s
+129,27,4.0,The Joker,Adventure,2014,2010s
+129,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+129,21,4.5,Harry Potter,Romance,2013,2010s
+129,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+129,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+129,36,3.5,1917,Romance,1997,1990s
+129,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+129,25,4.0,Spider-Man,Documentary,2004,2000s
+129,12,4.5,The Godfather,Animation,2003,2000s
+129,48,4.5,Annihilation,Thriller,2011,2010s
+129,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+129,44,3.0,No Country for Old Men,Documentary,2023,2020s
+129,45,4.0,There Will Be Blood,Adventure,2022,2020s
+129,8,3.5,Goodfellas,Horror,2007,2000s
+129,16,4.5,The Lion King,Romance,2003,2000s
+130,35,3.0,Dunkirk,Horror,2006,2000s
+130,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+130,39,3.5,The Social Network,Comedy,2017,2010s
+130,17,3.0,Titanic,Comedy,2012,2010s
+130,11,3.0,Schindler's List,Thriller,1999,1990s
+130,1,3.5,The Dark Knight,Horror,2003,2000s
+130,38,2.5,Rocketman,Horror,1994,1990s
+130,48,3.5,Annihilation,Thriller,2011,2010s
+130,20,3.5,Star Wars,Comedy,2007,2000s
+130,22,3.0,Lord of the Rings,Action,2015,2010s
+130,2,3.0,Inception,Thriller,2006,2000s
+130,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+130,45,2.5,There Will Be Blood,Adventure,2022,2020s
+130,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+130,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+130,29,2.5,Get Out,Horror,1998,1990s
+130,6,2.5,Pulp Fiction,Adventure,1993,1990s
+130,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+130,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+130,32,4.0,La La Land,Drama,1997,1990s
+130,4,3.0,The Matrix,Romance,1991,1990s
+130,43,3.0,The Departed,Adventure,2001,2000s
+130,12,4.0,The Godfather,Animation,2003,2000s
+131,50,3.0,Gravity,Animation,1990,1990s
+131,3,3.5,Forrest Gump,Animation,1993,1990s
+131,21,2.0,Harry Potter,Romance,2013,2010s
+131,1,3.0,The Dark Knight,Horror,2003,2000s
+131,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+132,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+132,39,3.0,The Social Network,Comedy,2017,2010s
+132,50,4.0,Gravity,Animation,1990,1990s
+132,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+132,36,2.5,1917,Romance,1997,1990s
+132,49,3.0,Arrival,Horror,2016,2010s
+132,2,3.0,Inception,Thriller,2006,2000s
+132,17,3.5,Titanic,Comedy,2012,2010s
+132,48,3.5,Annihilation,Thriller,2011,2010s
+132,24,4.5,Iron Man,Sci-Fi,2018,2010s
+132,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+132,18,4.0,Avatar,Animation,2010,2010s
+132,10,2.0,The Silence of the Lambs,Romance,2023,2020s
+132,31,3.5,Whiplash,Documentary,1990,1990s
+132,12,4.0,The Godfather,Animation,2003,2000s
+132,9,4.0,Fight Club,Animation,2015,2010s
+132,28,3.5,Parasite,Drama,1996,1990s
+132,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+132,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+133,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+133,35,3.5,Dunkirk,Horror,2006,2000s
+133,18,4.0,Avatar,Animation,2010,2010s
+133,28,4.5,Parasite,Drama,1996,1990s
+133,26,3.5,Batman Begins,Action,1990,1990s
+133,11,4.0,Schindler's List,Thriller,1999,1990s
+133,31,4.0,Whiplash,Documentary,1990,1990s
+133,23,3.0,The Hobbit,Adventure,2014,2010s
+133,39,3.5,The Social Network,Comedy,2017,2010s
+133,32,4.0,La La Land,Drama,1997,1990s
+133,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+133,40,4.5,Moneyball,Thriller,1996,1990s
+133,22,4.0,Lord of the Rings,Action,2015,2010s
+133,5,3.5,Interstellar,Horror,1995,1990s
+133,25,4.0,Spider-Man,Documentary,2004,2000s
+133,45,3.5,There Will Be Blood,Adventure,2022,2020s
+133,6,4.0,Pulp Fiction,Adventure,1993,1990s
+134,2,3.0,Inception,Thriller,2006,2000s
+134,27,1.5,The Joker,Adventure,2014,2010s
+134,6,2.0,Pulp Fiction,Adventure,1993,1990s
+134,8,1.0,Goodfellas,Horror,2007,2000s
+134,3,2.0,Forrest Gump,Animation,1993,1990s
+134,25,2.0,Spider-Man,Documentary,2004,2000s
+134,1,1.5,The Dark Knight,Horror,2003,2000s
+134,22,2.0,Lord of the Rings,Action,2015,2010s
+134,42,2.0,Catch Me If You Can,Comedy,1997,1990s
+134,19,2.5,Jurassic Park,Sci-Fi,2005,2000s
+134,41,2.0,The Wolf of Wall Street,Documentary,1998,1990s
+134,9,3.0,Fight Club,Animation,2015,2010s
+134,37,2.0,Bohemian Rhapsody,Documentary,2022,2020s
+134,26,2.0,Batman Begins,Action,1990,1990s
+134,48,2.5,Annihilation,Thriller,2011,2010s
+134,18,2.0,Avatar,Animation,2010,2010s
+134,40,1.5,Moneyball,Thriller,1996,1990s
+134,44,2.5,No Country for Old Men,Documentary,2023,2020s
+134,31,2.5,Whiplash,Documentary,1990,1990s
+135,40,3.5,Moneyball,Thriller,1996,1990s
+135,16,3.0,The Lion King,Romance,2003,2000s
+135,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+135,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+135,49,3.5,Arrival,Horror,2016,2010s
+135,13,3.5,Avengers: Endgame,Animation,2020,2020s
+135,14,3.5,Toy Story,Drama,2004,2000s
+135,43,3.5,The Departed,Adventure,2001,2000s
+135,36,3.0,1917,Romance,1997,1990s
+136,50,4.0,Gravity,Animation,1990,1990s
+136,17,3.0,Titanic,Comedy,2012,2010s
+136,39,3.5,The Social Network,Comedy,2017,2010s
+136,33,4.5,The Grand Budapest Hotel,Romance,2013,2010s
+136,8,3.5,Goodfellas,Horror,2007,2000s
+136,44,4.5,No Country for Old Men,Documentary,2023,2020s
+136,23,3.5,The Hobbit,Adventure,2014,2010s
+136,45,3.5,There Will Be Blood,Adventure,2022,2020s
+136,25,3.0,Spider-Man,Documentary,2004,2000s
+136,5,3.5,Interstellar,Horror,1995,1990s
+136,18,3.5,Avatar,Animation,2010,2010s
+136,6,4.5,Pulp Fiction,Adventure,1993,1990s
+136,22,3.0,Lord of the Rings,Action,2015,2010s
+136,48,4.0,Annihilation,Thriller,2011,2010s
+136,20,2.5,Star Wars,Comedy,2007,2000s
+136,36,3.0,1917,Romance,1997,1990s
+136,46,3.0,Blade Runner 2049,Romance,2012,2010s
+136,16,3.0,The Lion King,Romance,2003,2000s
+137,39,2.5,The Social Network,Comedy,2017,2010s
+137,36,2.5,1917,Romance,1997,1990s
+137,6,2.5,Pulp Fiction,Adventure,1993,1990s
+137,14,2.5,Toy Story,Drama,2004,2000s
+137,31,3.5,Whiplash,Documentary,1990,1990s
+137,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+137,26,3.0,Batman Begins,Action,1990,1990s
+137,48,3.5,Annihilation,Thriller,2011,2010s
+137,44,4.0,No Country for Old Men,Documentary,2023,2020s
+137,11,2.5,Schindler's List,Thriller,1999,1990s
+137,32,3.5,La La Land,Drama,1997,1990s
+137,24,3.0,Iron Man,Sci-Fi,2018,2010s
+138,11,4.0,Schindler's List,Thriller,1999,1990s
+138,35,3.5,Dunkirk,Horror,2006,2000s
+138,46,3.5,Blade Runner 2049,Romance,2012,2010s
+138,2,4.5,Inception,Thriller,2006,2000s
+138,27,4.0,The Joker,Adventure,2014,2010s
+138,49,3.0,Arrival,Horror,2016,2010s
+138,20,3.5,Star Wars,Comedy,2007,2000s
+138,18,4.5,Avatar,Animation,2010,2010s
+138,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+138,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+138,29,3.0,Get Out,Horror,1998,1990s
+138,4,3.5,The Matrix,Romance,1991,1990s
+138,50,5.0,Gravity,Animation,1990,1990s
+138,24,4.5,Iron Man,Sci-Fi,2018,2010s
+138,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+138,8,4.0,Goodfellas,Horror,2007,2000s
+138,32,4.5,La La Land,Drama,1997,1990s
+138,44,4.5,No Country for Old Men,Documentary,2023,2020s
+138,5,3.5,Interstellar,Horror,1995,1990s
+138,16,3.5,The Lion King,Romance,2003,2000s
+138,40,3.5,Moneyball,Thriller,1996,1990s
+138,6,4.0,Pulp Fiction,Adventure,1993,1990s
+138,23,4.5,The Hobbit,Adventure,2014,2010s
+138,12,5.0,The Godfather,Animation,2003,2000s
+138,47,4.0,Ex Machina,Comedy,2013,2010s
+138,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+139,49,3.0,Arrival,Horror,2016,2010s
+139,31,3.0,Whiplash,Documentary,1990,1990s
+139,43,3.5,The Departed,Adventure,2001,2000s
+139,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+139,1,2.5,The Dark Knight,Horror,2003,2000s
+139,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+139,26,3.5,Batman Begins,Action,1990,1990s
+139,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+139,50,3.5,Gravity,Animation,1990,1990s
+139,5,3.0,Interstellar,Horror,1995,1990s
+139,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+139,46,3.5,Blade Runner 2049,Romance,2012,2010s
+139,48,2.5,Annihilation,Thriller,2011,2010s
+139,20,2.5,Star Wars,Comedy,2007,2000s
+139,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+139,14,3.5,Toy Story,Drama,2004,2000s
+139,4,2.5,The Matrix,Romance,1991,1990s
+139,2,2.5,Inception,Thriller,2006,2000s
+139,25,3.0,Spider-Man,Documentary,2004,2000s
+139,9,3.0,Fight Club,Animation,2015,2010s
+140,3,5.0,Forrest Gump,Animation,1993,1990s
+140,36,4.0,1917,Romance,1997,1990s
+140,5,3.5,Interstellar,Horror,1995,1990s
+140,28,4.5,Parasite,Drama,1996,1990s
+140,11,4.5,Schindler's List,Thriller,1999,1990s
+141,9,5.0,Fight Club,Animation,2015,2010s
+141,27,5.0,The Joker,Adventure,2014,2010s
+141,30,5.0,A Beautiful Mind,Thriller,2013,2010s
+141,29,5.0,Get Out,Horror,1998,1990s
+141,42,5.0,Catch Me If You Can,Comedy,1997,1990s
+141,18,5.0,Avatar,Animation,2010,2010s
+141,11,5.0,Schindler's List,Thriller,1999,1990s
+141,31,5.0,Whiplash,Documentary,1990,1990s
+141,50,5.0,Gravity,Animation,1990,1990s
+141,10,4.5,The Silence of the Lambs,Romance,2023,2020s
+141,17,4.5,Titanic,Comedy,2012,2010s
+141,32,5.0,La La Land,Drama,1997,1990s
+141,20,5.0,Star Wars,Comedy,2007,2000s
+141,21,4.0,Harry Potter,Romance,2013,2010s
+141,37,5.0,Bohemian Rhapsody,Documentary,2022,2020s
+141,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+141,2,4.5,Inception,Thriller,2006,2000s
+141,16,5.0,The Lion King,Romance,2003,2000s
+141,1,5.0,The Dark Knight,Horror,2003,2000s
+141,24,5.0,Iron Man,Sci-Fi,2018,2010s
+141,5,5.0,Interstellar,Horror,1995,1990s
+141,19,5.0,Jurassic Park,Sci-Fi,2005,2000s
+141,26,5.0,Batman Begins,Action,1990,1990s
+141,41,5.0,The Wolf of Wall Street,Documentary,1998,1990s
+141,35,4.5,Dunkirk,Horror,2006,2000s
+141,44,5.0,No Country for Old Men,Documentary,2023,2020s
+141,22,5.0,Lord of the Rings,Action,2015,2010s
+141,47,4.5,Ex Machina,Comedy,2013,2010s
+141,3,5.0,Forrest Gump,Animation,1993,1990s
+142,39,2.0,The Social Network,Comedy,2017,2010s
+142,36,3.0,1917,Romance,1997,1990s
+142,35,2.0,Dunkirk,Horror,2006,2000s
+142,11,3.5,Schindler's List,Thriller,1999,1990s
+142,26,2.5,Batman Begins,Action,1990,1990s
+142,8,3.0,Goodfellas,Horror,2007,2000s
+142,2,3.0,Inception,Thriller,2006,2000s
+142,41,2.5,The Wolf of Wall Street,Documentary,1998,1990s
+142,46,3.0,Blade Runner 2049,Romance,2012,2010s
+142,4,2.5,The Matrix,Romance,1991,1990s
+142,16,2.0,The Lion King,Romance,2003,2000s
+142,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+142,18,3.5,Avatar,Animation,2010,2010s
+142,28,3.5,Parasite,Drama,1996,1990s
+142,10,1.5,The Silence of the Lambs,Romance,2023,2020s
+142,7,3.0,The Shawshank Redemption,Drama,2018,2010s
+142,3,3.5,Forrest Gump,Animation,1993,1990s
+142,22,3.0,Lord of the Rings,Action,2015,2010s
+142,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+142,49,2.5,Arrival,Horror,2016,2010s
+143,14,4.0,Toy Story,Drama,2004,2000s
+143,8,3.0,Goodfellas,Horror,2007,2000s
+143,20,3.5,Star Wars,Comedy,2007,2000s
+143,4,3.5,The Matrix,Romance,1991,1990s
+143,21,3.0,Harry Potter,Romance,2013,2010s
+143,25,4.0,Spider-Man,Documentary,2004,2000s
+143,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+143,29,3.0,Get Out,Horror,1998,1990s
+143,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+143,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+143,48,4.5,Annihilation,Thriller,2011,2010s
+143,3,4.0,Forrest Gump,Animation,1993,1990s
+143,26,3.0,Batman Begins,Action,1990,1990s
+143,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+143,36,2.0,1917,Romance,1997,1990s
+143,44,4.0,No Country for Old Men,Documentary,2023,2020s
+143,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+143,1,3.0,The Dark Knight,Horror,2003,2000s
+143,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+143,12,4.0,The Godfather,Animation,2003,2000s
+143,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+143,47,2.5,Ex Machina,Comedy,2013,2010s
+143,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+143,40,4.0,Moneyball,Thriller,1996,1990s
+143,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+143,22,3.5,Lord of the Rings,Action,2015,2010s
+143,11,3.0,Schindler's List,Thriller,1999,1990s
+144,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+144,49,3.0,Arrival,Horror,2016,2010s
+144,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+144,21,3.5,Harry Potter,Romance,2013,2010s
+144,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+144,50,4.5,Gravity,Animation,1990,1990s
+144,46,3.0,Blade Runner 2049,Romance,2012,2010s
+144,48,4.0,Annihilation,Thriller,2011,2010s
+144,47,3.0,Ex Machina,Comedy,2013,2010s
+144,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+144,12,4.0,The Godfather,Animation,2003,2000s
+144,2,3.5,Inception,Thriller,2006,2000s
+144,22,3.0,Lord of the Rings,Action,2015,2010s
+144,9,3.5,Fight Club,Animation,2015,2010s
+144,14,4.0,Toy Story,Drama,2004,2000s
+144,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+144,25,3.0,Spider-Man,Documentary,2004,2000s
+144,3,3.5,Forrest Gump,Animation,1993,1990s
+144,6,4.0,Pulp Fiction,Adventure,1993,1990s
+144,31,3.0,Whiplash,Documentary,1990,1990s
+144,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+145,22,3.5,Lord of the Rings,Action,2015,2010s
+145,44,2.5,No Country for Old Men,Documentary,2023,2020s
+145,8,3.5,Goodfellas,Horror,2007,2000s
+145,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+145,40,3.5,Moneyball,Thriller,1996,1990s
+146,22,4.0,Lord of the Rings,Action,2015,2010s
+146,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+146,43,4.5,The Departed,Adventure,2001,2000s
+146,9,5.0,Fight Club,Animation,2015,2010s
+146,46,3.5,Blade Runner 2049,Romance,2012,2010s
+146,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+146,1,3.5,The Dark Knight,Horror,2003,2000s
+146,14,5.0,Toy Story,Drama,2004,2000s
+146,32,4.0,La La Land,Drama,1997,1990s
+146,17,3.5,Titanic,Comedy,2012,2010s
+146,2,4.5,Inception,Thriller,2006,2000s
+146,5,4.0,Interstellar,Horror,1995,1990s
+146,31,4.0,Whiplash,Documentary,1990,1990s
+146,48,4.0,Annihilation,Thriller,2011,2010s
+146,29,3.0,Get Out,Horror,1998,1990s
+146,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+146,49,4.0,Arrival,Horror,2016,2010s
+146,18,5.0,Avatar,Animation,2010,2010s
+146,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+146,38,4.0,Rocketman,Horror,1994,1990s
+146,21,4.0,Harry Potter,Romance,2013,2010s
+146,26,4.0,Batman Begins,Action,1990,1990s
+146,50,4.5,Gravity,Animation,1990,1990s
+146,39,4.0,The Social Network,Comedy,2017,2010s
+146,8,3.5,Goodfellas,Horror,2007,2000s
+146,40,5.0,Moneyball,Thriller,1996,1990s
+147,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+147,25,4.0,Spider-Man,Documentary,2004,2000s
+147,48,4.0,Annihilation,Thriller,2011,2010s
+147,23,5.0,The Hobbit,Adventure,2014,2010s
+147,28,4.0,Parasite,Drama,1996,1990s
+147,14,5.0,Toy Story,Drama,2004,2000s
+147,32,5.0,La La Land,Drama,1997,1990s
+147,39,3.5,The Social Network,Comedy,2017,2010s
+148,17,4.5,Titanic,Comedy,2012,2010s
+148,39,4.0,The Social Network,Comedy,2017,2010s
+148,14,4.5,Toy Story,Drama,2004,2000s
+148,28,5.0,Parasite,Drama,1996,1990s
+148,50,4.0,Gravity,Animation,1990,1990s
+148,13,4.5,Avengers: Endgame,Animation,2020,2020s
+148,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+148,49,3.5,Arrival,Horror,2016,2010s
+148,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+148,18,5.0,Avatar,Animation,2010,2010s
+148,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+148,24,4.5,Iron Man,Sci-Fi,2018,2010s
+148,38,3.0,Rocketman,Horror,1994,1990s
+148,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+148,20,4.0,Star Wars,Comedy,2007,2000s
+148,12,4.5,The Godfather,Animation,2003,2000s
+148,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+148,36,4.0,1917,Romance,1997,1990s
+148,8,4.5,Goodfellas,Horror,2007,2000s
+149,14,3.0,Toy Story,Drama,2004,2000s
+149,38,2.5,Rocketman,Horror,1994,1990s
+149,18,4.0,Avatar,Animation,2010,2010s
+149,8,2.5,Goodfellas,Horror,2007,2000s
+149,1,3.5,The Dark Knight,Horror,2003,2000s
+149,25,3.5,Spider-Man,Documentary,2004,2000s
+149,9,4.0,Fight Club,Animation,2015,2010s
+149,5,3.0,Interstellar,Horror,1995,1990s
+149,40,3.0,Moneyball,Thriller,1996,1990s
+149,11,3.0,Schindler's List,Thriller,1999,1990s
+149,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+149,2,4.0,Inception,Thriller,2006,2000s
+149,50,3.5,Gravity,Animation,1990,1990s
+149,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+149,16,3.0,The Lion King,Romance,2003,2000s
+149,13,3.5,Avengers: Endgame,Animation,2020,2020s
+149,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+149,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+149,26,2.5,Batman Begins,Action,1990,1990s
+149,29,2.5,Get Out,Horror,1998,1990s
+149,20,3.5,Star Wars,Comedy,2007,2000s
+149,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+149,12,3.0,The Godfather,Animation,2003,2000s
+149,6,3.0,Pulp Fiction,Adventure,1993,1990s
+149,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+150,15,5.0,Finding Nemo,Sci-Fi,1997,1990s
+150,43,4.0,The Departed,Adventure,2001,2000s
+150,12,5.0,The Godfather,Animation,2003,2000s
+150,45,5.0,There Will Be Blood,Adventure,2022,2020s
+150,46,4.5,Blade Runner 2049,Romance,2012,2010s
+150,18,5.0,Avatar,Animation,2010,2010s
+150,29,4.0,Get Out,Horror,1998,1990s
+150,24,4.0,Iron Man,Sci-Fi,2018,2010s
+150,14,5.0,Toy Story,Drama,2004,2000s
+150,50,5.0,Gravity,Animation,1990,1990s
+150,2,5.0,Inception,Thriller,2006,2000s
+150,44,4.0,No Country for Old Men,Documentary,2023,2020s
+150,20,5.0,Star Wars,Comedy,2007,2000s
+150,3,5.0,Forrest Gump,Animation,1993,1990s
+150,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+150,35,4.5,Dunkirk,Horror,2006,2000s
+150,40,4.5,Moneyball,Thriller,1996,1990s
+150,11,5.0,Schindler's List,Thriller,1999,1990s
+150,6,4.5,Pulp Fiction,Adventure,1993,1990s
+150,38,4.5,Rocketman,Horror,1994,1990s
+150,49,4.5,Arrival,Horror,2016,2010s
+150,8,4.0,Goodfellas,Horror,2007,2000s
+150,28,5.0,Parasite,Drama,1996,1990s
+150,22,5.0,Lord of the Rings,Action,2015,2010s
+150,16,5.0,The Lion King,Romance,2003,2000s
+150,23,5.0,The Hobbit,Adventure,2014,2010s
+150,32,5.0,La La Land,Drama,1997,1990s
+150,5,4.0,Interstellar,Horror,1995,1990s
+151,43,3.0,The Departed,Adventure,2001,2000s
+151,15,2.5,Finding Nemo,Sci-Fi,1997,1990s
+151,21,2.5,Harry Potter,Romance,2013,2010s
+151,49,1.5,Arrival,Horror,2016,2010s
+151,46,2.5,Blade Runner 2049,Romance,2012,2010s
+151,38,2.5,Rocketman,Horror,1994,1990s
+151,36,2.5,1917,Romance,1997,1990s
+151,22,3.5,Lord of the Rings,Action,2015,2010s
+151,31,3.0,Whiplash,Documentary,1990,1990s
+151,35,2.0,Dunkirk,Horror,2006,2000s
+151,8,3.0,Goodfellas,Horror,2007,2000s
+151,41,2.5,The Wolf of Wall Street,Documentary,1998,1990s
+151,10,1.5,The Silence of the Lambs,Romance,2023,2020s
+151,6,3.0,Pulp Fiction,Adventure,1993,1990s
+151,24,3.5,Iron Man,Sci-Fi,2018,2010s
+151,20,2.0,Star Wars,Comedy,2007,2000s
+151,5,3.0,Interstellar,Horror,1995,1990s
+151,18,3.0,Avatar,Animation,2010,2010s
+151,40,2.5,Moneyball,Thriller,1996,1990s
+151,25,2.5,Spider-Man,Documentary,2004,2000s
+152,25,3.5,Spider-Man,Documentary,2004,2000s
+152,31,3.0,Whiplash,Documentary,1990,1990s
+152,28,3.5,Parasite,Drama,1996,1990s
+152,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+152,1,2.5,The Dark Knight,Horror,2003,2000s
+152,8,2.5,Goodfellas,Horror,2007,2000s
+152,49,2.5,Arrival,Horror,2016,2010s
+153,43,4.0,The Departed,Adventure,2001,2000s
+153,40,3.5,Moneyball,Thriller,1996,1990s
+153,25,3.5,Spider-Man,Documentary,2004,2000s
+153,9,4.0,Fight Club,Animation,2015,2010s
+153,36,3.0,1917,Romance,1997,1990s
+153,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+153,21,3.5,Harry Potter,Romance,2013,2010s
+153,27,4.0,The Joker,Adventure,2014,2010s
+153,1,3.0,The Dark Knight,Horror,2003,2000s
+153,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+153,20,4.0,Star Wars,Comedy,2007,2000s
+153,16,3.0,The Lion King,Romance,2003,2000s
+153,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+153,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+153,28,3.5,Parasite,Drama,1996,1990s
+153,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+153,12,5.0,The Godfather,Animation,2003,2000s
+153,45,3.5,There Will Be Blood,Adventure,2022,2020s
+153,26,4.5,Batman Begins,Action,1990,1990s
+154,47,3.0,Ex Machina,Comedy,2013,2010s
+154,6,3.5,Pulp Fiction,Adventure,1993,1990s
+154,12,4.0,The Godfather,Animation,2003,2000s
+154,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+154,16,3.5,The Lion King,Romance,2003,2000s
+154,43,3.0,The Departed,Adventure,2001,2000s
+154,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+154,9,4.0,Fight Club,Animation,2015,2010s
+154,35,3.0,Dunkirk,Horror,2006,2000s
+154,11,3.5,Schindler's List,Thriller,1999,1990s
+154,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+154,8,2.0,Goodfellas,Horror,2007,2000s
+154,25,3.5,Spider-Man,Documentary,2004,2000s
+154,49,3.0,Arrival,Horror,2016,2010s
+154,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+154,5,3.0,Interstellar,Horror,1995,1990s
+154,50,4.0,Gravity,Animation,1990,1990s
+154,45,4.5,There Will Be Blood,Adventure,2022,2020s
+154,28,4.5,Parasite,Drama,1996,1990s
+154,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+154,40,3.5,Moneyball,Thriller,1996,1990s
+154,29,3.5,Get Out,Horror,1998,1990s
+154,46,3.5,Blade Runner 2049,Romance,2012,2010s
+154,38,3.0,Rocketman,Horror,1994,1990s
+154,24,4.0,Iron Man,Sci-Fi,2018,2010s
+154,1,3.0,The Dark Knight,Horror,2003,2000s
+154,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+154,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+154,48,4.0,Annihilation,Thriller,2011,2010s
+154,18,4.5,Avatar,Animation,2010,2010s
+155,28,5.0,Parasite,Drama,1996,1990s
+155,18,4.0,Avatar,Animation,2010,2010s
+155,20,4.5,Star Wars,Comedy,2007,2000s
+155,29,2.5,Get Out,Horror,1998,1990s
+155,39,3.0,The Social Network,Comedy,2017,2010s
+155,27,4.5,The Joker,Adventure,2014,2010s
+155,26,4.5,Batman Begins,Action,1990,1990s
+155,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+155,45,4.0,There Will Be Blood,Adventure,2022,2020s
+155,32,4.5,La La Land,Drama,1997,1990s
+155,5,3.5,Interstellar,Horror,1995,1990s
+155,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+155,49,3.5,Arrival,Horror,2016,2010s
+155,46,3.0,Blade Runner 2049,Romance,2012,2010s
+155,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+155,11,4.0,Schindler's List,Thriller,1999,1990s
+155,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+155,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+155,23,4.0,The Hobbit,Adventure,2014,2010s
+155,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+155,22,3.5,Lord of the Rings,Action,2015,2010s
+155,24,5.0,Iron Man,Sci-Fi,2018,2010s
+155,21,3.5,Harry Potter,Romance,2013,2010s
+155,48,4.0,Annihilation,Thriller,2011,2010s
+155,40,4.5,Moneyball,Thriller,1996,1990s
+155,17,4.5,Titanic,Comedy,2012,2010s
+155,1,3.5,The Dark Knight,Horror,2003,2000s
+156,17,4.5,Titanic,Comedy,2012,2010s
+156,46,4.5,Blade Runner 2049,Romance,2012,2010s
+156,47,4.5,Ex Machina,Comedy,2013,2010s
+156,50,5.0,Gravity,Animation,1990,1990s
+156,28,4.5,Parasite,Drama,1996,1990s
+156,9,5.0,Fight Club,Animation,2015,2010s
+156,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+156,11,4.5,Schindler's List,Thriller,1999,1990s
+156,6,5.0,Pulp Fiction,Adventure,1993,1990s
+156,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+156,5,5.0,Interstellar,Horror,1995,1990s
+156,40,4.5,Moneyball,Thriller,1996,1990s
+156,31,4.5,Whiplash,Documentary,1990,1990s
+156,39,4.0,The Social Network,Comedy,2017,2010s
+157,12,4.0,The Godfather,Animation,2003,2000s
+157,27,4.0,The Joker,Adventure,2014,2010s
+157,16,3.5,The Lion King,Romance,2003,2000s
+157,31,3.5,Whiplash,Documentary,1990,1990s
+157,24,3.5,Iron Man,Sci-Fi,2018,2010s
+157,49,3.5,Arrival,Horror,2016,2010s
+157,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+157,9,3.5,Fight Club,Animation,2015,2010s
+157,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+157,4,3.5,The Matrix,Romance,1991,1990s
+157,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+157,3,4.5,Forrest Gump,Animation,1993,1990s
+157,29,3.0,Get Out,Horror,1998,1990s
+157,5,2.5,Interstellar,Horror,1995,1990s
+157,20,4.0,Star Wars,Comedy,2007,2000s
+157,50,3.5,Gravity,Animation,1990,1990s
+157,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+157,48,4.0,Annihilation,Thriller,2011,2010s
+157,36,3.5,1917,Romance,1997,1990s
+158,5,3.5,Interstellar,Horror,1995,1990s
+158,47,3.5,Ex Machina,Comedy,2013,2010s
+158,29,4.0,Get Out,Horror,1998,1990s
+158,45,3.5,There Will Be Blood,Adventure,2022,2020s
+158,6,3.5,Pulp Fiction,Adventure,1993,1990s
+158,32,4.0,La La Land,Drama,1997,1990s
+158,24,3.5,Iron Man,Sci-Fi,2018,2010s
+158,11,3.5,Schindler's List,Thriller,1999,1990s
+158,8,3.5,Goodfellas,Horror,2007,2000s
+158,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+158,22,4.0,Lord of the Rings,Action,2015,2010s
+158,3,4.0,Forrest Gump,Animation,1993,1990s
+158,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+158,46,4.0,Blade Runner 2049,Romance,2012,2010s
+158,21,3.0,Harry Potter,Romance,2013,2010s
+158,9,3.5,Fight Club,Animation,2015,2010s
+158,38,3.0,Rocketman,Horror,1994,1990s
+158,2,4.0,Inception,Thriller,2006,2000s
+158,4,4.0,The Matrix,Romance,1991,1990s
+158,49,3.5,Arrival,Horror,2016,2010s
+158,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+158,50,4.0,Gravity,Animation,1990,1990s
+158,20,3.0,Star Wars,Comedy,2007,2000s
+158,12,4.5,The Godfather,Animation,2003,2000s
+158,17,4.5,Titanic,Comedy,2012,2010s
+158,14,4.0,Toy Story,Drama,2004,2000s
+158,43,3.5,The Departed,Adventure,2001,2000s
+158,40,4.0,Moneyball,Thriller,1996,1990s
+158,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+159,28,3.5,Parasite,Drama,1996,1990s
+159,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+159,18,4.5,Avatar,Animation,2010,2010s
+159,5,2.5,Interstellar,Horror,1995,1990s
+159,1,3.5,The Dark Knight,Horror,2003,2000s
+159,3,3.5,Forrest Gump,Animation,1993,1990s
+159,21,3.0,Harry Potter,Romance,2013,2010s
+159,13,3.5,Avengers: Endgame,Animation,2020,2020s
+159,50,4.0,Gravity,Animation,1990,1990s
+159,35,3.0,Dunkirk,Horror,2006,2000s
+159,7,3.0,The Shawshank Redemption,Drama,2018,2010s
+159,23,3.5,The Hobbit,Adventure,2014,2010s
+159,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+159,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+159,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+159,45,3.5,There Will Be Blood,Adventure,2022,2020s
+159,26,3.5,Batman Begins,Action,1990,1990s
+159,49,2.0,Arrival,Horror,2016,2010s
+159,20,4.0,Star Wars,Comedy,2007,2000s
+160,31,3.5,Whiplash,Documentary,1990,1990s
+160,24,4.5,Iron Man,Sci-Fi,2018,2010s
+160,11,4.0,Schindler's List,Thriller,1999,1990s
+160,44,3.0,No Country for Old Men,Documentary,2023,2020s
+160,21,3.0,Harry Potter,Romance,2013,2010s
+160,47,3.5,Ex Machina,Comedy,2013,2010s
+160,39,3.5,The Social Network,Comedy,2017,2010s
+160,32,4.0,La La Land,Drama,1997,1990s
+160,42,4.5,Catch Me If You Can,Comedy,1997,1990s
+160,28,4.5,Parasite,Drama,1996,1990s
+160,43,3.0,The Departed,Adventure,2001,2000s
+160,12,4.5,The Godfather,Animation,2003,2000s
+160,9,4.5,Fight Club,Animation,2015,2010s
+160,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+160,35,3.5,Dunkirk,Horror,2006,2000s
+160,1,2.5,The Dark Knight,Horror,2003,2000s
+160,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+161,36,3.5,1917,Romance,1997,1990s
+161,3,4.0,Forrest Gump,Animation,1993,1990s
+161,1,3.5,The Dark Knight,Horror,2003,2000s
+161,29,3.0,Get Out,Horror,1998,1990s
+161,46,2.5,Blade Runner 2049,Romance,2012,2010s
+161,5,1.5,Interstellar,Horror,1995,1990s
+161,25,2.5,Spider-Man,Documentary,2004,2000s
+161,38,2.5,Rocketman,Horror,1994,1990s
+161,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+161,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+161,26,3.0,Batman Begins,Action,1990,1990s
+161,8,3.0,Goodfellas,Horror,2007,2000s
+161,50,3.5,Gravity,Animation,1990,1990s
+161,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+161,12,4.0,The Godfather,Animation,2003,2000s
+161,20,3.5,Star Wars,Comedy,2007,2000s
+161,48,2.5,Annihilation,Thriller,2011,2010s
+161,4,3.0,The Matrix,Romance,1991,1990s
+162,26,3.5,Batman Begins,Action,1990,1990s
+162,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+162,31,3.0,Whiplash,Documentary,1990,1990s
+162,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+162,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+162,35,3.0,Dunkirk,Horror,2006,2000s
+162,23,3.5,The Hobbit,Adventure,2014,2010s
+162,29,3.0,Get Out,Horror,1998,1990s
+162,27,3.5,The Joker,Adventure,2014,2010s
+162,14,4.0,Toy Story,Drama,2004,2000s
+162,12,3.5,The Godfather,Animation,2003,2000s
+162,46,3.0,Blade Runner 2049,Romance,2012,2010s
+162,20,3.5,Star Wars,Comedy,2007,2000s
+162,36,2.5,1917,Romance,1997,1990s
+162,5,3.5,Interstellar,Horror,1995,1990s
+162,21,3.0,Harry Potter,Romance,2013,2010s
+162,40,3.5,Moneyball,Thriller,1996,1990s
+162,24,4.0,Iron Man,Sci-Fi,2018,2010s
+162,50,4.5,Gravity,Animation,1990,1990s
+163,23,4.5,The Hobbit,Adventure,2014,2010s
+163,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+163,26,4.0,Batman Begins,Action,1990,1990s
+163,44,4.0,No Country for Old Men,Documentary,2023,2020s
+163,3,3.5,Forrest Gump,Animation,1993,1990s
+163,17,3.5,Titanic,Comedy,2012,2010s
+163,31,3.5,Whiplash,Documentary,1990,1990s
+163,32,3.5,La La Land,Drama,1997,1990s
+163,14,4.0,Toy Story,Drama,2004,2000s
+163,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+163,39,3.5,The Social Network,Comedy,2017,2010s
+163,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+163,24,4.5,Iron Man,Sci-Fi,2018,2010s
+163,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+163,49,3.0,Arrival,Horror,2016,2010s
+163,16,3.0,The Lion King,Romance,2003,2000s
+163,47,3.0,Ex Machina,Comedy,2013,2010s
+163,13,4.0,Avengers: Endgame,Animation,2020,2020s
+163,5,3.0,Interstellar,Horror,1995,1990s
+163,28,4.0,Parasite,Drama,1996,1990s
+163,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+163,9,4.5,Fight Club,Animation,2015,2010s
+163,36,3.5,1917,Romance,1997,1990s
+163,40,4.0,Moneyball,Thriller,1996,1990s
+163,4,4.0,The Matrix,Romance,1991,1990s
+163,11,3.5,Schindler's List,Thriller,1999,1990s
+163,46,3.5,Blade Runner 2049,Romance,2012,2010s
+163,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+164,4,4.0,The Matrix,Romance,1991,1990s
+164,48,5.0,Annihilation,Thriller,2011,2010s
+164,44,4.0,No Country for Old Men,Documentary,2023,2020s
+164,40,4.0,Moneyball,Thriller,1996,1990s
+164,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+164,23,4.0,The Hobbit,Adventure,2014,2010s
+164,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+164,20,3.5,Star Wars,Comedy,2007,2000s
+165,18,3.5,Avatar,Animation,2010,2010s
+165,11,3.5,Schindler's List,Thriller,1999,1990s
+165,35,2.5,Dunkirk,Horror,2006,2000s
+165,10,2.0,The Silence of the Lambs,Romance,2023,2020s
+165,42,1.0,Catch Me If You Can,Comedy,1997,1990s
+165,12,3.0,The Godfather,Animation,2003,2000s
+165,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+165,9,3.0,Fight Club,Animation,2015,2010s
+165,32,3.0,La La Land,Drama,1997,1990s
+165,15,2.5,Finding Nemo,Sci-Fi,1997,1990s
+165,13,3.0,Avengers: Endgame,Animation,2020,2020s
+165,17,2.5,Titanic,Comedy,2012,2010s
+165,40,3.0,Moneyball,Thriller,1996,1990s
+165,21,2.5,Harry Potter,Romance,2013,2010s
+165,45,3.0,There Will Be Blood,Adventure,2022,2020s
+165,28,2.5,Parasite,Drama,1996,1990s
+165,7,3.0,The Shawshank Redemption,Drama,2018,2010s
+165,33,2.0,The Grand Budapest Hotel,Romance,2013,2010s
+165,44,2.5,No Country for Old Men,Documentary,2023,2020s
+165,22,3.0,Lord of the Rings,Action,2015,2010s
+165,29,2.5,Get Out,Horror,1998,1990s
+165,6,3.5,Pulp Fiction,Adventure,1993,1990s
+165,5,3.0,Interstellar,Horror,1995,1990s
+165,3,3.0,Forrest Gump,Animation,1993,1990s
+166,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+166,36,4.0,1917,Romance,1997,1990s
+166,17,4.0,Titanic,Comedy,2012,2010s
+166,16,3.0,The Lion King,Romance,2003,2000s
+166,48,4.5,Annihilation,Thriller,2011,2010s
+166,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+166,8,3.5,Goodfellas,Horror,2007,2000s
+166,40,4.0,Moneyball,Thriller,1996,1990s
+166,29,3.5,Get Out,Horror,1998,1990s
+166,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+166,12,4.0,The Godfather,Animation,2003,2000s
+166,14,3.5,Toy Story,Drama,2004,2000s
+166,5,3.5,Interstellar,Horror,1995,1990s
+166,21,3.5,Harry Potter,Romance,2013,2010s
+166,49,4.5,Arrival,Horror,2016,2010s
+166,46,4.0,Blade Runner 2049,Romance,2012,2010s
+166,45,3.5,There Will Be Blood,Adventure,2022,2020s
+166,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+166,9,3.5,Fight Club,Animation,2015,2010s
+166,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+166,50,4.5,Gravity,Animation,1990,1990s
+166,25,4.5,Spider-Man,Documentary,2004,2000s
+166,47,4.0,Ex Machina,Comedy,2013,2010s
+166,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+166,3,4.0,Forrest Gump,Animation,1993,1990s
+166,6,4.0,Pulp Fiction,Adventure,1993,1990s
+166,27,3.5,The Joker,Adventure,2014,2010s
+166,35,4.0,Dunkirk,Horror,2006,2000s
+167,46,3.5,Blade Runner 2049,Romance,2012,2010s
+167,50,4.0,Gravity,Animation,1990,1990s
+167,44,3.5,No Country for Old Men,Documentary,2023,2020s
+167,31,3.5,Whiplash,Documentary,1990,1990s
+167,6,4.5,Pulp Fiction,Adventure,1993,1990s
+167,11,3.5,Schindler's List,Thriller,1999,1990s
+167,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+167,39,3.5,The Social Network,Comedy,2017,2010s
+167,1,2.5,The Dark Knight,Horror,2003,2000s
+167,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+167,24,3.5,Iron Man,Sci-Fi,2018,2010s
+167,21,3.5,Harry Potter,Romance,2013,2010s
+167,25,4.0,Spider-Man,Documentary,2004,2000s
+167,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+167,45,3.5,There Will Be Blood,Adventure,2022,2020s
+167,14,3.5,Toy Story,Drama,2004,2000s
+167,36,3.5,1917,Romance,1997,1990s
+167,35,2.5,Dunkirk,Horror,2006,2000s
+167,32,4.0,La La Land,Drama,1997,1990s
+167,9,5.0,Fight Club,Animation,2015,2010s
+167,47,3.0,Ex Machina,Comedy,2013,2010s
+168,26,3.5,Batman Begins,Action,1990,1990s
+168,3,4.5,Forrest Gump,Animation,1993,1990s
+168,5,3.5,Interstellar,Horror,1995,1990s
+168,24,4.5,Iron Man,Sci-Fi,2018,2010s
+168,40,4.5,Moneyball,Thriller,1996,1990s
+168,29,4.0,Get Out,Horror,1998,1990s
+168,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+168,43,3.5,The Departed,Adventure,2001,2000s
+168,7,5.0,The Shawshank Redemption,Drama,2018,2010s
+168,1,4.0,The Dark Knight,Horror,2003,2000s
+168,18,4.5,Avatar,Animation,2010,2010s
+168,21,4.0,Harry Potter,Romance,2013,2010s
+168,17,4.5,Titanic,Comedy,2012,2010s
+168,44,4.0,No Country for Old Men,Documentary,2023,2020s
+168,50,4.5,Gravity,Animation,1990,1990s
+168,11,3.5,Schindler's List,Thriller,1999,1990s
+168,25,4.0,Spider-Man,Documentary,2004,2000s
+168,4,4.0,The Matrix,Romance,1991,1990s
+169,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+169,40,3.5,Moneyball,Thriller,1996,1990s
+169,13,3.0,Avengers: Endgame,Animation,2020,2020s
+169,21,3.5,Harry Potter,Romance,2013,2010s
+169,11,3.0,Schindler's List,Thriller,1999,1990s
+169,1,3.5,The Dark Knight,Horror,2003,2000s
+169,45,3.0,There Will Be Blood,Adventure,2022,2020s
+169,6,2.5,Pulp Fiction,Adventure,1993,1990s
+169,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+169,39,3.5,The Social Network,Comedy,2017,2010s
+169,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+169,2,3.0,Inception,Thriller,2006,2000s
+169,23,3.0,The Hobbit,Adventure,2014,2010s
+169,5,3.0,Interstellar,Horror,1995,1990s
+169,48,4.0,Annihilation,Thriller,2011,2010s
+169,22,3.0,Lord of the Rings,Action,2015,2010s
+169,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+170,4,3.5,The Matrix,Romance,1991,1990s
+170,3,5.0,Forrest Gump,Animation,1993,1990s
+170,21,4.0,Harry Potter,Romance,2013,2010s
+170,5,4.0,Interstellar,Horror,1995,1990s
+170,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+170,40,4.5,Moneyball,Thriller,1996,1990s
+170,36,4.0,1917,Romance,1997,1990s
+170,1,4.0,The Dark Knight,Horror,2003,2000s
+170,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+170,29,4.5,Get Out,Horror,1998,1990s
+170,31,4.0,Whiplash,Documentary,1990,1990s
+170,28,4.0,Parasite,Drama,1996,1990s
+170,50,5.0,Gravity,Animation,1990,1990s
+170,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+170,6,4.5,Pulp Fiction,Adventure,1993,1990s
+170,18,5.0,Avatar,Animation,2010,2010s
+170,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+170,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+170,12,4.0,The Godfather,Animation,2003,2000s
+171,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+171,23,3.0,The Hobbit,Adventure,2014,2010s
+171,6,3.5,Pulp Fiction,Adventure,1993,1990s
+171,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+171,12,3.0,The Godfather,Animation,2003,2000s
+171,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+171,43,3.5,The Departed,Adventure,2001,2000s
+171,38,3.0,Rocketman,Horror,1994,1990s
+171,17,2.5,Titanic,Comedy,2012,2010s
+171,21,3.0,Harry Potter,Romance,2013,2010s
+172,23,2.5,The Hobbit,Adventure,2014,2010s
+172,39,3.0,The Social Network,Comedy,2017,2010s
+172,44,2.0,No Country for Old Men,Documentary,2023,2020s
+172,8,1.5,Goodfellas,Horror,2007,2000s
+172,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+172,43,2.0,The Departed,Adventure,2001,2000s
+172,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+172,18,2.5,Avatar,Animation,2010,2010s
+172,4,3.0,The Matrix,Romance,1991,1990s
+172,24,3.0,Iron Man,Sci-Fi,2018,2010s
+172,22,2.5,Lord of the Rings,Action,2015,2010s
+172,48,3.5,Annihilation,Thriller,2011,2010s
+172,28,3.5,Parasite,Drama,1996,1990s
+172,45,2.5,There Will Be Blood,Adventure,2022,2020s
+172,25,1.5,Spider-Man,Documentary,2004,2000s
+172,11,2.5,Schindler's List,Thriller,1999,1990s
+172,9,3.5,Fight Club,Animation,2015,2010s
+172,33,1.5,The Grand Budapest Hotel,Romance,2013,2010s
+172,36,2.0,1917,Romance,1997,1990s
+172,14,2.5,Toy Story,Drama,2004,2000s
+172,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+172,35,2.5,Dunkirk,Horror,2006,2000s
+172,13,3.5,Avengers: Endgame,Animation,2020,2020s
+172,20,2.0,Star Wars,Comedy,2007,2000s
+172,29,2.0,Get Out,Horror,1998,1990s
+173,28,4.5,Parasite,Drama,1996,1990s
+173,11,4.0,Schindler's List,Thriller,1999,1990s
+173,43,4.5,The Departed,Adventure,2001,2000s
+173,27,4.5,The Joker,Adventure,2014,2010s
+173,22,4.0,Lord of the Rings,Action,2015,2010s
+173,46,3.5,Blade Runner 2049,Romance,2012,2010s
+173,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+173,35,3.5,Dunkirk,Horror,2006,2000s
+173,18,4.5,Avatar,Animation,2010,2010s
+173,32,5.0,La La Land,Drama,1997,1990s
+173,12,4.5,The Godfather,Animation,2003,2000s
+173,13,4.5,Avengers: Endgame,Animation,2020,2020s
+173,29,4.0,Get Out,Horror,1998,1990s
+173,23,5.0,The Hobbit,Adventure,2014,2010s
+173,44,4.5,No Country for Old Men,Documentary,2023,2020s
+173,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+173,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+173,5,3.0,Interstellar,Horror,1995,1990s
+173,39,3.5,The Social Network,Comedy,2017,2010s
+173,17,4.0,Titanic,Comedy,2012,2010s
+173,1,3.5,The Dark Knight,Horror,2003,2000s
+173,24,4.5,Iron Man,Sci-Fi,2018,2010s
+173,2,4.0,Inception,Thriller,2006,2000s
+174,1,2.5,The Dark Knight,Horror,2003,2000s
+174,29,4.0,Get Out,Horror,1998,1990s
+174,27,3.0,The Joker,Adventure,2014,2010s
+174,21,3.5,Harry Potter,Romance,2013,2010s
+174,3,3.5,Forrest Gump,Animation,1993,1990s
+174,43,2.5,The Departed,Adventure,2001,2000s
+174,22,3.5,Lord of the Rings,Action,2015,2010s
+174,48,3.5,Annihilation,Thriller,2011,2010s
+174,31,3.0,Whiplash,Documentary,1990,1990s
+174,17,3.5,Titanic,Comedy,2012,2010s
+174,14,3.0,Toy Story,Drama,2004,2000s
+174,37,2.5,Bohemian Rhapsody,Documentary,2022,2020s
+174,11,3.0,Schindler's List,Thriller,1999,1990s
+174,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+174,16,3.5,The Lion King,Romance,2003,2000s
+174,39,3.0,The Social Network,Comedy,2017,2010s
+174,8,2.5,Goodfellas,Horror,2007,2000s
+174,12,3.0,The Godfather,Animation,2003,2000s
+174,28,4.0,Parasite,Drama,1996,1990s
+174,5,2.5,Interstellar,Horror,1995,1990s
+175,17,2.0,Titanic,Comedy,2012,2010s
+175,23,3.0,The Hobbit,Adventure,2014,2010s
+175,38,2.0,Rocketman,Horror,1994,1990s
+175,9,2.5,Fight Club,Animation,2015,2010s
+175,12,3.5,The Godfather,Animation,2003,2000s
+175,48,3.5,Annihilation,Thriller,2011,2010s
+175,21,2.0,Harry Potter,Romance,2013,2010s
+176,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+176,14,4.0,Toy Story,Drama,2004,2000s
+176,20,3.5,Star Wars,Comedy,2007,2000s
+176,1,4.0,The Dark Knight,Horror,2003,2000s
+176,33,3.0,The Grand Budapest Hotel,Romance,2013,2010s
+176,12,4.0,The Godfather,Animation,2003,2000s
+176,39,3.5,The Social Network,Comedy,2017,2010s
+176,26,3.5,Batman Begins,Action,1990,1990s
+176,2,4.0,Inception,Thriller,2006,2000s
+176,13,5.0,Avengers: Endgame,Animation,2020,2020s
+176,29,3.0,Get Out,Horror,1998,1990s
+176,50,4.5,Gravity,Animation,1990,1990s
+176,16,2.5,The Lion King,Romance,2003,2000s
+176,44,3.5,No Country for Old Men,Documentary,2023,2020s
+176,23,4.5,The Hobbit,Adventure,2014,2010s
+176,38,3.0,Rocketman,Horror,1994,1990s
+176,24,4.0,Iron Man,Sci-Fi,2018,2010s
+176,22,3.5,Lord of the Rings,Action,2015,2010s
+176,18,4.0,Avatar,Animation,2010,2010s
+176,21,4.0,Harry Potter,Romance,2013,2010s
+176,3,3.5,Forrest Gump,Animation,1993,1990s
+176,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+176,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+176,35,3.0,Dunkirk,Horror,2006,2000s
+176,11,3.5,Schindler's List,Thriller,1999,1990s
+176,49,3.0,Arrival,Horror,2016,2010s
+176,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+176,17,3.0,Titanic,Comedy,2012,2010s
+177,11,4.0,Schindler's List,Thriller,1999,1990s
+177,16,3.5,The Lion King,Romance,2003,2000s
+177,22,4.0,Lord of the Rings,Action,2015,2010s
+177,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+177,23,3.5,The Hobbit,Adventure,2014,2010s
+177,6,4.0,Pulp Fiction,Adventure,1993,1990s
+177,5,3.0,Interstellar,Horror,1995,1990s
+177,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+177,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+177,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+177,1,3.5,The Dark Knight,Horror,2003,2000s
+177,18,3.5,Avatar,Animation,2010,2010s
+177,28,3.5,Parasite,Drama,1996,1990s
+177,49,3.5,Arrival,Horror,2016,2010s
+177,17,3.5,Titanic,Comedy,2012,2010s
+177,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+177,47,3.5,Ex Machina,Comedy,2013,2010s
+177,8,3.0,Goodfellas,Horror,2007,2000s
+177,31,3.5,Whiplash,Documentary,1990,1990s
+177,24,4.0,Iron Man,Sci-Fi,2018,2010s
+177,29,3.0,Get Out,Horror,1998,1990s
+177,35,3.5,Dunkirk,Horror,2006,2000s
+177,36,3.0,1917,Romance,1997,1990s
+177,43,4.0,The Departed,Adventure,2001,2000s
+177,3,4.5,Forrest Gump,Animation,1993,1990s
+177,12,3.5,The Godfather,Animation,2003,2000s
+178,8,3.5,Goodfellas,Horror,2007,2000s
+178,27,3.5,The Joker,Adventure,2014,2010s
+178,25,4.0,Spider-Man,Documentary,2004,2000s
+178,50,5.0,Gravity,Animation,1990,1990s
+178,13,4.5,Avengers: Endgame,Animation,2020,2020s
+178,16,3.0,The Lion King,Romance,2003,2000s
+178,35,3.5,Dunkirk,Horror,2006,2000s
+178,29,3.5,Get Out,Horror,1998,1990s
+178,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+178,39,4.0,The Social Network,Comedy,2017,2010s
+178,36,4.0,1917,Romance,1997,1990s
+178,18,4.5,Avatar,Animation,2010,2010s
+178,40,4.0,Moneyball,Thriller,1996,1990s
+178,4,4.0,The Matrix,Romance,1991,1990s
+178,42,4.0,Catch Me If You Can,Comedy,1997,1990s
+178,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+178,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+178,46,3.5,Blade Runner 2049,Romance,2012,2010s
+178,48,4.5,Annihilation,Thriller,2011,2010s
+178,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+178,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+178,5,4.0,Interstellar,Horror,1995,1990s
+178,45,4.0,There Will Be Blood,Adventure,2022,2020s
+178,17,3.5,Titanic,Comedy,2012,2010s
+178,28,5.0,Parasite,Drama,1996,1990s
+179,9,4.0,Fight Club,Animation,2015,2010s
+179,49,3.0,Arrival,Horror,2016,2010s
+179,26,3.5,Batman Begins,Action,1990,1990s
+179,10,4.0,The Silence of the Lambs,Romance,2023,2020s
+179,27,4.0,The Joker,Adventure,2014,2010s
+179,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+179,23,3.5,The Hobbit,Adventure,2014,2010s
+179,17,4.0,Titanic,Comedy,2012,2010s
+179,29,4.0,Get Out,Horror,1998,1990s
+179,3,4.5,Forrest Gump,Animation,1993,1990s
+179,46,3.5,Blade Runner 2049,Romance,2012,2010s
+179,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+179,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+179,15,5.0,Finding Nemo,Sci-Fi,1997,1990s
+179,32,4.5,La La Land,Drama,1997,1990s
+179,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+179,35,3.5,Dunkirk,Horror,2006,2000s
+179,2,4.5,Inception,Thriller,2006,2000s
+179,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+179,47,3.5,Ex Machina,Comedy,2013,2010s
+179,12,4.0,The Godfather,Animation,2003,2000s
+179,21,4.0,Harry Potter,Romance,2013,2010s
+179,31,4.0,Whiplash,Documentary,1990,1990s
+179,16,3.0,The Lion King,Romance,2003,2000s
+179,25,4.0,Spider-Man,Documentary,2004,2000s
+179,39,4.0,The Social Network,Comedy,2017,2010s
+179,43,4.0,The Departed,Adventure,2001,2000s
+179,34,5.0,Mad Max: Fury Road,Drama,2000,2000s
+179,14,4.5,Toy Story,Drama,2004,2000s
+179,38,4.0,Rocketman,Horror,1994,1990s
+180,50,4.0,Gravity,Animation,1990,1990s
+180,47,3.0,Ex Machina,Comedy,2013,2010s
+180,1,3.0,The Dark Knight,Horror,2003,2000s
+180,9,4.0,Fight Club,Animation,2015,2010s
+180,24,4.0,Iron Man,Sci-Fi,2018,2010s
+181,44,3.0,No Country for Old Men,Documentary,2023,2020s
+181,39,3.0,The Social Network,Comedy,2017,2010s
+181,11,2.5,Schindler's List,Thriller,1999,1990s
+181,29,3.0,Get Out,Horror,1998,1990s
+181,6,3.5,Pulp Fiction,Adventure,1993,1990s
+181,24,3.5,Iron Man,Sci-Fi,2018,2010s
+181,48,2.5,Annihilation,Thriller,2011,2010s
+181,33,2.0,The Grand Budapest Hotel,Romance,2013,2010s
+181,27,3.0,The Joker,Adventure,2014,2010s
+181,34,3.0,Mad Max: Fury Road,Drama,2000,2000s
+181,12,3.5,The Godfather,Animation,2003,2000s
+181,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+181,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+182,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+182,20,4.0,Star Wars,Comedy,2007,2000s
+182,11,4.5,Schindler's List,Thriller,1999,1990s
+182,50,4.0,Gravity,Animation,1990,1990s
+182,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+182,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+182,9,4.5,Fight Club,Animation,2015,2010s
+182,2,4.5,Inception,Thriller,2006,2000s
+182,13,5.0,Avengers: Endgame,Animation,2020,2020s
+182,40,3.5,Moneyball,Thriller,1996,1990s
+182,25,4.0,Spider-Man,Documentary,2004,2000s
+182,35,3.5,Dunkirk,Horror,2006,2000s
+182,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+182,12,4.5,The Godfather,Animation,2003,2000s
+182,43,3.0,The Departed,Adventure,2001,2000s
+182,5,3.5,Interstellar,Horror,1995,1990s
+182,24,3.5,Iron Man,Sci-Fi,2018,2010s
+182,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+182,29,3.5,Get Out,Horror,1998,1990s
+182,26,4.0,Batman Begins,Action,1990,1990s
+182,36,4.0,1917,Romance,1997,1990s
+182,38,3.5,Rocketman,Horror,1994,1990s
+182,17,3.0,Titanic,Comedy,2012,2010s
+182,21,2.5,Harry Potter,Romance,2013,2010s
+182,28,4.0,Parasite,Drama,1996,1990s
+182,16,3.5,The Lion King,Romance,2003,2000s
+183,36,3.0,1917,Romance,1997,1990s
+183,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+183,40,3.5,Moneyball,Thriller,1996,1990s
+183,31,4.0,Whiplash,Documentary,1990,1990s
+183,19,4.0,Jurassic Park,Sci-Fi,2005,2000s
+183,49,3.0,Arrival,Horror,2016,2010s
+183,43,3.5,The Departed,Adventure,2001,2000s
+183,46,2.5,Blade Runner 2049,Romance,2012,2010s
+183,22,4.0,Lord of the Rings,Action,2015,2010s
+183,38,3.0,Rocketman,Horror,1994,1990s
+183,50,4.5,Gravity,Animation,1990,1990s
+183,11,4.0,Schindler's List,Thriller,1999,1990s
+183,25,3.0,Spider-Man,Documentary,2004,2000s
+183,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+183,26,4.0,Batman Begins,Action,1990,1990s
+183,16,2.5,The Lion King,Romance,2003,2000s
+183,32,4.5,La La Land,Drama,1997,1990s
+183,37,3.0,Bohemian Rhapsody,Documentary,2022,2020s
+183,28,4.0,Parasite,Drama,1996,1990s
+183,47,3.5,Ex Machina,Comedy,2013,2010s
+183,18,4.5,Avatar,Animation,2010,2010s
+183,13,4.5,Avengers: Endgame,Animation,2020,2020s
+183,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+183,20,3.5,Star Wars,Comedy,2007,2000s
+183,5,3.5,Interstellar,Horror,1995,1990s
+183,44,3.5,No Country for Old Men,Documentary,2023,2020s
+183,4,3.5,The Matrix,Romance,1991,1990s
+183,48,4.0,Annihilation,Thriller,2011,2010s
+184,3,5.0,Forrest Gump,Animation,1993,1990s
+184,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+184,19,2.5,Jurassic Park,Sci-Fi,2005,2000s
+184,46,3.5,Blade Runner 2049,Romance,2012,2010s
+184,22,4.0,Lord of the Rings,Action,2015,2010s
+184,8,3.0,Goodfellas,Horror,2007,2000s
+184,40,4.0,Moneyball,Thriller,1996,1990s
+184,48,4.5,Annihilation,Thriller,2011,2010s
+184,32,4.0,La La Land,Drama,1997,1990s
+184,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+184,24,4.0,Iron Man,Sci-Fi,2018,2010s
+184,44,4.5,No Country for Old Men,Documentary,2023,2020s
+184,5,3.5,Interstellar,Horror,1995,1990s
+184,6,3.5,Pulp Fiction,Adventure,1993,1990s
+185,40,4.0,Moneyball,Thriller,1996,1990s
+185,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+185,3,4.0,Forrest Gump,Animation,1993,1990s
+185,27,3.0,The Joker,Adventure,2014,2010s
+185,28,4.0,Parasite,Drama,1996,1990s
+185,29,3.0,Get Out,Horror,1998,1990s
+185,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+185,14,3.5,Toy Story,Drama,2004,2000s
+185,11,3.0,Schindler's List,Thriller,1999,1990s
+185,2,3.0,Inception,Thriller,2006,2000s
+185,23,2.5,The Hobbit,Adventure,2014,2010s
+185,36,3.0,1917,Romance,1997,1990s
+186,32,3.5,La La Land,Drama,1997,1990s
+186,25,3.5,Spider-Man,Documentary,2004,2000s
+186,1,3.0,The Dark Knight,Horror,2003,2000s
+186,12,4.0,The Godfather,Animation,2003,2000s
+186,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+186,44,2.5,No Country for Old Men,Documentary,2023,2020s
+186,3,4.0,Forrest Gump,Animation,1993,1990s
+187,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+187,21,3.5,Harry Potter,Romance,2013,2010s
+187,44,4.0,No Country for Old Men,Documentary,2023,2020s
+187,27,3.0,The Joker,Adventure,2014,2010s
+187,50,5.0,Gravity,Animation,1990,1990s
+187,20,3.0,Star Wars,Comedy,2007,2000s
+187,5,3.0,Interstellar,Horror,1995,1990s
+187,26,3.0,Batman Begins,Action,1990,1990s
+188,13,5.0,Avengers: Endgame,Animation,2020,2020s
+188,14,5.0,Toy Story,Drama,2004,2000s
+188,50,4.0,Gravity,Animation,1990,1990s
+188,37,4.0,Bohemian Rhapsody,Documentary,2022,2020s
+188,27,4.0,The Joker,Adventure,2014,2010s
+188,47,4.0,Ex Machina,Comedy,2013,2010s
+188,18,5.0,Avatar,Animation,2010,2010s
+188,8,4.0,Goodfellas,Horror,2007,2000s
+188,38,4.0,Rocketman,Horror,1994,1990s
+188,4,3.5,The Matrix,Romance,1991,1990s
+188,45,4.5,There Will Be Blood,Adventure,2022,2020s
+188,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+188,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+188,6,4.5,Pulp Fiction,Adventure,1993,1990s
+188,22,4.5,Lord of the Rings,Action,2015,2010s
+188,1,3.5,The Dark Knight,Horror,2003,2000s
+188,49,4.5,Arrival,Horror,2016,2010s
+188,28,4.5,Parasite,Drama,1996,1990s
+188,11,4.5,Schindler's List,Thriller,1999,1990s
+188,32,4.5,La La Land,Drama,1997,1990s
+188,19,5.0,Jurassic Park,Sci-Fi,2005,2000s
+188,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+188,23,3.5,The Hobbit,Adventure,2014,2010s
+188,44,4.5,No Country for Old Men,Documentary,2023,2020s
+188,39,4.5,The Social Network,Comedy,2017,2010s
+188,33,4.0,The Grand Budapest Hotel,Romance,2013,2010s
+189,3,4.0,Forrest Gump,Animation,1993,1990s
+189,41,5.0,The Wolf of Wall Street,Documentary,1998,1990s
+189,13,5.0,Avengers: Endgame,Animation,2020,2020s
+189,21,4.0,Harry Potter,Romance,2013,2010s
+189,24,4.5,Iron Man,Sci-Fi,2018,2010s
+190,1,2.5,The Dark Knight,Horror,2003,2000s
+190,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+190,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+190,50,4.5,Gravity,Animation,1990,1990s
+190,48,4.0,Annihilation,Thriller,2011,2010s
+190,49,3.5,Arrival,Horror,2016,2010s
+190,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+190,22,4.0,Lord of the Rings,Action,2015,2010s
+190,25,3.5,Spider-Man,Documentary,2004,2000s
+190,45,3.5,There Will Be Blood,Adventure,2022,2020s
+190,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+190,18,4.5,Avatar,Animation,2010,2010s
+190,31,3.5,Whiplash,Documentary,1990,1990s
+190,40,3.5,Moneyball,Thriller,1996,1990s
+190,5,3.5,Interstellar,Horror,1995,1990s
+190,9,4.5,Fight Club,Animation,2015,2010s
+191,48,4.0,Annihilation,Thriller,2011,2010s
+191,7,3.5,The Shawshank Redemption,Drama,2018,2010s
+191,22,3.0,Lord of the Rings,Action,2015,2010s
+191,39,2.5,The Social Network,Comedy,2017,2010s
+191,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+191,45,3.5,There Will Be Blood,Adventure,2022,2020s
+191,46,3.0,Blade Runner 2049,Romance,2012,2010s
+191,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+191,35,2.5,Dunkirk,Horror,2006,2000s
+191,9,3.5,Fight Club,Animation,2015,2010s
+191,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+191,34,3.5,Mad Max: Fury Road,Drama,2000,2000s
+191,38,3.0,Rocketman,Horror,1994,1990s
+191,30,3.0,A Beautiful Mind,Thriller,2013,2010s
+191,18,4.5,Avatar,Animation,2010,2010s
+191,47,3.5,Ex Machina,Comedy,2013,2010s
+191,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+192,2,3.5,Inception,Thriller,2006,2000s
+192,9,4.0,Fight Club,Animation,2015,2010s
+192,43,4.5,The Departed,Adventure,2001,2000s
+192,19,4.5,Jurassic Park,Sci-Fi,2005,2000s
+192,33,3.5,The Grand Budapest Hotel,Romance,2013,2010s
+192,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+192,35,3.5,Dunkirk,Horror,2006,2000s
+192,20,3.5,Star Wars,Comedy,2007,2000s
+192,1,3.5,The Dark Knight,Horror,2003,2000s
+192,6,4.0,Pulp Fiction,Adventure,1993,1990s
+192,38,3.5,Rocketman,Horror,1994,1990s
+192,50,4.5,Gravity,Animation,1990,1990s
+192,26,3.5,Batman Begins,Action,1990,1990s
+192,28,4.0,Parasite,Drama,1996,1990s
+192,31,3.0,Whiplash,Documentary,1990,1990s
+192,5,4.0,Interstellar,Horror,1995,1990s
+193,16,2.5,The Lion King,Romance,2003,2000s
+193,26,3.0,Batman Begins,Action,1990,1990s
+193,32,3.5,La La Land,Drama,1997,1990s
+193,18,4.0,Avatar,Animation,2010,2010s
+193,1,2.5,The Dark Knight,Horror,2003,2000s
+193,14,4.0,Toy Story,Drama,2004,2000s
+193,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+193,50,4.0,Gravity,Animation,1990,1990s
+193,12,4.0,The Godfather,Animation,2003,2000s
+193,33,2.5,The Grand Budapest Hotel,Romance,2013,2010s
+193,42,2.5,Catch Me If You Can,Comedy,1997,1990s
+193,49,3.0,Arrival,Horror,2016,2010s
+193,41,3.0,The Wolf of Wall Street,Documentary,1998,1990s
+193,13,3.5,Avengers: Endgame,Animation,2020,2020s
+193,43,3.0,The Departed,Adventure,2001,2000s
+193,45,3.5,There Will Be Blood,Adventure,2022,2020s
+194,13,3.5,Avengers: Endgame,Animation,2020,2020s
+194,23,4.0,The Hobbit,Adventure,2014,2010s
+194,26,2.5,Batman Begins,Action,1990,1990s
+194,48,2.5,Annihilation,Thriller,2011,2010s
+194,10,2.5,The Silence of the Lambs,Romance,2023,2020s
+194,8,3.0,Goodfellas,Horror,2007,2000s
+194,27,3.0,The Joker,Adventure,2014,2010s
+194,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+194,9,3.5,Fight Club,Animation,2015,2010s
+194,28,4.5,Parasite,Drama,1996,1990s
+194,39,4.0,The Social Network,Comedy,2017,2010s
+194,4,3.5,The Matrix,Romance,1991,1990s
+194,25,2.5,Spider-Man,Documentary,2004,2000s
+194,36,2.5,1917,Romance,1997,1990s
+194,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+194,17,3.0,Titanic,Comedy,2012,2010s
+194,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+194,20,3.5,Star Wars,Comedy,2007,2000s
+195,48,4.5,Annihilation,Thriller,2011,2010s
+195,41,4.5,The Wolf of Wall Street,Documentary,1998,1990s
+195,26,5.0,Batman Begins,Action,1990,1990s
+195,16,4.0,The Lion King,Romance,2003,2000s
+195,45,5.0,There Will Be Blood,Adventure,2022,2020s
+195,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+195,20,4.0,Star Wars,Comedy,2007,2000s
+195,31,4.5,Whiplash,Documentary,1990,1990s
+195,49,4.0,Arrival,Horror,2016,2010s
+195,27,4.5,The Joker,Adventure,2014,2010s
+195,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+195,3,4.0,Forrest Gump,Animation,1993,1990s
+196,39,4.0,The Social Network,Comedy,2017,2010s
+196,23,3.5,The Hobbit,Adventure,2014,2010s
+196,11,3.5,Schindler's List,Thriller,1999,1990s
+196,14,4.5,Toy Story,Drama,2004,2000s
+196,30,4.5,A Beautiful Mind,Thriller,2013,2010s
+196,42,3.0,Catch Me If You Can,Comedy,1997,1990s
+196,44,4.0,No Country for Old Men,Documentary,2023,2020s
+196,16,3.5,The Lion King,Romance,2003,2000s
+196,15,3.5,Finding Nemo,Sci-Fi,1997,1990s
+196,48,4.5,Annihilation,Thriller,2011,2010s
+196,29,4.0,Get Out,Horror,1998,1990s
+196,13,4.0,Avengers: Endgame,Animation,2020,2020s
+196,7,4.5,The Shawshank Redemption,Drama,2018,2010s
+196,45,4.5,There Will Be Blood,Adventure,2022,2020s
+196,20,3.5,Star Wars,Comedy,2007,2000s
+196,47,3.5,Ex Machina,Comedy,2013,2010s
+196,6,3.5,Pulp Fiction,Adventure,1993,1990s
+196,40,4.0,Moneyball,Thriller,1996,1990s
+196,25,4.0,Spider-Man,Documentary,2004,2000s
+196,41,3.5,The Wolf of Wall Street,Documentary,1998,1990s
+196,17,2.5,Titanic,Comedy,2012,2010s
+196,32,4.5,La La Land,Drama,1997,1990s
+196,35,3.5,Dunkirk,Horror,2006,2000s
+196,36,3.5,1917,Romance,1997,1990s
+197,49,3.0,Arrival,Horror,2016,2010s
+197,18,4.5,Avatar,Animation,2010,2010s
+197,32,3.5,La La Land,Drama,1997,1990s
+197,44,3.5,No Country for Old Men,Documentary,2023,2020s
+197,15,3.0,Finding Nemo,Sci-Fi,1997,1990s
+197,11,4.0,Schindler's List,Thriller,1999,1990s
+197,34,4.0,Mad Max: Fury Road,Drama,2000,2000s
+197,45,3.5,There Will Be Blood,Adventure,2022,2020s
+197,30,3.5,A Beautiful Mind,Thriller,2013,2010s
+197,1,3.0,The Dark Knight,Horror,2003,2000s
+197,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+197,16,3.0,The Lion King,Romance,2003,2000s
+197,36,3.5,1917,Romance,1997,1990s
+197,14,4.0,Toy Story,Drama,2004,2000s
+197,25,4.0,Spider-Man,Documentary,2004,2000s
+197,10,3.5,The Silence of the Lambs,Romance,2023,2020s
+197,24,4.0,Iron Man,Sci-Fi,2018,2010s
+197,3,4.5,Forrest Gump,Animation,1993,1990s
+197,46,3.5,Blade Runner 2049,Romance,2012,2010s
+197,38,3.5,Rocketman,Horror,1994,1990s
+197,20,3.5,Star Wars,Comedy,2007,2000s
+197,19,3.0,Jurassic Park,Sci-Fi,2005,2000s
+197,2,4.0,Inception,Thriller,2006,2000s
+197,9,4.0,Fight Club,Animation,2015,2010s
+197,43,3.5,The Departed,Adventure,2001,2000s
+197,27,3.5,The Joker,Adventure,2014,2010s
+197,48,3.5,Annihilation,Thriller,2011,2010s
+198,13,4.5,Avengers: Endgame,Animation,2020,2020s
+198,27,5.0,The Joker,Adventure,2014,2010s
+198,45,4.0,There Will Be Blood,Adventure,2022,2020s
+198,17,3.5,Titanic,Comedy,2012,2010s
+198,50,4.0,Gravity,Animation,1990,1990s
+198,25,4.0,Spider-Man,Documentary,2004,2000s
+198,28,4.5,Parasite,Drama,1996,1990s
+198,43,4.5,The Departed,Adventure,2001,2000s
+198,5,3.0,Interstellar,Horror,1995,1990s
+198,47,3.5,Ex Machina,Comedy,2013,2010s
+198,41,4.0,The Wolf of Wall Street,Documentary,1998,1990s
+198,34,4.5,Mad Max: Fury Road,Drama,2000,2000s
+198,30,4.0,A Beautiful Mind,Thriller,2013,2010s
+198,35,4.0,Dunkirk,Horror,2006,2000s
+198,46,3.5,Blade Runner 2049,Romance,2012,2010s
+198,39,4.5,The Social Network,Comedy,2017,2010s
+198,37,4.5,Bohemian Rhapsody,Documentary,2022,2020s
+198,49,3.0,Arrival,Horror,2016,2010s
+198,32,4.0,La La Land,Drama,1997,1990s
+198,20,3.5,Star Wars,Comedy,2007,2000s
+198,4,4.0,The Matrix,Romance,1991,1990s
+198,3,4.0,Forrest Gump,Animation,1993,1990s
+198,15,4.0,Finding Nemo,Sci-Fi,1997,1990s
+198,44,4.0,No Country for Old Men,Documentary,2023,2020s
+199,15,4.5,Finding Nemo,Sci-Fi,1997,1990s
+199,17,4.0,Titanic,Comedy,2012,2010s
+199,45,3.5,There Will Be Blood,Adventure,2022,2020s
+199,14,4.5,Toy Story,Drama,2004,2000s
+199,46,4.5,Blade Runner 2049,Romance,2012,2010s
+199,26,4.0,Batman Begins,Action,1990,1990s
+200,11,4.0,Schindler's List,Thriller,1999,1990s
+200,19,3.5,Jurassic Park,Sci-Fi,2005,2000s
+200,32,3.5,La La Land,Drama,1997,1990s
+200,38,3.5,Rocketman,Horror,1994,1990s
+200,49,3.0,Arrival,Horror,2016,2010s
+200,23,4.5,The Hobbit,Adventure,2014,2010s
+200,29,4.0,Get Out,Horror,1998,1990s
+200,18,3.5,Avatar,Animation,2010,2010s
+200,14,4.0,Toy Story,Drama,2004,2000s
+200,48,3.0,Annihilation,Thriller,2011,2010s
+200,13,4.0,Avengers: Endgame,Animation,2020,2020s
+200,37,3.5,Bohemian Rhapsody,Documentary,2022,2020s
+200,25,3.0,Spider-Man,Documentary,2004,2000s
+200,44,3.0,No Country for Old Men,Documentary,2023,2020s
+200,42,3.5,Catch Me If You Can,Comedy,1997,1990s
+200,12,4.0,The Godfather,Animation,2003,2000s
+200,17,3.0,Titanic,Comedy,2012,2010s
+200,22,3.0,Lord of the Rings,Action,2015,2010s
+200,28,3.0,Parasite,Drama,1996,1990s
+200,45,3.0,There Will Be Blood,Adventure,2022,2020s
+200,10,3.0,The Silence of the Lambs,Romance,2023,2020s
+200,2,4.0,Inception,Thriller,2006,2000s
+200,7,4.0,The Shawshank Redemption,Drama,2018,2010s
+200,47,4.0,Ex Machina,Comedy,2013,2010s

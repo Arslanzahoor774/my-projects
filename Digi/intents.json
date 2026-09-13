@@ -1,0 +1,745 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "how_are_you",
+      "patterns": [
+        "how are you?"
+      ],
+      "responses": [
+        "I am good, thank you!",
+        "I'm doing well, how about you?",
+        "Feeling pretty good, thanks for asking.",
+        "All good here, how about you?"
+      ]
+    },
+    {
+      "tag": "name_inquiry",
+      "patterns": [
+        "what's your name",
+        "what is your name"
+      ],
+      "responses": [
+        "I am a chatbot.",
+        "You can call me Chatbot.",
+        "I go by Chatbot.",
+        "My name is Chatbot."
+      ]
+    },
+    {
+      "tag": "farewell",
+      "patterns": [
+        "bye",
+        "goodbye"
+      ],
+      "responses": [
+        "Goodbye!",
+        "See you later!",
+        "Bye!",
+        "Take care!",
+        "Until next time!",
+        "Farewell!",
+        "Bye-bye!"
+      ]
+    },
+    {
+      "tag": "weather_inquiry",
+      "patterns": [
+        "how's the weather",
+        "how is the weather"
+      ],
+      "responses": [
+        "It's sunny today!",
+        "Looks like rain later.",
+        "Perfect weather for a walk!",
+        "A bit chilly, but nothing a jacket can't fix.",
+        "Sunny with a chance of clouds.",
+        "It's foggy outside."
+      ]
+    },
+    {
+      "tag": "current_activity",
+      "patterns": [
+        "what are you doing"
+      ],
+      "responses": [
+        "Just chatting with you!",
+        "Answering your questions.",
+        "Nothing much, just being a chatbot."
+      ]
+    },
+    {
+      "tag": "current_status",
+      "patterns": [
+        "what's up",
+        "what is up"
+      ],
+      "responses": [
+        "Not much, just here to chat!",
+        "Just hanging out, what about you?",
+        "Just chilling, what's up with you?"
+      ]
+    },
+    {
+      "tag": "daily_status",
+      "patterns": [
+        "how was your day"
+      ],
+      "responses": [
+        "Pretty good, thanks for asking!",
+        "It was alright, nothing too exciting.",
+        "Fantastic, thanks for asking!",
+        "Could've been better, but overall not bad.",
+        "Long and tiring, but I'm here now!"
+      ]
+    },
+    {
+      "tag": "human_inquiry",
+      "patterns": [
+        "are you human"
+      ],
+      "responses": [
+        "I'm not human, but I try my best to chat like one!",
+        "Nope, I'm a chatbot designed to assist you."
+      ]
+    },
+    {
+      "tag": "interesting",
+      "patterns": [
+        "that's interesting",
+        "interesting"
+      ],
+      "responses": [
+        "That's Fascinating!",
+        "I'm intrigued!"
+      ]
+    },
+    {
+      "tag": "understanding",
+      "patterns": [
+        "I get what you mean",
+        "get what you mean"
+      ],
+      "responses": [
+        "I totally get what you mean!",
+        "Exactly!",
+        "I understand!"
+      ]
+    },
+    {
+      "tag": "knowledge",
+      "patterns": [
+        "oh, I know",
+        "know exactly"
+      ],
+      "responses": [
+        "Oh, I know exactly what you're talking about!",
+        "Absolutely!",
+        "I've been there!"
+      ]
+    },
+    {
+      "tag": "humor",
+      "patterns": [
+        "haha",
+        "that's hilarious"
+      ],
+      "responses": [
+        "Haha, that's hilarious!",
+        "You crack me up!",
+        "Too funny!"
+      ]
+    },
+    {
+      "tag": "surprise",
+      "patterns": [
+        "wow",
+        "didn't know"
+      ],
+      "responses": [
+        "Wow, I didn't know that!",
+        "That's news to me!",
+        "Interesting fact!"
+      ]
+    },
+    {
+      "tag": "agreement",
+      "patterns": [
+        "you're so right",
+        "you're right"
+      ],
+      "responses": [
+        "You're so right!",
+        "Spot on!",
+        "Exactly!"
+      ]
+    },
+    {
+      "tag": "full_agreement",
+      "patterns": [
+        "I agree",
+        "agree completely"
+      ],
+      "responses": [
+        "I agree completely!",
+        "Couldn't have said it better myself!",
+        "Absolutely!"
+      ]
+    },
+    {
+      "tag": "empathy",
+      "patterns": [
+        "I feel the same way",
+        "feel the same"
+      ],
+      "responses": [
+        "I feel the same way!",
+        "Me too!",
+        "Exactly how I'm feeling!"
+      ]
+    },
+    {
+      "tag": "confirmation",
+      "patterns": [
+        "exactly"
+      ],
+      "responses": [
+        "Exactly!",
+        "Spot on!",
+        "That's the one!"
+      ]
+    },
+    {
+      "tag": "experience",
+      "patterns": [
+        "I've been there",
+        "been there before"
+      ],
+      "responses": [
+        "Oh, I've been there before!",
+        "I know the feeling!",
+        "Been there, done that!"
+      ]
+    },
+    {
+      "tag": "plan_approval",
+      "patterns": [
+        "sounds like a plan",
+        "like a plan"
+      ],
+      "responses": [
+        "Sounds like a plan!",
+        "Count me in!",
+        "Let's do it!"
+      ]
+    },
+    {
+      "tag": "support",
+      "patterns": [
+        "I'm here for you",
+        "here for you"
+      ],
+      "responses": [
+        "I'm here for you!",
+        "You can count on me!",
+        "Always here to chat!"
+      ]
+    },
+    {
+      "tag": "appreciation",
+      "patterns": [
+        "you're the best",
+        "the best"
+      ],
+      "responses": [
+        "You're the best!",
+        "You're awesome!",
+        "You rock!"
+      ]
+    },
+    {
+      "tag": "gratitude",
+      "patterns": [
+        "thanks for sharing",
+        "for sharing"
+      ],
+      "responses": [
+        "Thanks for sharing!",
+        "Appreciate you opening up!",
+        "Sharing is caring!"
+      ]
+    },
+    {
+      "tag": "perspective_appreciation",
+      "patterns": [
+        "I appreciate your perspective",
+        "appreciate your perspective"
+      ],
+      "responses": [
+        "I appreciate your perspective!",
+        "Thanks for sharing your viewpoint!",
+        "Your insights are valuable!"
+      ]
+    },
+    {
+      "tag": "chatting_appreciation",
+      "patterns": [
+        "I'm glad we're chatting",
+        "glad we're chatting"
+      ],
+      "responses": [
+        "I'm glad we're chatting!",
+        "Me too!",
+        "Love our conversations!"
+      ]
+    },
+    {
+      "tag": "surprise_appreciation",
+      "patterns": [
+        "always full of surprises",
+        "full of surprises"
+      ],
+      "responses": [
+        "You're always full of surprises!",
+        "You never cease to amaze me!",
+        "You keep me on my toes!"
+      ]
+    },
+    {
+      "tag": "smile_appreciation",
+      "patterns": [
+        "you never fail to make me smile",
+        "make me smile"
+      ],
+      "responses": [
+        "You never fail to make me smile!",
+        "You brighten my day!",
+        "Your smile is contagious!"
+      ]
+    },
+    {
+      "tag": "conversation_flow_encouragement",
+      "patterns": [
+        "keep the conversation flowing",
+        "conversation flowing"
+      ],
+      "responses": [
+        "Keep the conversation flowing!",
+        "Let's keep talking!",
+        "I love our chats!"
+      ]
+    },
+    {
+      "tag": "chatting_enjoyment",
+      "patterns": [
+        "I love chatting with you",
+        "love chatting with you"
+      ],
+      "responses": [
+        "I love chatting with you!",
+        "You're one of my favorite people to talk to!",
+        "I always enjoy our conversations!"
+      ]
+    },
+    {
+      "tag": "conversation_continuation",
+      "patterns": [
+        "let's keep this conversation going",
+        "conversation going"
+      ],
+      "responses": [
+        "Let's keep this conversation going!",
+        "I'm enjoying this chat too much to stop!",
+        "Don't want this conversation to end!"
+      ]
+    },
+    {
+      "tag": "day_brightening",
+      "patterns": [
+        "making my day",
+        "make my day"
+      ],
+      "responses": [
+        "You're making my day!",
+        "Thanks for bringing a smile to my face!",
+        "You've made my day brighter!"
+      ]
+    },
+    {
+      "tag": "conversation_praise",
+      "patterns": [
+        "great conversationalist",
+        "conversationalist"
+      ],
+      "responses": [
+        "You're a great conversationalist!",
+        "I enjoy our chats so much!",
+        "Love talking to you!"
+      ]
+    },
+    {
+      "tag": "words_appreciation",
+      "patterns": [
+        "way with words",
+        "with words"
+      ],
+      "responses": [
+        "You have a way with words!",
+        "Your words always resonate with me!",
+        "I admire your eloquence!"
+      ]
+    },
+    {
+      "tag": "inspiration_acknowledgment",
+      "patterns": [
+        "inspired by your words",
+        "by your words"
+      ],
+      "responses": [
+        "I'm inspired by your words!",
+        "You always motivate me!",
+        "Thanks for inspiring me!"
+      ]
+    },
+    {
+      "tag": "joy_bringing",
+      "patterns": [
+        "bringing so much joy",
+        "so much joy"
+      ],
+      "responses": [
+        "Thanks for bringing so much joy to our conversation!",
+        "You always bring joy into my life!",
+        "Your happiness is contagious!"
+      ]
+    },
+    {
+      "tag": "vibe_appreciation",
+      "patterns": [
+        "love the vibe",
+        "the vibe you bring"
+      ],
+      "responses": [
+        "I love the vibe you bring to our chats!",
+        "Your energy is infectious!",
+        "Thanks for bringing such a positive vibe!"
+      ]
+    },
+    {
+      "tag": "depth_addition",
+      "patterns": [
+        "perspective always adds depth",
+        "adds depth to our discussions"
+      ],
+      "responses": [
+        "Your perspective always adds depth to our discussions!",
+        "You always provide insightful perspectives!",
+        "Thanks for adding depth to our conversations!"
+      ]
+    },
+    {
+      "tag": "true_conversationalist",
+      "patterns": [
+        "true conversationalist",
+        "conversationalist"
+      ],
+      "responses": [
+        "You're a true conversationalist!",
+        "I love talking to you!",
+        "You're an amazing chat partner!"
+      ]
+    },
+    {
+      "tag": "friendship_gratitude",
+      "patterns": [
+        "grateful for your friendship",
+        "your friendship"
+      ],
+      "responses": [
+        "I'm grateful for your friendship!",
+        "You're an amazing friend!",
+        "Thanks for being there for me!"
+      ]
+    },
+    {
+      "tag": "confirmation_response",
+      "patterns": [
+        "ok",
+        "done",
+        "yes"
+      ],
+      "responses": [
+        "sure",
+        "yup",
+        "fine"
+      ]
+    },
+    {
+      "tag": "happy",
+      "patterns": [
+        "happy",
+        "joy",
+        "cheerful",
+        "delighted",
+        "happiness"
+      ],
+      "responses": [
+        "That's wonderful to hear!",
+        "I'm glad you're feeling happy!",
+        "Happiness is contagious!",
+        "Your happiness brings a smile to my face!",
+        "It's fantastic to see you in such high spirits!",
+        "You radiate positivity, and it's contagious!",
+        "May your happiness continue to brighten your day!",
+        "Embrace the joy you feel, and let it spread to those around you!",
+        "There's nothing better than basking in the glow of happiness!",
+        "Your cheerful demeanor is a ray of sunshine on even the gloomiest days!",
+        "I hope this happiness stays with you for a long time!",
+        "Life is so much better when we choose to focus on the things that make us happy!",
+        "The world becomes a brighter place when you're filled with joy!"
+      ]
+    },
+    {
+      "tag": "sad",
+      "patterns": [
+        "sad",
+        "unhappy",
+        "depressed",
+        "sadness"
+      ],
+      "responses": [
+        "I'm sorry to hear that.",
+        "It's okay to feel sad sometimes.",
+        "I understand how you feel.",
+        "Would you like to talk about it?",
+        "Sending you virtual hugs!",
+        "Things will get better, I promise.",
+        "Remember, it's okay not to be okay.",
+        "I'm here for you if you need support.",
+        "You're not alone in feeling this way.",
+        "Take your time to process your emotions."
+      ]
+    },
+    {
+      "tag": "angry",
+      "patterns": [
+        "angry",
+        "mad",
+        "frustrated",
+        "anger"
+      ],
+      "responses": [
+        "Take a moment to cool off before reacting.",
+        "It's okay to feel angry, but let's try to address the issue calmly.",
+        "Expressing your feelings is important. What's bothering you?",
+        "Anger is a natural emotion, but it's important to manage it constructively.",
+        "Try to focus on finding a solution rather than dwelling on the problem.",
+        "Deep breaths can help you calm down. Inhale deeply, then exhale slowly.",
+        "Is there something specific that's causing your anger?",
+        "Remember, you have the power to control your reactions.",
+        "Don't let anger consume you. Let's work through this together.",
+        "Taking a break and stepping away from the situation can give you perspective."
+      ]
+    },
+    {
+      "tag": "fear",
+      "patterns": [
+        "fear",
+        "scared",
+        "anxious",
+        "fear"
+      ],
+      "responses": [
+        "It's okay to feel scared sometimes.",
+        "You're not alone, I'm here to help.",
+        "Fear is a natural emotion, and it's okay to acknowledge it.",
+        "Remember, it's normal to feel scared when facing the unknown.",
+        "You're not alone in feeling anxious; many people experience the same emotions.",
+        "Take a deep breath and focus on things you can control.",
+        "Facing your fears can be empowering and lead to personal growth.",
+        "Just know that you have the strength to overcome whatever challenges come your way.",
+        "Sometimes, talking about your fears can help alleviate them. I'm here to listen if you need someone to talk to.",
+        "You've faced challenges before, and you can overcome this one too.",
+        "Remember that fear is just a temporary feeling; it doesn't define you or your future.",
+        "Take small steps to confront your fears, and soon you'll see that they aren't as daunting as they seem."
+      ]
+    },
+    {
+      "tag": "surprised",
+      "patterns": [
+        "surprised",
+        "shocked",
+        "astonished",
+        "surprise"
+      ],
+      "responses": [
+        "Wow, that's unexpected!",
+        "Surprises can be exciting!",
+        "I didn't see that coming! What a surprise!",
+        "Well, that's a twist I didn't expect!",
+        "Surprises like that keep things interesting!",
+        "Your reaction says it all! What a pleasant surprise!",
+        "Isn't it amazing how life can still surprise us?",
+        "Unexpected moments like this make life so exciting!",
+        "Surprises often lead to the best stories!",
+        "You've left me pleasantly surprised with that revelation!",
+        "It's moments like these that make life worth living!",
+        "Embrace the surprise and enjoy the moment!"
+      ]
+    },
+    {
+      "tag": "disgust",
+      "patterns": [
+        "disgust",
+        "disgusted",
+        "repulsed",
+        "disgust"
+      ],
+      "responses": [
+        "I can see why you're feeling disgusted.",
+        "That must be really unpleasant.",
+        "It sounds like a situation that would make anyone feel repulsed.",
+        "Feeling disgusted is a natural reaction to such things.",
+        "It's okay to be repulsed by certain things.",
+        "I empathize with your feelings of disgust.",
+        "That sounds absolutely repulsive.",
+        "It's normal to feel repulsed by certain experiences.",
+        "I'm sorry you had to experience something so unpleasant.",
+        "Sometimes, things can be really disgusting."
+      ]
+    },
+    {
+      "tag": "open-minded",
+      "patterns": [
+        "open-minded",
+        "curious",
+        "creative",
+        "Openness to Experience"
+      ],
+      "responses": [
+        "I admire your open-mindedness!",
+        "Curiosity is the key to growth.",
+        "Creativity is a wonderful trait.",
+        "Your open-mindedness is truly inspiring!",
+        "Being curious opens doors to new possibilities.",
+        "Creativity allows us to see the world in new and exciting ways.",
+        "Your openness to new experiences is refreshing!",
+        "Exploring new ideas is a fantastic way to expand your horizons.",
+        "Embracing creativity leads to endless opportunities.",
+        "I admire your willingness to explore new concepts.",
+        "Curiosity is the spark that ignites innovation.",
+        "Your creative spirit shines brightly!",
+        "Keep fostering your curiosity; it's the key to endless discoveries."
+      ]
+    },
+    {
+      "tag": "responsible",
+      "patterns": [
+        "responsible",
+        "organized",
+        "disciplined",
+        "Conscientiousness"
+      ],
+      "responses": [
+        "Being responsible is admirable.",
+        "Organization leads to efficiency.",
+        "Discipline is essential for success.",
+        "Taking responsibility is a mark of maturity.",
+        "Your organized approach sets a great example.",
+        "Discipline is the bridge between goals and accomplishments.",
+        "Being responsible shows integrity and reliability.",
+        "Organizational skills are the cornerstone of productivity.",
+        "Discipline fuels progress and achievement.",
+        "Your commitment to being responsible is commendable.",
+        "Efficiency thrives in an organized environment.",
+        "Discipline is the key to turning dreams into reality.",
+        "Responsibility is the foundation of trust and respect."
+      ]
+    },
+    {
+      "tag": "social",
+      "patterns": [
+        "social",
+        "outgoing",
+        "energetic",
+        "Extraversion"
+      ],
+      "responses": [
+        "You seem like a very social person!",
+        "Being outgoing can lead to exciting opportunities.",
+        "Your energy is infectious.",
+        "Your social skills are impressive!",
+        "Being outgoing opens doors to new connections.",
+        "Your vibrant energy lights up the room.",
+        "It's great to see your outgoing personality shine.",
+        "Socializing brings joy and fulfillment.",
+        "Your energetic spirit is inspiring.",
+        "You bring so much positivity to social interactions.",
+        "Being outgoing helps create memorable experiences.",
+        "Your enthusiasm for life is contagious.",
+        "Your outgoing nature makes gatherings more enjoyable."
+      ]
+    },
+    {
+      "tag": "kind",
+      "patterns": [
+        "kind",
+        "compassionate",
+        "cooperative",
+        "Agreeableness"
+      ],
+      "responses": [
+        "Kindness is a virtue.",
+        "Compassion makes the world a better place.",
+        "Cooperation leads to harmony.",
+        "Your kindness brightens the day of those around you.",
+        "Compassion towards others is a wonderful trait.",
+        "Your cooperative nature fosters teamwork and collaboration.",
+        "Being kind creates positive ripple effects in the world.",
+        "Compassion is the key to understanding and empathy.",
+        "Cooperation brings people together to achieve common goals.",
+        "Your kindness touches the hearts of many.",
+        "Compassion is a language that everyone understands.",
+        "Cooperation builds strong and supportive communities.",
+        "Your agreeable nature makes interactions pleasant and harmonious."
+      ]
+    },
+    {
+      "tag": "anxious",
+      "patterns": [
+        "anxious",
+        "moody",
+        "worried",
+        "Neuroticism"
+      ],
+      "responses": [
+        "It's okay to feel anxious sometimes.",
+        "Moodiness is a part of being human.",
+        "Don't worry too much, things will be okay.",
+        "Remember to take deep breaths when feeling anxious.",
+        "Your mood may fluctuate, but it will pass.",
+        "Worrying too much can sometimes cloud our judgment.",
+        "It's important to address and manage anxiety for overall well-being.",
+        "Being moody is natural, but it's essential to find balance.",
+        "Find healthy outlets to express and cope with your mood swings.",
+        "When feeling worried, try focusing on the present moment.",
+        "Reach out to supportive friends or family when feeling anxious.",
+        "Practice self-care activities to alleviate moodiness and worry.",
+        "Take small steps to address your worries one at a time."
+      ]
+    }
+  ]
+}
